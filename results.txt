@@ -1,0 +1,1865 @@
+Image Fail: http://newtalk.tw/news/2014/09/18/51552.html
+Page Success: http://newtalk.tw/news/2014/09/18/51552.html   _id:nt2014091851552
+Image Success: http://newtalk.tw/news/2014/09/18/51539.html
+Page Success: http://newtalk.tw/news/2014/09/18/51539.html   _id:nt2014091851539
+Image Success: http://newtalk.tw/news/2014/09/18/51536.html
+Page Success: http://newtalk.tw/news/2014/09/18/51536.html   _id:nt2014091851536
+Image Success: http://newtalk.tw/news/2014/09/18/51533.html
+Page Success: http://newtalk.tw/news/2014/09/18/51533.html   _id:nt2014091851533
+Image Success: http://newtalk.tw/news/2014/09/18/51532.html
+Page Success: http://newtalk.tw/news/2014/09/18/51532.html   _id:nt2014091851532
+Image Fail: http://newtalk.tw/news/2014/09/18/51531.html
+Page Success: http://newtalk.tw/news/2014/09/18/51531.html   _id:nt2014091851531
+Image Success: http://newtalk.tw/news/2014/09/17/51507.html
+Page Success: http://newtalk.tw/news/2014/09/17/51507.html   _id:nt2014091751507
+Image Success: http://newtalk.tw/news/2014/09/17/51492.html
+Page Success: http://newtalk.tw/news/2014/09/17/51492.html   _id:nt2014091751492
+Image Success: http://newtalk.tw/news/2014/09/17/51491.html
+Page Success: http://newtalk.tw/news/2014/09/17/51491.html   _id:nt2014091751491
+Image Success: http://newtalk.tw/news/2014/09/17/51490.html
+Page Success: http://newtalk.tw/news/2014/09/17/51490.html   _id:nt2014091751490
+Image Success: http://newtalk.tw/news/2014/09/17/51489.html
+Page Success: http://newtalk.tw/news/2014/09/17/51489.html   _id:nt2014091751489
+Image Success: http://newtalk.tw/news/2014/09/17/51488.html
+Page Success: http://newtalk.tw/news/2014/09/17/51488.html   _id:nt2014091751488
+Image Success: http://newtalk.tw/news/2014/09/17/51487.html
+Page Success: http://newtalk.tw/news/2014/09/17/51487.html   _id:nt2014091751487
+Image Success: http://newtalk.tw/news/2014/09/16/51465.html
+Page Success: http://newtalk.tw/news/2014/09/16/51465.html   _id:nt2014091651465
+Image Success: http://newtalk.tw/news/2014/09/16/51444.html
+Page Success: http://newtalk.tw/news/2014/09/16/51444.html   _id:nt2014091651444
+Image Fail: http://newtalk.tw/news/2014/09/15/51442.html
+Page Success: http://newtalk.tw/news/2014/09/15/51442.html   _id:nt2014091551442
+Image Success: http://newtalk.tw/news/2014/09/15/51423.html
+Page Success: http://newtalk.tw/news/2014/09/15/51423.html   _id:nt2014091551423
+Image Success: http://newtalk.tw/news/2014/09/15/51419.html
+Page Success: http://newtalk.tw/news/2014/09/15/51419.html   _id:nt2014091551419
+Image Success: http://newtalk.tw/news/2014/09/15/51413.html
+Page Success: http://newtalk.tw/news/2014/09/15/51413.html   _id:nt2014091551413
+Image Fail: http://newtalk.tw/news/2014/09/15/51412.html
+Page Success: http://newtalk.tw/news/2014/09/15/51412.html   _id:nt2014091551412
+Image Success: http://newtalk.tw/news/2014/09/15/51411.html
+Page Success: http://newtalk.tw/news/2014/09/15/51411.html   _id:nt2014091551411
+Image Success: http://newtalk.tw/news/2014/09/15/51409.html
+Page Success: http://newtalk.tw/news/2014/09/15/51409.html   _id:nt2014091551409
+Image Fail: http://newtalk.tw/news/2014/09/14/51398.html
+Page Success: http://newtalk.tw/news/2014/09/14/51398.html   _id:nt2014091451398
+Image Success: http://newtalk.tw/news/2014/09/13/51387.html
+Page Success: http://newtalk.tw/news/2014/09/13/51387.html   _id:nt2014091351387
+Image Fail: http://newtalk.tw/news/2014/09/13/51379.html
+Page Success: http://newtalk.tw/news/2014/09/13/51379.html   _id:nt2014091351379
+Image Fail: http://newtalk.tw/news/2014/09/12/51359.html
+Page Success: http://newtalk.tw/news/2014/09/12/51359.html   _id:nt2014091251359
+Image Success: http://newtalk.tw/news/2014/09/12/51353.html
+Page Success: http://newtalk.tw/news/2014/09/12/51353.html   _id:nt2014091251353
+Image Success: http://newtalk.tw/news/2014/09/12/51332.html
+Page Success: http://newtalk.tw/news/2014/09/12/51332.html   _id:nt2014091251332
+Image Fail: http://newtalk.tw/news/2014/09/12/51331.html
+Page Success: http://newtalk.tw/news/2014/09/12/51331.html   _id:nt2014091251331
+Image Success: http://newtalk.tw/news/2014/09/11/51318.html
+Page Success: http://newtalk.tw/news/2014/09/11/51318.html   _id:nt2014091151318
+Image Success: http://newtalk.tw/news/2014/09/11/51281.html
+Page Success: http://newtalk.tw/news/2014/09/11/51281.html   _id:nt2014091151281
+Image Success: http://newtalk.tw/news/2014/09/11/51280.html
+Page Success: http://newtalk.tw/news/2014/09/11/51280.html   _id:nt2014091151280
+Image Success: http://newtalk.tw/news/2014/09/10/51272.html
+Page Success: http://newtalk.tw/news/2014/09/10/51272.html   _id:nt2014091051272
+Image Fail: http://newtalk.tw/news/2014/09/10/51251.html
+Page Success: http://newtalk.tw/news/2014/09/10/51251.html   _id:nt2014091051251
+Image Success: http://newtalk.tw/news/2014/09/10/51231.html
+Page Success: http://newtalk.tw/news/2014/09/10/51231.html   _id:nt2014091051231
+Image Success: http://newtalk.tw/news/2014/09/10/51229.html
+Page Success: http://newtalk.tw/news/2014/09/10/51229.html   _id:nt2014091051229
+Image Fail: http://newtalk.tw/news/2014/09/09/51200.html
+Page Success: http://newtalk.tw/news/2014/09/09/51200.html   _id:nt2014090951200
+Image Success: http://newtalk.tw/news/2014/09/09/51191.html
+Page Success: http://newtalk.tw/news/2014/09/09/51191.html   _id:nt2014090951191
+Image Success: http://newtalk.tw/news/2014/09/09/51190.html
+Page Success: http://newtalk.tw/news/2014/09/09/51190.html   _id:nt2014090951190
+Image Success: http://newtalk.tw/news/2014/09/09/51189.html
+Page Success: http://newtalk.tw/news/2014/09/09/51189.html   _id:nt2014090951189
+Image Success: http://newtalk.tw/news/2014/09/09/51188.html
+Page Success: http://newtalk.tw/news/2014/09/09/51188.html   _id:nt2014090951188
+Image Success: http://newtalk.tw/news/2014/09/09/51186.html
+Page Success: http://newtalk.tw/news/2014/09/09/51186.html   _id:nt2014090951186
+Image Success: http://newtalk.tw/news/2014/09/09/51185.html
+Page Success: http://newtalk.tw/news/2014/09/09/51185.html   _id:nt2014090951185
+Image Success: http://newtalk.tw/news/2014/09/08/51177.html
+Page Success: http://newtalk.tw/news/2014/09/08/51177.html   _id:nt2014090851177
+Image Success: http://newtalk.tw/news/2014/09/08/51172.html
+Page Success: http://newtalk.tw/news/2014/09/08/51172.html   _id:nt2014090851172
+Image Success: http://newtalk.tw/news/2014/09/06/51145.html
+Page Success: http://newtalk.tw/news/2014/09/06/51145.html   _id:nt2014090651145
+Image Fail: http://newtalk.tw/news/2014/09/05/51106.html
+Page Success: http://newtalk.tw/news/2014/09/05/51106.html   _id:nt2014090551106
+Image Success: http://newtalk.tw/news/2014/09/05/51101.html
+Page Success: http://newtalk.tw/news/2014/09/05/51101.html   _id:nt2014090551101
+Image Success: http://newtalk.tw/news/2014/09/05/51100.html
+Page Success: http://newtalk.tw/news/2014/09/05/51100.html   _id:nt2014090551100
+Image Success: http://newtalk.tw/news/2014/09/05/51097.html
+Page Success: http://newtalk.tw/news/2014/09/05/51097.html   _id:nt2014090551097
+Image Success: http://newtalk.tw/news/2014/09/04/51082.html
+Page Success: http://newtalk.tw/news/2014/09/04/51082.html   _id:nt2014090451082
+Image Success: http://newtalk.tw/news/2014/09/04/51078.html
+Page Success: http://newtalk.tw/news/2014/09/04/51078.html   _id:nt2014090451078
+Image Success: http://newtalk.tw/news/2014/09/04/51058.html
+Page Success: http://newtalk.tw/news/2014/09/04/51058.html   _id:nt2014090451058
+Image Success: http://newtalk.tw/news/2014/09/04/51050.html
+Page Success: http://newtalk.tw/news/2014/09/04/51050.html   _id:nt2014090451050
+Image Success: http://newtalk.tw/news/2014/09/04/51049.html
+Page Success: http://newtalk.tw/news/2014/09/04/51049.html   _id:nt2014090451049
+Image Success: http://newtalk.tw/news/2014/09/04/51048.html
+Page Success: http://newtalk.tw/news/2014/09/04/51048.html   _id:nt2014090451048
+Image Success: http://newtalk.tw/news/2014/09/04/51047.html
+Page Success: http://newtalk.tw/news/2014/09/04/51047.html   _id:nt2014090451047
+Image Success: http://newtalk.tw/news/2014/09/04/51046.html
+Page Success: http://newtalk.tw/news/2014/09/04/51046.html   _id:nt2014090451046
+Image Success: http://newtalk.tw/news/2014/09/03/51041.html
+Page Success: http://newtalk.tw/news/2014/09/03/51041.html   _id:nt2014090351041
+Image Success: http://newtalk.tw/news/2014/09/03/51029.html
+Page Success: http://newtalk.tw/news/2014/09/03/51029.html   _id:nt2014090351029
+Image Fail: http://newtalk.tw/news/2014/09/03/51014.html
+Page Success: http://newtalk.tw/news/2014/09/03/51014.html   _id:nt2014090351014
+Image Success: http://newtalk.tw/news/2014/09/03/51008.html
+Page Success: http://newtalk.tw/news/2014/09/03/51008.html   _id:nt2014090351008
+Image Success: http://newtalk.tw/news/2014/09/03/51007.html
+Page Success: http://newtalk.tw/news/2014/09/03/51007.html   _id:nt2014090351007
+Image Success: http://newtalk.tw/news/2014/09/03/51006.html
+Page Success: http://newtalk.tw/news/2014/09/03/51006.html   _id:nt2014090351006
+Image Success: http://newtalk.tw/news/2014/09/02/50969.html
+Page Success: http://newtalk.tw/news/2014/09/02/50969.html   _id:nt2014090250969
+Image Success: http://newtalk.tw/news/2014/09/02/50967.html
+Page Success: http://newtalk.tw/news/2014/09/02/50967.html   _id:nt2014090250967
+Image Fail: http://newtalk.tw/news/2014/09/01/50941.html
+Page Success: http://newtalk.tw/news/2014/09/01/50941.html   _id:nt2014090150941
+Image Success: http://newtalk.tw/news/2014/09/01/50931.html
+Page Success: http://newtalk.tw/news/2014/09/01/50931.html   _id:nt2014090150931
+Image Success: http://newtalk.tw/news/2014/09/01/50930.html
+Page Success: http://newtalk.tw/news/2014/09/01/50930.html   _id:nt2014090150930
+Image Success: http://newtalk.tw/news/2014/09/01/50929.html
+Page Success: http://newtalk.tw/news/2014/09/01/50929.html   _id:nt2014090150929
+Image Success: http://newtalk.tw/news/2014/09/01/50927.html
+Page Success: http://newtalk.tw/news/2014/09/01/50927.html   _id:nt2014090150927
+Image Fail: http://newtalk.tw/news/2014/08/30/50899.html
+Page Success: http://newtalk.tw/news/2014/08/30/50899.html   _id:nt2014083050899
+Image Fail: http://newtalk.tw/news/2014/08/30/50894.html
+Page Success: http://newtalk.tw/news/2014/08/30/50894.html   _id:nt2014083050894
+Image Fail: http://newtalk.tw/news/2014/08/30/50893.html
+Page Success: http://newtalk.tw/news/2014/08/30/50893.html   _id:nt2014083050893
+Image Success: http://newtalk.tw/news/2014/08/29/50886.html
+Page Success: http://newtalk.tw/news/2014/08/29/50886.html   _id:nt2014082950886
+Image Fail: http://newtalk.tw/news/2014/08/29/50872.html
+Page Success: http://newtalk.tw/news/2014/08/29/50872.html   _id:nt2014082950872
+Image Fail: http://newtalk.tw/news/2014/08/29/50861.html
+Page Success: http://newtalk.tw/news/2014/08/29/50861.html   _id:nt2014082950861
+Image Success: http://newtalk.tw/news/2014/08/29/50854.html
+Page Success: http://newtalk.tw/news/2014/08/29/50854.html   _id:nt2014082950854
+Image Success: http://newtalk.tw/news/2014/08/29/50853.html
+Page Success: http://newtalk.tw/news/2014/08/29/50853.html   _id:nt2014082950853
+Image Success: http://newtalk.tw/news/2014/08/29/50851.html
+Page Success: http://newtalk.tw/news/2014/08/29/50851.html   _id:nt2014082950851
+Image Fail: http://newtalk.tw/news/2014/08/28/50838.html
+Page Success: http://newtalk.tw/news/2014/08/28/50838.html   _id:nt2014082850838
+Image Success: http://newtalk.tw/news/2014/08/28/50825.html
+Page Success: http://newtalk.tw/news/2014/08/28/50825.html   _id:nt2014082850825
+Image Success: http://newtalk.tw/news/2014/08/28/50816.html
+Page Success: http://newtalk.tw/news/2014/08/28/50816.html   _id:nt2014082850816
+Image Success: http://newtalk.tw/news/2014/08/27/50792.html
+Page Success: http://newtalk.tw/news/2014/08/27/50792.html   _id:nt2014082750792
+Image Success: http://newtalk.tw/news/2014/08/27/50788.html
+Page Success: http://newtalk.tw/news/2014/08/27/50788.html   _id:nt2014082750788
+Image Success: http://newtalk.tw/news/2014/08/27/50785.html
+Page Success: http://newtalk.tw/news/2014/08/27/50785.html   _id:nt2014082750785
+Image Success: http://newtalk.tw/news/2014/08/27/50783.html
+Page Success: http://newtalk.tw/news/2014/08/27/50783.html   _id:nt2014082750783
+Image Success: http://newtalk.tw/news/2014/08/27/50782.html
+Page Success: http://newtalk.tw/news/2014/08/27/50782.html   _id:nt2014082750782
+Image Success: http://newtalk.tw/news/2014/08/27/50781.html
+Page Success: http://newtalk.tw/news/2014/08/27/50781.html   _id:nt2014082750781
+Image Success: http://newtalk.tw/news/2014/08/27/50780.html
+Page Success: http://newtalk.tw/news/2014/08/27/50780.html   _id:nt2014082750780
+Image Success: http://newtalk.tw/news/2014/08/26/50760.html
+Page Success: http://newtalk.tw/news/2014/08/26/50760.html   _id:nt2014082650760
+Image Success: http://newtalk.tw/news/2014/08/26/50745.html
+Page Success: http://newtalk.tw/news/2014/08/26/50745.html   _id:nt2014082650745
+Image Success: http://newtalk.tw/news/2014/08/26/50740.html
+Page Success: http://newtalk.tw/news/2014/08/26/50740.html   _id:nt2014082650740
+Image Success: http://newtalk.tw/news/2014/08/26/50738.html
+Page Success: http://newtalk.tw/news/2014/08/26/50738.html   _id:nt2014082650738
+Image Success: http://newtalk.tw/news/2014/08/25/50729.html
+Page Success: http://newtalk.tw/news/2014/08/25/50729.html   _id:nt2014082550729
+Image Success: http://newtalk.tw/news/2014/08/25/50722.html
+Page Success: http://newtalk.tw/news/2014/08/25/50722.html   _id:nt2014082550722
+Image Success: http://newtalk.tw/news/2014/08/25/50714.html
+Page Success: http://newtalk.tw/news/2014/08/25/50714.html   _id:nt2014082550714
+Image Fail: http://newtalk.tw/news/2014/08/25/50713.html
+Page Success: http://newtalk.tw/news/2014/08/25/50713.html   _id:nt2014082550713
+Image Success: http://newtalk.tw/news/2014/08/25/50707.html
+Page Success: http://newtalk.tw/news/2014/08/25/50707.html   _id:nt2014082550707
+Image Success: http://newtalk.tw/news/2014/08/25/50706.html
+Page Success: http://newtalk.tw/news/2014/08/25/50706.html   _id:nt2014082550706
+Image Success: http://newtalk.tw/news/2014/08/25/50705.html
+Page Success: http://newtalk.tw/news/2014/08/25/50705.html   _id:nt2014082550705
+Image Success: http://newtalk.tw/news/2014/08/23/50684.html
+Page Success: http://newtalk.tw/news/2014/08/23/50684.html   _id:nt2014082350684
+Image Success: http://newtalk.tw/news/2014/08/23/50675.html
+Page Success: http://newtalk.tw/news/2014/08/23/50675.html   _id:nt2014082350675
+Image Success: http://newtalk.tw/news/2014/08/23/50674.html
+Page Success: http://newtalk.tw/news/2014/08/23/50674.html   _id:nt2014082350674
+Image Fail: http://newtalk.tw/news/2014/08/23/50669.html
+Page Success: http://newtalk.tw/news/2014/08/23/50669.html   _id:nt2014082350669
+Image Fail: http://newtalk.tw/news/2014/08/22/50665.html
+Page Success: http://newtalk.tw/news/2014/08/22/50665.html   _id:nt2014082250665
+Image Fail: http://newtalk.tw/news/2014/08/22/50656.html
+Page Success: http://newtalk.tw/news/2014/08/22/50656.html   _id:nt2014082250656
+Image Success: http://newtalk.tw/news/2014/08/22/50646.html
+Page Success: http://newtalk.tw/news/2014/08/22/50646.html   _id:nt2014082250646
+Image Fail: http://newtalk.tw/news/2014/08/22/50642.html
+Page Success: http://newtalk.tw/news/2014/08/22/50642.html   _id:nt2014082250642
+Image Success: http://newtalk.tw/news/2014/08/22/50639.html
+Page Success: http://newtalk.tw/news/2014/08/22/50639.html   _id:nt2014082250639
+Image Success: http://newtalk.tw/news/2014/08/22/50630.html
+Page Success: http://newtalk.tw/news/2014/08/22/50630.html   _id:nt2014082250630
+Image Success: http://newtalk.tw/news/2014/08/22/50628.html
+Page Success: http://newtalk.tw/news/2014/08/22/50628.html   _id:nt2014082250628
+Image Fail: http://newtalk.tw/news/2014/09/18/51565.html
+Page Success: http://newtalk.tw/news/2014/09/18/51565.html   _id:nt2014091851565
+Image Success: http://newtalk.tw/news/2014/09/18/51564.html
+Page Success: http://newtalk.tw/news/2014/09/18/51564.html   _id:nt2014091851564
+Image Success: http://newtalk.tw/news/2014/09/18/51561.html
+Page Success: http://newtalk.tw/news/2014/09/18/51561.html   _id:nt2014091851561
+Image Success: http://newtalk.tw/news/2014/09/18/51545.html
+Page Success: http://newtalk.tw/news/2014/09/18/51545.html   _id:nt2014091851545
+Image Success: http://newtalk.tw/news/2014/09/18/51542.html
+Page Success: http://newtalk.tw/news/2014/09/18/51542.html   _id:nt2014091851542
+Image Success: http://newtalk.tw/news/2014/09/18/51535.html
+Page Success: http://newtalk.tw/news/2014/09/18/51535.html   _id:nt2014091851535
+Image Success: http://newtalk.tw/news/2014/09/17/51528.html
+Page Success: http://newtalk.tw/news/2014/09/17/51528.html   _id:nt2014091751528
+Image Success: http://newtalk.tw/news/2014/09/17/51522.html
+Page Success: http://newtalk.tw/news/2014/09/17/51522.html   _id:nt2014091751522
+Image Success: http://newtalk.tw/news/2014/09/17/51520.html
+Page Success: http://newtalk.tw/news/2014/09/17/51520.html   _id:nt2014091751520
+Image Success: http://newtalk.tw/news/2014/09/17/51516.html
+Page Success: http://newtalk.tw/news/2014/09/17/51516.html   _id:nt2014091751516
+Image Success: http://newtalk.tw/news/2014/09/17/51515.html
+Page Success: http://newtalk.tw/news/2014/09/17/51515.html   _id:nt2014091751515
+Image Success: http://newtalk.tw/news/2014/09/17/51514.html
+Page Success: http://newtalk.tw/news/2014/09/17/51514.html   _id:nt2014091751514
+Image Success: http://newtalk.tw/news/2014/09/17/51513.html
+Page Success: http://newtalk.tw/news/2014/09/17/51513.html   _id:nt2014091751513
+Image Success: http://newtalk.tw/news/2014/09/17/51499.html
+Page Success: http://newtalk.tw/news/2014/09/17/51499.html   _id:nt2014091751499
+Image Success: http://newtalk.tw/news/2014/09/17/51504.html
+Page Success: http://newtalk.tw/news/2014/09/17/51504.html   _id:nt2014091751504
+Image Success: http://newtalk.tw/news/2014/09/17/51503.html
+Page Success: http://newtalk.tw/news/2014/09/17/51503.html   _id:nt2014091751503
+Image Success: http://newtalk.tw/news/2014/09/17/51497.html
+Page Success: http://newtalk.tw/news/2014/09/17/51497.html   _id:nt2014091751497
+Image Success: http://newtalk.tw/news/2014/09/17/51501.html
+Page Success: http://newtalk.tw/news/2014/09/17/51501.html   _id:nt2014091751501
+Image Success: http://newtalk.tw/news/2014/09/17/51496.html
+Page Success: http://newtalk.tw/news/2014/09/17/51496.html   _id:nt2014091751496
+Image Success: http://newtalk.tw/news/2014/09/17/51494.html
+Page Success: http://newtalk.tw/news/2014/09/17/51494.html   _id:nt2014091751494
+Image Fail: http://newtalk.tw/news/2014/09/17/51486.html
+Page Success: http://newtalk.tw/news/2014/09/17/51486.html   _id:nt2014091751486
+Image Success: http://newtalk.tw/news/2014/09/16/51485.html
+Page Success: http://newtalk.tw/news/2014/09/16/51485.html   _id:nt2014091651485
+Image Success: http://newtalk.tw/news/2014/09/16/51484.html
+Page Success: http://newtalk.tw/news/2014/09/16/51484.html   _id:nt2014091651484
+Image Success: http://newtalk.tw/news/2014/09/16/51474.html
+Page Success: http://newtalk.tw/news/2014/09/16/51474.html   _id:nt2014091651474
+Image Success: http://newtalk.tw/news/2014/09/16/51472.html
+Page Success: http://newtalk.tw/news/2014/09/16/51472.html   _id:nt2014091651472
+Image Success: http://newtalk.tw/news/2014/09/16/51471.html
+Page Success: http://newtalk.tw/news/2014/09/16/51471.html   _id:nt2014091651471
+Image Success: http://newtalk.tw/news/2014/09/16/51470.html
+Page Success: http://newtalk.tw/news/2014/09/16/51470.html   _id:nt2014091651470
+Image Success: http://newtalk.tw/news/2014/09/16/51467.html
+Page Success: http://newtalk.tw/news/2014/09/16/51467.html   _id:nt2014091651467
+Image Success: http://newtalk.tw/news/2014/09/16/51466.html
+Page Success: http://newtalk.tw/news/2014/09/16/51466.html   _id:nt2014091651466
+Image Success: http://newtalk.tw/news/2014/09/16/51462.html
+Page Success: http://newtalk.tw/news/2014/09/16/51462.html   _id:nt2014091651462
+Image Success: http://newtalk.tw/news/2014/09/16/51456.html
+Page Success: http://newtalk.tw/news/2014/09/16/51456.html   _id:nt2014091651456
+Image Success: http://newtalk.tw/news/2014/09/16/51450.html
+Page Success: http://newtalk.tw/news/2014/09/16/51450.html   _id:nt2014091651450
+Image Success: http://newtalk.tw/news/2014/09/16/51448.html
+Page Success: http://newtalk.tw/news/2014/09/16/51448.html   _id:nt2014091651448
+Image Success: http://newtalk.tw/news/2014/09/15/51437.html
+Page Success: http://newtalk.tw/news/2014/09/15/51437.html   _id:nt2014091551437
+Image Success: http://newtalk.tw/news/2014/09/15/51428.html
+Page Success: http://newtalk.tw/news/2014/09/15/51428.html   _id:nt2014091551428
+Image Success: http://newtalk.tw/news/2014/09/15/51433.html
+Page Success: http://newtalk.tw/news/2014/09/15/51433.html   _id:nt2014091551433
+Image Success: http://newtalk.tw/news/2014/09/15/51427.html
+Page Success: http://newtalk.tw/news/2014/09/15/51427.html   _id:nt2014091551427
+Image Success: http://newtalk.tw/news/2014/09/15/51425.html
+Page Success: http://newtalk.tw/news/2014/09/15/51425.html   _id:nt2014091551425
+Image Success: http://newtalk.tw/news/2014/09/15/51418.html
+Page Success: http://newtalk.tw/news/2014/09/15/51418.html   _id:nt2014091551418
+Image Success: http://newtalk.tw/news/2014/09/15/51417.html
+Page Success: http://newtalk.tw/news/2014/09/15/51417.html   _id:nt2014091551417
+Image Success: http://newtalk.tw/news/2014/09/15/51414.html
+Page Success: http://newtalk.tw/news/2014/09/15/51414.html   _id:nt2014091551414
+Image Success: http://newtalk.tw/news/2014/09/14/51404.html
+Page Success: http://newtalk.tw/news/2014/09/14/51404.html   _id:nt2014091451404
+Image Success: http://newtalk.tw/news/2014/09/14/51396.html
+Page Success: http://newtalk.tw/news/2014/09/14/51396.html   _id:nt2014091451396
+Image Success: http://newtalk.tw/news/2014/09/14/51394.html
+Page Success: http://newtalk.tw/news/2014/09/14/51394.html   _id:nt2014091451394
+Image Success: http://newtalk.tw/news/2014/09/14/51392.html
+Page Success: http://newtalk.tw/news/2014/09/14/51392.html   _id:nt2014091451392
+Image Success: http://newtalk.tw/news/2014/09/14/51390.html
+Page Success: http://newtalk.tw/news/2014/09/14/51390.html   _id:nt2014091451390
+Image Success: http://newtalk.tw/news/2014/09/13/51384.html
+Page Success: http://newtalk.tw/news/2014/09/13/51384.html   _id:nt2014091351384
+Image Success: http://newtalk.tw/news/2014/09/13/51381.html
+Page Success: http://newtalk.tw/news/2014/09/13/51381.html   _id:nt2014091351381
+Image Success: http://newtalk.tw/news/2014/09/12/51358.html
+Page Success: http://newtalk.tw/news/2014/09/12/51358.html   _id:nt2014091251358
+Image Success: http://newtalk.tw/news/2014/09/12/51357.html
+Page Success: http://newtalk.tw/news/2014/09/12/51357.html   _id:nt2014091251357
+Image Success: http://newtalk.tw/news/2014/09/12/51345.html
+Page Success: http://newtalk.tw/news/2014/09/12/51345.html   _id:nt2014091251345
+Image Success: http://newtalk.tw/news/2014/09/12/51340.html
+Page Success: http://newtalk.tw/news/2014/09/12/51340.html   _id:nt2014091251340
+Image Fail: http://newtalk.tw/news/2014/09/12/51333.html
+Page Success: http://newtalk.tw/news/2014/09/12/51333.html   _id:nt2014091251333
+Image Success: http://newtalk.tw/news/2014/09/12/51327.html
+Page Success: http://newtalk.tw/news/2014/09/12/51327.html   _id:nt2014091251327
+Image Fail: http://newtalk.tw/news/2014/09/11/51324.html
+Page Success: http://newtalk.tw/news/2014/09/11/51324.html   _id:nt2014091151324
+Image Success: http://newtalk.tw/news/2014/09/11/51314.html
+Page Success: http://newtalk.tw/news/2014/09/11/51314.html   _id:nt2014091151314
+Image Success: http://newtalk.tw/news/2014/09/11/51317.html
+Page Success: http://newtalk.tw/news/2014/09/11/51317.html   _id:nt2014091151317
+Image Success: http://newtalk.tw/news/2014/09/11/51310.html
+Page Success: http://newtalk.tw/news/2014/09/11/51310.html   _id:nt2014091151310
+Image Fail: http://newtalk.tw/news/2014/09/11/51304.html
+Page Success: http://newtalk.tw/news/2014/09/11/51304.html   _id:nt2014091151304
+Image Success: http://newtalk.tw/news/2014/09/11/51300.html
+Page Success: http://newtalk.tw/news/2014/09/11/51300.html   _id:nt2014091151300
+Image Fail: http://newtalk.tw/news/2014/09/10/51259.html
+Page Success: http://newtalk.tw/news/2014/09/10/51259.html   _id:nt2014091051259
+Image Success: http://newtalk.tw/news/2014/09/10/51255.html
+Page Success: http://newtalk.tw/news/2014/09/10/51255.html   _id:nt2014091051255
+Image Success: http://newtalk.tw/news/2014/09/10/51248.html
+Page Success: http://newtalk.tw/news/2014/09/10/51248.html   _id:nt2014091051248
+Image Success: http://newtalk.tw/news/2014/09/10/51240.html
+Page Success: http://newtalk.tw/news/2014/09/10/51240.html   _id:nt2014091051240
+Image Success: http://newtalk.tw/news/2014/09/10/51233.html
+Page Success: http://newtalk.tw/news/2014/09/10/51233.html   _id:nt2014091051233
+Image Fail: http://newtalk.tw/news/2014/09/09/51209.html
+Page Success: http://newtalk.tw/news/2014/09/09/51209.html   _id:nt2014090951209
+Image Success: http://newtalk.tw/news/2014/09/09/51218.html
+Page Success: http://newtalk.tw/news/2014/09/09/51218.html   _id:nt2014090951218
+Image Success: http://newtalk.tw/news/2014/09/09/51208.html
+Page Success: http://newtalk.tw/news/2014/09/09/51208.html   _id:nt2014090951208
+Image Success: http://newtalk.tw/news/2014/09/09/51195.html
+Page Success: http://newtalk.tw/news/2014/09/09/51195.html   _id:nt2014090951195
+Image Success: http://newtalk.tw/news/2014/09/09/51194.html
+Page Success: http://newtalk.tw/news/2014/09/09/51194.html   _id:nt2014090951194
+Image Success: http://newtalk.tw/news/2014/09/05/51141.html
+Page Success: http://newtalk.tw/news/2014/09/05/51141.html   _id:nt2014090551141
+Image Success: http://newtalk.tw/news/2014/09/05/51130.html
+Page Success: http://newtalk.tw/news/2014/09/05/51130.html   _id:nt2014090551130
+Image Success: http://newtalk.tw/news/2014/09/05/51131.html
+Page Success: http://newtalk.tw/news/2014/09/05/51131.html   _id:nt2014090551131
+Image Success: http://newtalk.tw/news/2014/09/05/51127.html
+Page Success: http://newtalk.tw/news/2014/09/05/51127.html   _id:nt2014090551127
+Image Success: http://newtalk.tw/news/2014/09/05/51113.html
+Page Success: http://newtalk.tw/news/2014/09/05/51113.html   _id:nt2014090551113
+Image Success: http://newtalk.tw/news/2014/09/05/51110.html
+Page Success: http://newtalk.tw/news/2014/09/05/51110.html   _id:nt2014090551110
+Image Fail: http://newtalk.tw/news/2014/09/04/51094.html
+Page Success: http://newtalk.tw/news/2014/09/04/51094.html   _id:nt2014090451094
+Image Success: http://newtalk.tw/news/2014/09/04/51090.html
+Page Success: http://newtalk.tw/news/2014/09/04/51090.html   _id:nt2014090451090
+Image Success: http://newtalk.tw/news/2014/09/04/51084.html
+Page Success: http://newtalk.tw/news/2014/09/04/51084.html   _id:nt2014090451084
+Image Success: http://newtalk.tw/news/2014/09/04/51079.html
+Page Success: http://newtalk.tw/news/2014/09/04/51079.html   _id:nt2014090451079
+Image Success: http://newtalk.tw/news/2014/09/04/51061.html
+Page Success: http://newtalk.tw/news/2014/09/04/51061.html   _id:nt2014090451061
+Image Success: http://newtalk.tw/news/2014/09/04/51057.html
+Page Success: http://newtalk.tw/news/2014/09/04/51057.html   _id:nt2014090451057
+Image Success: http://newtalk.tw/news/2014/09/04/51053.html
+Page Success: http://newtalk.tw/news/2014/09/04/51053.html   _id:nt2014090451053
+Image Success: http://newtalk.tw/news/2014/09/03/51032.html
+Page Success: http://newtalk.tw/news/2014/09/03/51032.html   _id:nt2014090351032
+Image Success: http://newtalk.tw/news/2014/09/03/51033.html
+Page Success: http://newtalk.tw/news/2014/09/03/51033.html   _id:nt2014090351033
+Image Success: http://newtalk.tw/news/2014/09/03/51011.html
+Page Success: http://newtalk.tw/news/2014/09/03/51011.html   _id:nt2014090351011
+Image Success: http://newtalk.tw/news/2014/09/02/51004.html
+Page Success: http://newtalk.tw/news/2014/09/02/51004.html   _id:nt2014090251004
+Image Success: http://newtalk.tw/news/2014/09/02/50994.html
+Page Success: http://newtalk.tw/news/2014/09/02/50994.html   _id:nt2014090250994
+Image Success: http://newtalk.tw/news/2014/09/02/50989.html
+Page Success: http://newtalk.tw/news/2014/09/02/50989.html   _id:nt2014090250989
+Image Success: http://newtalk.tw/news/2014/09/02/50986.html
+Page Success: http://newtalk.tw/news/2014/09/02/50986.html   _id:nt2014090250986
+Image Success: http://newtalk.tw/news/2014/09/02/50976.html
+Page Success: http://newtalk.tw/news/2014/09/02/50976.html   _id:nt2014090250976
+Image Success: http://newtalk.tw/news/2014/09/02/50970.html
+Page Success: http://newtalk.tw/news/2014/09/02/50970.html   _id:nt2014090250970
+Image Success: http://newtalk.tw/news/2014/09/02/50971.html
+Page Success: http://newtalk.tw/news/2014/09/02/50971.html   _id:nt2014090250971
+Image Success: http://newtalk.tw/news/2014/09/01/50958.html
+Page Success: http://newtalk.tw/news/2014/09/01/50958.html   _id:nt2014090150958
+Image Fail: http://newtalk.tw/news/2014/09/01/50956.html
+Page Success: http://newtalk.tw/news/2014/09/01/50956.html   _id:nt2014090150956
+Image Success: http://newtalk.tw/news/2014/09/01/50955.html
+Page Success: http://newtalk.tw/news/2014/09/01/50955.html   _id:nt2014090150955
+Image Success: http://newtalk.tw/news/2014/09/01/50940.html
+Page Success: http://newtalk.tw/news/2014/09/01/50940.html   _id:nt2014090150940
+Image Success: http://newtalk.tw/news/2014/09/01/50936.html
+Page Success: http://newtalk.tw/news/2014/09/01/50936.html   _id:nt2014090150936
+Image Success: http://newtalk.tw/news/2014/09/01/50937.html
+Page Success: http://newtalk.tw/news/2014/09/01/50937.html   _id:nt2014090150937
+Image Success: http://newtalk.tw/news/2014/09/01/50934.html
+Page Success: http://newtalk.tw/news/2014/09/01/50934.html   _id:nt2014090150934
+Image Success: http://newtalk.tw/news/2014/09/01/50933.html
+Page Success: http://newtalk.tw/news/2014/09/01/50933.html   _id:nt2014090150933
+Image Success: http://newtalk.tw/news/2014/08/30/50906.html
+Page Success: http://newtalk.tw/news/2014/08/30/50906.html   _id:nt2014083050906
+Image Success: http://newtalk.tw/news/2014/08/30/50900.html
+Page Success: http://newtalk.tw/news/2014/08/30/50900.html   _id:nt2014083050900
+Image Success: http://newtalk.tw/news/2014/08/30/50892.html
+Page Success: http://newtalk.tw/news/2014/08/30/50892.html   _id:nt2014083050892
+Image Success: http://newtalk.tw/news/2014/08/29/50889.html
+Page Success: http://newtalk.tw/news/2014/08/29/50889.html   _id:nt2014082950889
+Image Success: http://newtalk.tw/news/2014/08/29/50879.html
+Page Success: http://newtalk.tw/news/2014/08/29/50879.html   _id:nt2014082950879
+Image Success: http://newtalk.tw/news/2014/08/29/50878.html
+Page Success: http://newtalk.tw/news/2014/08/29/50878.html   _id:nt2014082950878
+Image Success: http://newtalk.tw/news/2014/08/29/50874.html
+Page Success: http://newtalk.tw/news/2014/08/29/50874.html   _id:nt2014082950874
+Image Success: http://newtalk.tw/news/2014/08/29/50866.html
+Page Success: http://newtalk.tw/news/2014/08/29/50866.html   _id:nt2014082950866
+Image Success: http://newtalk.tw/news/2014/08/29/50865.html
+Page Success: http://newtalk.tw/news/2014/08/29/50865.html   _id:nt2014082950865
+Image Success: http://newtalk.tw/news/2014/08/29/50860.html
+Page Success: http://newtalk.tw/news/2014/08/29/50860.html   _id:nt2014082950860
+Image Success: http://newtalk.tw/news/2014/08/29/50855.html
+Page Success: http://newtalk.tw/news/2014/08/29/50855.html   _id:nt2014082950855
+Image Success: http://newtalk.tw/news/2014/08/29/50856.html
+Page Success: http://newtalk.tw/news/2014/08/29/50856.html   _id:nt2014082950856
+Image Success: http://newtalk.tw/news/2014/08/28/50850.html
+Page Success: http://newtalk.tw/news/2014/08/28/50850.html   _id:nt2014082850850
+Image Success: http://newtalk.tw/news/2014/08/28/50849.html
+Page Success: http://newtalk.tw/news/2014/08/28/50849.html   _id:nt2014082850849
+Image Success: http://newtalk.tw/news/2014/08/28/50843.html
+Page Success: http://newtalk.tw/news/2014/08/28/50843.html   _id:nt2014082850843
+Image Success: http://newtalk.tw/news/2014/08/28/50842.html
+Page Success: http://newtalk.tw/news/2014/08/28/50842.html   _id:nt2014082850842
+Image Success: http://newtalk.tw/news/2014/08/28/50841.html
+Page Success: http://newtalk.tw/news/2014/08/28/50841.html   _id:nt2014082850841
+Image Success: http://newtalk.tw/news/2014/08/28/50831.html
+Page Success: http://newtalk.tw/news/2014/08/28/50831.html   _id:nt2014082850831
+Image Success: http://newtalk.tw/news/2014/08/28/50830.html
+Page Success: http://newtalk.tw/news/2014/08/28/50830.html   _id:nt2014082850830
+Image Success: http://newtalk.tw/news/2014/08/28/50829.html
+Page Success: http://newtalk.tw/news/2014/08/28/50829.html   _id:nt2014082850829
+Image Success: http://newtalk.tw/news/2014/08/28/50823.html
+Page Success: http://newtalk.tw/news/2014/08/28/50823.html   _id:nt2014082850823
+Image Success: http://newtalk.tw/news/2014/08/28/50819.html
+Page Success: http://newtalk.tw/news/2014/08/28/50819.html   _id:nt2014082850819
+Image Fail: http://newtalk.tw/news/2014/08/27/50811.html
+Page Success: http://newtalk.tw/news/2014/08/27/50811.html   _id:nt2014082750811
+Image Success: http://newtalk.tw/news/2014/08/27/50805.html
+Page Success: http://newtalk.tw/news/2014/08/27/50805.html   _id:nt2014082750805
+Image Success: http://newtalk.tw/news/2014/08/27/50800.html
+Page Success: http://newtalk.tw/news/2014/08/27/50800.html   _id:nt2014082750800
+Image Success: http://newtalk.tw/news/2014/08/27/50801.html
+Page Success: http://newtalk.tw/news/2014/08/27/50801.html   _id:nt2014082750801
+Image Success: http://newtalk.tw/news/2014/08/27/50794.html
+Page Success: http://newtalk.tw/news/2014/08/27/50794.html   _id:nt2014082750794
+Image Success: http://newtalk.tw/news/2014/08/27/50790.html
+Page Success: http://newtalk.tw/news/2014/08/27/50790.html   _id:nt2014082750790
+Image Success: http://newtalk.tw/news/2014/08/26/50773.html
+Page Success: http://newtalk.tw/news/2014/08/26/50773.html   _id:nt2014082650773
+Image Success: http://newtalk.tw/news/2014/08/26/50770.html
+Page Success: http://newtalk.tw/news/2014/08/26/50770.html   _id:nt2014082650770
+Image Success: http://newtalk.tw/news/2014/08/26/50751.html
+Page Success: http://newtalk.tw/news/2014/08/26/50751.html   _id:nt2014082650751
+Image Success: http://newtalk.tw/news/2014/08/26/50744.html
+Page Success: http://newtalk.tw/news/2014/08/26/50744.html   _id:nt2014082650744
+Image Success: http://newtalk.tw/news/2014/08/26/50743.html
+Page Success: http://newtalk.tw/news/2014/08/26/50743.html   _id:nt2014082650743
+Image Success: http://newtalk.tw/news/2014/08/25/50732.html
+Page Success: http://newtalk.tw/news/2014/08/25/50732.html   _id:nt2014082550732
+Image Fail: http://newtalk.tw/news/2014/08/25/50727.html
+Page Success: http://newtalk.tw/news/2014/08/25/50727.html   _id:nt2014082550727
+Image Success: http://newtalk.tw/news/2014/08/25/50724.html
+Page Success: http://newtalk.tw/news/2014/08/25/50724.html   _id:nt2014082550724
+Image Success: http://newtalk.tw/news/2014/08/25/50718.html
+Page Success: http://newtalk.tw/news/2014/08/25/50718.html   _id:nt2014082550718
+Image Success: http://newtalk.tw/news/2014/08/25/50717.html
+Page Success: http://newtalk.tw/news/2014/08/25/50717.html   _id:nt2014082550717
+Image Success: http://newtalk.tw/news/2014/08/24/50692.html
+Page Success: http://newtalk.tw/news/2014/08/24/50692.html   _id:nt2014082450692
+Image Success: http://newtalk.tw/news/2014/08/24/50690.html
+Page Success: http://newtalk.tw/news/2014/08/24/50690.html   _id:nt2014082450690
+Image Success: http://newtalk.tw/news/2014/08/24/50688.html
+Page Success: http://newtalk.tw/news/2014/08/24/50688.html   _id:nt2014082450688
+Image Success: http://newtalk.tw/news/2014/08/24/50686.html
+Page Success: http://newtalk.tw/news/2014/08/24/50686.html   _id:nt2014082450686
+Image Success: http://newtalk.tw/news/2014/08/23/50685.html
+Page Success: http://newtalk.tw/news/2014/08/23/50685.html   _id:nt2014082350685
+Image Success: http://newtalk.tw/news/2014/08/23/50683.html
+Page Success: http://newtalk.tw/news/2014/08/23/50683.html   _id:nt2014082350683
+Image Success: http://newtalk.tw/news/2014/08/23/50680.html
+Page Success: http://newtalk.tw/news/2014/08/23/50680.html   _id:nt2014082350680
+Image Success: http://newtalk.tw/news/2014/08/23/50679.html
+Page Success: http://newtalk.tw/news/2014/08/23/50679.html   _id:nt2014082350679
+Image Success: http://newtalk.tw/news/2014/08/23/50671.html
+Page Success: http://newtalk.tw/news/2014/08/23/50671.html   _id:nt2014082350671
+Image Success: http://newtalk.tw/news/2014/08/23/50668.html
+Page Success: http://newtalk.tw/news/2014/08/23/50668.html   _id:nt2014082350668
+Image Success: http://newtalk.tw/news/2014/08/23/50667.html
+Page Success: http://newtalk.tw/news/2014/08/23/50667.html   _id:nt2014082350667
+Image Success: http://newtalk.tw/news/2014/08/23/50666.html
+Page Success: http://newtalk.tw/news/2014/08/23/50666.html   _id:nt2014082350666
+Image Success: http://newtalk.tw/news/2014/09/18/51549.html
+Page Success: http://newtalk.tw/news/2014/09/18/51549.html   _id:nt2014091851549
+Image Success: http://newtalk.tw/news/2014/09/12/51368.html
+Page Success: http://newtalk.tw/news/2014/09/12/51368.html   _id:nt2014091251368
+Image Success: http://newtalk.tw/news/2014/09/11/51306.html
+Page Success: http://newtalk.tw/news/2014/09/11/51306.html   _id:nt2014091151306
+Image Success: http://newtalk.tw/news/2014/09/11/51305.html
+Page Success: http://newtalk.tw/news/2014/09/11/51305.html   _id:nt2014091151305
+Image Fail: http://newtalk.tw/news/2014/09/11/51282.html
+Page Success: http://newtalk.tw/news/2014/09/11/51282.html   _id:nt2014091151282
+Image Success: http://newtalk.tw/news/2014/09/10/51265.html
+Page Success: http://newtalk.tw/news/2014/09/10/51265.html   _id:nt2014091051265
+Image Success: http://newtalk.tw/news/2014/09/10/51252.html
+Page Success: http://newtalk.tw/news/2014/09/10/51252.html   _id:nt2014091051252
+Image Success: http://newtalk.tw/news/2014/09/10/51244.html
+Page Success: http://newtalk.tw/news/2014/09/10/51244.html   _id:nt2014091051244
+Image Success: http://newtalk.tw/news/2014/09/09/51217.html
+Page Success: http://newtalk.tw/news/2014/09/09/51217.html   _id:nt2014090951217
+Image Success: http://newtalk.tw/news/2014/09/09/51214.html
+Page Success: http://newtalk.tw/news/2014/09/09/51214.html   _id:nt2014090951214
+Image Success: http://newtalk.tw/news/2014/09/09/51210.html
+Page Success: http://newtalk.tw/news/2014/09/09/51210.html   _id:nt2014090951210
+Image Success: http://newtalk.tw/news/2014/09/04/51069.html
+Page Success: http://newtalk.tw/news/2014/09/04/51069.html   _id:nt2014090451069
+Image Success: http://newtalk.tw/news/2014/09/04/51062.html
+Page Success: http://newtalk.tw/news/2014/09/04/51062.html   _id:nt2014090451062
+Image Success: http://newtalk.tw/news/2014/09/03/51031.html
+Page Success: http://newtalk.tw/news/2014/09/03/51031.html   _id:nt2014090351031
+Image Success: http://newtalk.tw/news/2014/09/03/51027.html
+Page Success: http://newtalk.tw/news/2014/09/03/51027.html   _id:nt2014090351027
+Image Success: http://newtalk.tw/news/2014/09/03/51024.html
+Page Success: http://newtalk.tw/news/2014/09/03/51024.html   _id:nt2014090351024
+Image Success: http://newtalk.tw/news/2014/09/03/51020.html
+Page Success: http://newtalk.tw/news/2014/09/03/51020.html   _id:nt2014090351020
+Image Success: http://newtalk.tw/news/2014/09/03/51007.html
+Page Fail: http://newtalk.tw/news/2014/09/03/51007.html
+Image Success: http://newtalk.tw/news/2014/09/01/50951.html
+Page Success: http://newtalk.tw/news/2014/09/01/50951.html   _id:nt2014090150951
+Image Success: http://newtalk.tw/news/2014/08/28/50835.html
+Page Success: http://newtalk.tw/news/2014/08/28/50835.html   _id:nt2014082850835
+Image Success: http://newtalk.tw/news/2014/08/28/50824.html
+Page Success: http://newtalk.tw/news/2014/08/28/50824.html   _id:nt2014082850824
+Image Success: http://newtalk.tw/news/2014/08/26/50739.html
+Page Success: http://newtalk.tw/news/2014/08/26/50739.html   _id:nt2014082650739
+Image Success: http://newtalk.tw/news/2014/09/17/51509.html
+Page Success: http://newtalk.tw/news/2014/09/17/51509.html   _id:nt2014091751509
+Image Fail: http://newtalk.tw/news/2014/09/16/51479.html
+Page Success: http://newtalk.tw/news/2014/09/16/51479.html   _id:nt2014091651479
+Image Success: http://newtalk.tw/news/2014/09/16/51445.html
+Page Success: http://newtalk.tw/news/2014/09/16/51445.html   _id:nt2014091651445
+Image Success: http://newtalk.tw/news/2014/09/13/51376.html
+Page Success: http://newtalk.tw/news/2014/09/13/51376.html   _id:nt2014091351376
+Image Fail: http://newtalk.tw/news/2014/09/12/51372.html
+Page Success: http://newtalk.tw/news/2014/09/12/51372.html   _id:nt2014091251372
+Image Success: http://newtalk.tw/news/2014/09/11/51285.html
+Page Success: http://newtalk.tw/news/2014/09/11/51285.html   _id:nt2014091151285
+Image Success: http://newtalk.tw/news/2014/09/10/51264.html
+Page Success: http://newtalk.tw/news/2014/09/10/51264.html   _id:nt2014091051264
+Image Success: http://newtalk.tw/news/2014/09/09/51211.html
+Page Success: http://newtalk.tw/news/2014/09/09/51211.html   _id:nt2014090951211
+Image Success: http://newtalk.tw/news/2014/09/09/51201.html
+Page Success: http://newtalk.tw/news/2014/09/09/51201.html   _id:nt2014090951201
+Image Success: http://newtalk.tw/news/2014/09/07/51168.html
+Page Success: http://newtalk.tw/news/2014/09/07/51168.html   _id:nt2014090751168
+Image Success: http://newtalk.tw/news/2014/09/06/51154.html
+Page Success: http://newtalk.tw/news/2014/09/06/51154.html   _id:nt2014090651154
+Image Fail: http://newtalk.tw/news/2014/09/05/51137.html
+Page Success: http://newtalk.tw/news/2014/09/05/51137.html   _id:nt2014090551137
+Image Success: http://newtalk.tw/news/2014/09/05/51132.html
+Page Success: http://newtalk.tw/news/2014/09/05/51132.html   _id:nt2014090551132
+Image Success: http://newtalk.tw/news/2014/09/05/51104.html
+Page Success: http://newtalk.tw/news/2014/09/05/51104.html   _id:nt2014090551104
+Image Success: http://newtalk.tw/news/2014/09/05/51080.html
+Page Success: http://newtalk.tw/news/2014/09/05/51080.html   _id:nt2014090551080
+Image Success: http://newtalk.tw/news/2014/09/04/51088.html
+Page Success: http://newtalk.tw/news/2014/09/04/51088.html   _id:nt2014090451088
+Image Success: http://newtalk.tw/news/2014/09/04/51086.html
+Page Success: http://newtalk.tw/news/2014/09/04/51086.html   _id:nt2014090451086
+Image Success: http://newtalk.tw/news/2014/09/04/51051.html
+Page Success: http://newtalk.tw/news/2014/09/04/51051.html   _id:nt2014090451051
+Image Success: http://newtalk.tw/news/2014/09/03/51023.html
+Page Success: http://newtalk.tw/news/2014/09/03/51023.html   _id:nt2014090351023
+Image Success: http://newtalk.tw/news/2014/09/03/51013.html
+Page Success: http://newtalk.tw/news/2014/09/03/51013.html   _id:nt2014090351013
+Image Success: http://newtalk.tw/news/2014/09/03/51017.html
+Page Success: http://newtalk.tw/news/2014/09/03/51017.html   _id:nt2014090351017
+Image Success: http://newtalk.tw/news/2014/09/02/50997.html
+Page Success: http://newtalk.tw/news/2014/09/02/50997.html   _id:nt2014090250997
+Image Success: http://newtalk.tw/news/2014/08/29/50885.html
+Page Success: http://newtalk.tw/news/2014/08/29/50885.html   _id:nt2014082950885
+Image Success: http://newtalk.tw/news/2014/08/29/50858.html
+Page Success: http://newtalk.tw/news/2014/08/29/50858.html   _id:nt2014082950858
+Image Success: http://newtalk.tw/news/2014/08/29/50882.html
+Page Success: http://newtalk.tw/news/2014/08/29/50882.html   _id:nt2014082950882
+Image Success: http://newtalk.tw/news/2014/08/29/50867.html
+Page Success: http://newtalk.tw/news/2014/08/29/50867.html   _id:nt2014082950867
+Image Fail: http://newtalk.tw/news/2014/08/29/50864.html
+Page Success: http://newtalk.tw/news/2014/08/29/50864.html   _id:nt2014082950864
+Image Success: http://newtalk.tw/news/2014/08/29/50857.html
+Page Success: http://newtalk.tw/news/2014/08/29/50857.html   _id:nt2014082950857
+Image Success: http://newtalk.tw/news/2014/08/29/50859.html
+Page Success: http://newtalk.tw/news/2014/08/29/50859.html   _id:nt2014082950859
+Image Success: http://newtalk.tw/news/2014/08/28/50848.html
+Page Success: http://newtalk.tw/news/2014/08/28/50848.html   _id:nt2014082850848
+Image Success: http://newtalk.tw/news/2014/08/28/50837.html
+Page Success: http://newtalk.tw/news/2014/08/28/50837.html   _id:nt2014082850837
+Image Success: http://newtalk.tw/news/2014/08/28/50839.html
+Page Success: http://newtalk.tw/news/2014/08/28/50839.html   _id:nt2014082850839
+Image Success: http://newtalk.tw/news/2014/08/28/50832.html
+Page Success: http://newtalk.tw/news/2014/08/28/50832.html   _id:nt2014082850832
+Image Success: http://newtalk.tw/news/2014/08/28/50821.html
+Page Success: http://newtalk.tw/news/2014/08/28/50821.html   _id:nt2014082850821
+Image Success: http://newtalk.tw/news/2014/08/27/50812.html
+Page Success: http://newtalk.tw/news/2014/08/27/50812.html   _id:nt2014082750812
+Image Success: http://newtalk.tw/news/2014/08/27/50810.html
+Page Success: http://newtalk.tw/news/2014/08/27/50810.html   _id:nt2014082750810
+Image Success: http://newtalk.tw/news/2014/08/27/50809.html
+Page Success: http://newtalk.tw/news/2014/08/27/50809.html   _id:nt2014082750809
+Image Success: http://newtalk.tw/news/2014/08/27/50796.html
+Page Success: http://newtalk.tw/news/2014/08/27/50796.html   _id:nt2014082750796
+Image Success: http://newtalk.tw/news/2014/08/27/50797.html
+Page Success: http://newtalk.tw/news/2014/08/27/50797.html   _id:nt2014082750797
+Image Success: http://newtalk.tw/news/2014/08/26/50766.html
+Page Success: http://newtalk.tw/news/2014/08/26/50766.html   _id:nt2014082650766
+Image Fail: http://newtalk.tw/news/2014/08/26/50767.html
+Page Success: http://newtalk.tw/news/2014/08/26/50767.html   _id:nt2014082650767
+Image Success: http://newtalk.tw/news/2014/08/26/50762.html
+Page Success: http://newtalk.tw/news/2014/08/26/50762.html   _id:nt2014082650762
+Image Success: http://newtalk.tw/news/2014/08/25/50737.html
+Page Success: http://newtalk.tw/news/2014/08/25/50737.html   _id:nt2014082550737
+Image Success: http://newtalk.tw/news/2014/08/25/50734.html
+Page Success: http://newtalk.tw/news/2014/08/25/50734.html   _id:nt2014082550734
+Image Success: http://newtalk.tw/news/2014/08/25/50731.html
+Page Success: http://newtalk.tw/news/2014/08/25/50731.html   _id:nt2014082550731
+Image Success: http://newtalk.tw/news/2014/08/25/50726.html
+Page Success: http://newtalk.tw/news/2014/08/25/50726.html   _id:nt2014082550726
+Image Success: http://newtalk.tw/news/2014/08/25/50723.html
+Page Success: http://newtalk.tw/news/2014/08/25/50723.html   _id:nt2014082550723
+Image Success: http://newtalk.tw/news/2014/08/25/50719.html
+Page Success: http://newtalk.tw/news/2014/08/25/50719.html   _id:nt2014082550719
+Image Success: http://newtalk.tw/news/2014/08/25/50710.html
+Page Success: http://newtalk.tw/news/2014/08/25/50710.html   _id:nt2014082550710
+Image Success: http://newtalk.tw/news/2014/08/25/50709.html
+Page Success: http://newtalk.tw/news/2014/08/25/50709.html   _id:nt2014082550709
+Image Success: http://newtalk.tw/news/2014/08/24/50693.html
+Page Success: http://newtalk.tw/news/2014/08/24/50693.html   _id:nt2014082450693
+Image Fail: http://newtalk.tw/news/2014/09/18/51556.html
+Page Success: http://newtalk.tw/news/2014/09/18/51556.html   _id:nt2014091851556
+Image Success: http://newtalk.tw/news/2014/09/18/51557.html
+Page Success: http://newtalk.tw/news/2014/09/18/51557.html   _id:nt2014091851557
+Image Success: http://newtalk.tw/news/2014/09/18/51566.html
+Page Success: http://newtalk.tw/news/2014/09/18/51566.html   _id:nt2014091851566
+Image Success: http://newtalk.tw/news/2014/09/18/51555.html
+Page Success: http://newtalk.tw/news/2014/09/18/51555.html   _id:nt2014091851555
+Image Success: http://newtalk.tw/news/2014/09/18/51551.html
+Page Success: http://newtalk.tw/news/2014/09/18/51551.html   _id:nt2014091851551
+Image Success: http://newtalk.tw/news/2014/09/18/51541.html
+Page Success: http://newtalk.tw/news/2014/09/18/51541.html   _id:nt2014091851541
+Image Success: http://newtalk.tw/news/2014/09/18/51546.html
+Page Success: http://newtalk.tw/news/2014/09/18/51546.html   _id:nt2014091851546
+Image Success: http://newtalk.tw/news/2014/09/18/51540.html
+Page Success: http://newtalk.tw/news/2014/09/18/51540.html   _id:nt2014091851540
+Image Success: http://newtalk.tw/news/2014/09/18/51530.html
+Page Success: http://newtalk.tw/news/2014/09/18/51530.html   _id:nt2014091851530
+Image Success: http://newtalk.tw/news/2014/09/17/51525.html
+Page Success: http://newtalk.tw/news/2014/09/17/51525.html   _id:nt2014091751525
+Image Success: http://newtalk.tw/news/2014/09/17/51519.html
+Page Success: http://newtalk.tw/news/2014/09/17/51519.html   _id:nt2014091751519
+Image Success: http://newtalk.tw/news/2014/09/17/51517.html
+Page Success: http://newtalk.tw/news/2014/09/17/51517.html   _id:nt2014091751517
+Image Success: http://newtalk.tw/news/2014/09/17/51512.html
+Page Success: http://newtalk.tw/news/2014/09/17/51512.html   _id:nt2014091751512
+Image Fail: http://newtalk.tw/news/2014/09/17/51511.html
+Page Success: http://newtalk.tw/news/2014/09/17/51511.html   _id:nt2014091751511
+Image Success: http://newtalk.tw/news/2014/09/17/51508.html
+Page Success: http://newtalk.tw/news/2014/09/17/51508.html   _id:nt2014091751508
+Image Success: http://newtalk.tw/news/2014/09/17/51505.html
+Page Success: http://newtalk.tw/news/2014/09/17/51505.html   _id:nt2014091751505
+Image Fail: http://newtalk.tw/news/2014/09/16/51483.html
+Page Success: http://newtalk.tw/news/2014/09/16/51483.html   _id:nt2014091651483
+Image Success: http://newtalk.tw/news/2014/09/16/51478.html
+Page Success: http://newtalk.tw/news/2014/09/16/51478.html   _id:nt2014091651478
+Image Success: http://newtalk.tw/news/2014/09/16/51469.html
+Page Success: http://newtalk.tw/news/2014/09/16/51469.html   _id:nt2014091651469
+Image Success: http://newtalk.tw/news/2014/09/16/51473.html
+Page Success: http://newtalk.tw/news/2014/09/16/51473.html   _id:nt2014091651473
+Image Success: http://newtalk.tw/news/2014/09/16/51460.html
+Page Success: http://newtalk.tw/news/2014/09/16/51460.html   _id:nt2014091651460
+Image Success: http://newtalk.tw/news/2014/09/16/51453.html
+Page Success: http://newtalk.tw/news/2014/09/16/51453.html   _id:nt2014091651453
+Image Success: http://newtalk.tw/news/2014/09/16/51461.html
+Page Success: http://newtalk.tw/news/2014/09/16/51461.html   _id:nt2014091651461
+Image Success: http://newtalk.tw/news/2014/09/16/51457.html
+Page Success: http://newtalk.tw/news/2014/09/16/51457.html   _id:nt2014091651457
+Image Success: http://newtalk.tw/news/2014/09/15/51435.html
+Page Success: http://newtalk.tw/news/2014/09/15/51435.html   _id:nt2014091551435
+Image Success: http://newtalk.tw/news/2014/09/15/51436.html
+Page Success: http://newtalk.tw/news/2014/09/15/51436.html   _id:nt2014091551436
+Image Success: http://newtalk.tw/news/2014/09/15/51434.html
+Page Success: http://newtalk.tw/news/2014/09/15/51434.html   _id:nt2014091551434
+Image Success: http://newtalk.tw/news/2014/09/15/51432.html
+Page Success: http://newtalk.tw/news/2014/09/15/51432.html   _id:nt2014091551432
+Image Success: http://newtalk.tw/news/2014/09/15/51431.html
+Page Success: http://newtalk.tw/news/2014/09/15/51431.html   _id:nt2014091551431
+Image Fail: http://newtalk.tw/news/2014/09/15/51422.html
+Page Success: http://newtalk.tw/news/2014/09/15/51422.html   _id:nt2014091551422
+Image Success: http://newtalk.tw/news/2014/09/15/51421.html
+Page Success: http://newtalk.tw/news/2014/09/15/51421.html   _id:nt2014091551421
+Image Success: http://newtalk.tw/news/2014/09/15/51416.html
+Page Success: http://newtalk.tw/news/2014/09/15/51416.html   _id:nt2014091551416
+Image Success: http://newtalk.tw/news/2014/09/15/51408.html
+Page Success: http://newtalk.tw/news/2014/09/15/51408.html   _id:nt2014091551408
+Image Success: http://newtalk.tw/news/2014/09/14/51406.html
+Page Success: http://newtalk.tw/news/2014/09/14/51406.html   _id:nt2014091451406
+Image Success: http://newtalk.tw/news/2014/09/14/51400.html
+Page Success: http://newtalk.tw/news/2014/09/14/51400.html   _id:nt2014091451400
+Image Success: http://newtalk.tw/news/2014/09/14/51399.html
+Page Success: http://newtalk.tw/news/2014/09/14/51399.html   _id:nt2014091451399
+Image Success: http://newtalk.tw/news/2014/09/14/51397.html
+Page Success: http://newtalk.tw/news/2014/09/14/51397.html   _id:nt2014091451397
+Image Success: http://newtalk.tw/news/2014/09/13/51386.html
+Page Success: http://newtalk.tw/news/2014/09/13/51386.html   _id:nt2014091351386
+Image Success: http://newtalk.tw/news/2014/09/13/51383.html
+Page Success: http://newtalk.tw/news/2014/09/13/51383.html   _id:nt2014091351383
+Image Success: http://newtalk.tw/news/2014/09/13/51382.html
+Page Success: http://newtalk.tw/news/2014/09/13/51382.html   _id:nt2014091351382
+Image Success: http://newtalk.tw/news/2014/09/13/51377.html
+Page Success: http://newtalk.tw/news/2014/09/13/51377.html   _id:nt2014091351377
+Image Success: http://newtalk.tw/news/2014/09/13/51374.html
+Page Success: http://newtalk.tw/news/2014/09/13/51374.html   _id:nt2014091351374
+Image Fail: http://newtalk.tw/news/2014/09/12/51369.html
+Page Success: http://newtalk.tw/news/2014/09/12/51369.html   _id:nt2014091251369
+Image Success: http://newtalk.tw/news/2014/09/12/51367.html
+Page Success: http://newtalk.tw/news/2014/09/12/51367.html   _id:nt2014091251367
+Image Success: http://newtalk.tw/news/2014/09/12/51365.html
+Page Success: http://newtalk.tw/news/2014/09/12/51365.html   _id:nt2014091251365
+Image Success: http://newtalk.tw/news/2014/09/12/51364.html
+Page Success: http://newtalk.tw/news/2014/09/12/51364.html   _id:nt2014091251364
+Image Success: http://newtalk.tw/news/2014/09/12/51363.html
+Page Success: http://newtalk.tw/news/2014/09/12/51363.html   _id:nt2014091251363
+Image Success: http://newtalk.tw/news/2014/09/12/51361.html
+Page Success: http://newtalk.tw/news/2014/09/12/51361.html   _id:nt2014091251361
+Image Success: http://newtalk.tw/news/2014/09/12/51362.html
+Page Success: http://newtalk.tw/news/2014/09/12/51362.html   _id:nt2014091251362
+Image Success: http://newtalk.tw/news/2014/09/12/51360.html
+Page Success: http://newtalk.tw/news/2014/09/12/51360.html   _id:nt2014091251360
+Image Success: http://newtalk.tw/news/2014/09/12/51356.html
+Page Success: http://newtalk.tw/news/2014/09/12/51356.html   _id:nt2014091251356
+Image Success: http://newtalk.tw/news/2014/09/12/51348.html
+Page Success: http://newtalk.tw/news/2014/09/12/51348.html   _id:nt2014091251348
+Image Success: http://newtalk.tw/news/2014/09/12/51354.html
+Page Success: http://newtalk.tw/news/2014/09/12/51354.html   _id:nt2014091251354
+Image Success: http://newtalk.tw/news/2014/09/12/51350.html
+Page Success: http://newtalk.tw/news/2014/09/12/51350.html   _id:nt2014091251350
+Image Success: http://newtalk.tw/news/2014/09/12/51346.html
+Page Success: http://newtalk.tw/news/2014/09/12/51346.html   _id:nt2014091251346
+Image Success: http://newtalk.tw/news/2014/09/12/51349.html
+Page Success: http://newtalk.tw/news/2014/09/12/51349.html   _id:nt2014091251349
+Image Success: http://newtalk.tw/news/2014/09/12/51341.html
+Page Success: http://newtalk.tw/news/2014/09/12/51341.html   _id:nt2014091251341
+Image Fail: http://newtalk.tw/news/2014/09/12/51342.html
+Page Success: http://newtalk.tw/news/2014/09/12/51342.html   _id:nt2014091251342
+Image Success: http://newtalk.tw/news/2014/09/12/51343.html
+Page Success: http://newtalk.tw/news/2014/09/12/51343.html   _id:nt2014091251343
+Image Success: http://newtalk.tw/news/2014/09/12/51335.html
+Page Success: http://newtalk.tw/news/2014/09/12/51335.html   _id:nt2014091251335
+Image Fail: http://newtalk.tw/news/2014/09/11/51321.html
+Page Success: http://newtalk.tw/news/2014/09/11/51321.html   _id:nt2014091151321
+Image Success: http://newtalk.tw/news/2014/09/11/51320.html
+Page Success: http://newtalk.tw/news/2014/09/11/51320.html   _id:nt2014091151320
+Image Success: http://newtalk.tw/news/2014/09/11/51312.html
+Page Success: http://newtalk.tw/news/2014/09/11/51312.html   _id:nt2014091151312
+Image Success: http://newtalk.tw/news/2014/09/11/51309.html
+Page Success: http://newtalk.tw/news/2014/09/11/51309.html   _id:nt2014091151309
+Image Success: http://newtalk.tw/news/2014/09/11/51299.html
+Page Success: http://newtalk.tw/news/2014/09/11/51299.html   _id:nt2014091151299
+Image Success: http://newtalk.tw/news/2014/09/11/51301.html
+Page Success: http://newtalk.tw/news/2014/09/11/51301.html   _id:nt2014091151301
+Image Success: http://newtalk.tw/news/2014/09/11/51297.html
+Page Success: http://newtalk.tw/news/2014/09/11/51297.html   _id:nt2014091151297
+Image Success: http://newtalk.tw/news/2014/09/11/51298.html
+Page Success: http://newtalk.tw/news/2014/09/11/51298.html   _id:nt2014091151298
+Image Success: http://newtalk.tw/news/2014/09/11/51295.html
+Page Success: http://newtalk.tw/news/2014/09/11/51295.html   _id:nt2014091151295
+Image Success: http://newtalk.tw/news/2014/09/11/51291.html
+Page Success: http://newtalk.tw/news/2014/09/11/51291.html   _id:nt2014091151291
+Image Success: http://newtalk.tw/news/2014/09/11/51288.html
+Page Success: http://newtalk.tw/news/2014/09/11/51288.html   _id:nt2014091151288
+Image Success: http://newtalk.tw/news/2014/09/11/51286.html
+Page Success: http://newtalk.tw/news/2014/09/11/51286.html   _id:nt2014091151286
+Image Success: http://newtalk.tw/news/2014/09/11/51283.html
+Page Success: http://newtalk.tw/news/2014/09/11/51283.html   _id:nt2014091151283
+Image Fail: http://newtalk.tw/news/2014/09/11/51278.html
+Page Success: http://newtalk.tw/news/2014/09/11/51278.html   _id:nt2014091151278
+Image Fail: http://newtalk.tw/news/2014/09/10/51271.html
+Page Success: http://newtalk.tw/news/2014/09/10/51271.html   _id:nt2014091051271
+Image Success: http://newtalk.tw/news/2014/09/10/51258.html
+Page Success: http://newtalk.tw/news/2014/09/10/51258.html   _id:nt2014091051258
+Image Success: http://newtalk.tw/news/2014/09/10/51268.html
+Page Success: http://newtalk.tw/news/2014/09/10/51268.html   _id:nt2014091051268
+Image Success: http://newtalk.tw/news/2014/09/10/51266.html
+Page Success: http://newtalk.tw/news/2014/09/10/51266.html   _id:nt2014091051266
+Image Success: http://newtalk.tw/news/2014/09/10/51269.html
+Page Success: http://newtalk.tw/news/2014/09/10/51269.html   _id:nt2014091051269
+Image Success: http://newtalk.tw/news/2014/09/10/51267.html
+Page Success: http://newtalk.tw/news/2014/09/10/51267.html   _id:nt2014091051267
+Image Success: http://newtalk.tw/news/2014/09/10/51263.html
+Page Success: http://newtalk.tw/news/2014/09/10/51263.html   _id:nt2014091051263
+Image Success: http://newtalk.tw/news/2014/09/10/51247.html
+Page Success: http://newtalk.tw/news/2014/09/10/51247.html   _id:nt2014091051247
+Image Success: http://newtalk.tw/news/2014/09/10/51250.html
+Page Success: http://newtalk.tw/news/2014/09/10/51250.html   _id:nt2014091051250
+Image Success: http://newtalk.tw/news/2014/09/10/51256.html
+Page Success: http://newtalk.tw/news/2014/09/10/51256.html   _id:nt2014091051256
+Image Success: http://newtalk.tw/news/2014/09/10/51237.html
+Page Success: http://newtalk.tw/news/2014/09/10/51237.html   _id:nt2014091051237
+Image Success: http://newtalk.tw/news/2014/09/10/51249.html
+Page Success: http://newtalk.tw/news/2014/09/10/51249.html   _id:nt2014091051249
+Image Success: http://newtalk.tw/news/2014/09/10/51257.html
+Page Success: http://newtalk.tw/news/2014/09/10/51257.html   _id:nt2014091051257
+Image Success: http://newtalk.tw/news/2014/09/10/51246.html
+Page Success: http://newtalk.tw/news/2014/09/10/51246.html   _id:nt2014091051246
+Image Success: http://newtalk.tw/news/2014/09/10/51245.html
+Page Success: http://newtalk.tw/news/2014/09/10/51245.html   _id:nt2014091051245
+Image Success: http://newtalk.tw/news/2014/09/10/51243.html
+Page Success: http://newtalk.tw/news/2014/09/10/51243.html   _id:nt2014091051243
+Image Success: http://newtalk.tw/news/2014/09/10/51242.html
+Page Success: http://newtalk.tw/news/2014/09/10/51242.html   _id:nt2014091051242
+Image Success: http://newtalk.tw/news/2014/09/10/51234.html
+Page Success: http://newtalk.tw/news/2014/09/10/51234.html   _id:nt2014091051234
+Image Success: http://newtalk.tw/news/2014/09/10/51235.html
+Page Success: http://newtalk.tw/news/2014/09/10/51235.html   _id:nt2014091051235
+Image Success: http://newtalk.tw/news/2014/09/09/51226.html
+Page Success: http://newtalk.tw/news/2014/09/09/51226.html   _id:nt2014090951226
+Image Fail: http://newtalk.tw/news/2014/09/09/51224.html
+Page Success: http://newtalk.tw/news/2014/09/09/51224.html   _id:nt2014090951224
+Image Success: http://newtalk.tw/news/2014/09/09/51222.html
+Page Success: http://newtalk.tw/news/2014/09/09/51222.html   _id:nt2014090951222
+Image Success: http://newtalk.tw/news/2014/09/09/51219.html
+Page Success: http://newtalk.tw/news/2014/09/09/51219.html   _id:nt2014090951219
+Image Success: http://newtalk.tw/news/2014/09/09/51213.html
+Page Success: http://newtalk.tw/news/2014/09/09/51213.html   _id:nt2014090951213
+Image Success: http://newtalk.tw/news/2014/09/09/51205.html
+Page Success: http://newtalk.tw/news/2014/09/09/51205.html   _id:nt2014090951205
+Image Success: http://newtalk.tw/news/2014/09/09/51204.html
+Page Success: http://newtalk.tw/news/2014/09/09/51204.html   _id:nt2014090951204
+Image Success: http://newtalk.tw/news/2014/09/09/51199.html
+Page Success: http://newtalk.tw/news/2014/09/09/51199.html   _id:nt2014090951199
+Image Success: http://newtalk.tw/news/2014/09/09/51197.html
+Page Success: http://newtalk.tw/news/2014/09/09/51197.html   _id:nt2014090951197
+Image Success: http://newtalk.tw/news/2014/09/09/51196.html
+Page Success: http://newtalk.tw/news/2014/09/09/51196.html   _id:nt2014090951196
+Image Success: http://newtalk.tw/news/2014/09/09/51193.html
+Page Success: http://newtalk.tw/news/2014/09/09/51193.html   _id:nt2014090951193
+Image Success: http://newtalk.tw/news/2014/09/09/51187.html
+Page Success: http://newtalk.tw/news/2014/09/09/51187.html   _id:nt2014090951187
+Image Success: http://newtalk.tw/news/2014/09/08/51184.html
+Page Success: http://newtalk.tw/news/2014/09/08/51184.html   _id:nt2014090851184
+Image Success: http://newtalk.tw/news/2014/09/08/51179.html
+Page Success: http://newtalk.tw/news/2014/09/08/51179.html   _id:nt2014090851179
+Image Success: http://newtalk.tw/news/2014/09/08/51175.html
+Page Success: http://newtalk.tw/news/2014/09/08/51175.html   _id:nt2014090851175
+Image Success: http://newtalk.tw/news/2014/09/08/51173.html
+Page Success: http://newtalk.tw/news/2014/09/08/51173.html   _id:nt2014090851173
+Image Success: http://newtalk.tw/news/2014/09/08/51170.html
+Page Success: http://newtalk.tw/news/2014/09/08/51170.html   _id:nt2014090851170
+Image Fail: http://newtalk.tw/news/2014/09/07/51167.html
+Page Success: http://newtalk.tw/news/2014/09/07/51167.html   _id:nt2014090751167
+Image Success: http://newtalk.tw/news/2014/09/07/51165.html
+Page Success: http://newtalk.tw/news/2014/09/07/51165.html   _id:nt2014090751165
+Image Success: http://newtalk.tw/news/2014/09/07/51162.html
+Page Success: http://newtalk.tw/news/2014/09/07/51162.html   _id:nt2014090751162
+Image Success: http://newtalk.tw/news/2014/09/07/51159.html
+Page Success: http://newtalk.tw/news/2014/09/07/51159.html   _id:nt2014090751159
+Image Success: http://newtalk.tw/news/2014/09/06/51158.html
+Page Success: http://newtalk.tw/news/2014/09/06/51158.html   _id:nt2014090651158
+Image Fail: http://newtalk.tw/news/2014/09/06/51156.html
+Page Success: http://newtalk.tw/news/2014/09/06/51156.html   _id:nt2014090651156
+Image Success: http://newtalk.tw/news/2014/09/06/51155.html
+Page Success: http://newtalk.tw/news/2014/09/06/51155.html   _id:nt2014090651155
+Image Success: http://newtalk.tw/news/2014/09/06/51153.html
+Page Success: http://newtalk.tw/news/2014/09/06/51153.html   _id:nt2014090651153
+Image Success: http://newtalk.tw/news/2014/09/06/51151.html
+Page Success: http://newtalk.tw/news/2014/09/06/51151.html   _id:nt2014090651151
+Image Success: http://newtalk.tw/news/2014/09/06/51146.html
+Page Success: http://newtalk.tw/news/2014/09/06/51146.html   _id:nt2014090651146
+Image Success: http://newtalk.tw/news/2014/09/05/51143.html
+Page Success: http://newtalk.tw/news/2014/09/05/51143.html   _id:nt2014090551143
+Image Success: http://newtalk.tw/news/2014/09/05/51140.html
+Page Success: http://newtalk.tw/news/2014/09/05/51140.html   _id:nt2014090551140
+Image Success: http://newtalk.tw/news/2014/09/05/51119.html
+Page Success: http://newtalk.tw/news/2014/09/05/51119.html   _id:nt2014090551119
+Image Success: http://newtalk.tw/news/2014/09/05/51128.html
+Page Success: http://newtalk.tw/news/2014/09/05/51128.html   _id:nt2014090551128
+Image Success: http://newtalk.tw/news/2014/09/05/51123.html
+Page Success: http://newtalk.tw/news/2014/09/05/51123.html   _id:nt2014090551123
+Image Success: http://newtalk.tw/news/2014/09/05/51126.html
+Page Success: http://newtalk.tw/news/2014/09/05/51126.html   _id:nt2014090551126
+Image Success: http://newtalk.tw/news/2014/09/05/51122.html
+Page Success: http://newtalk.tw/news/2014/09/05/51122.html   _id:nt2014090551122
+Image Success: http://newtalk.tw/news/2014/09/05/51120.html
+Page Success: http://newtalk.tw/news/2014/09/05/51120.html   _id:nt2014090551120
+Image Success: http://newtalk.tw/news/2014/09/05/51118.html
+Page Success: http://newtalk.tw/news/2014/09/05/51118.html   _id:nt2014090551118
+Image Success: http://newtalk.tw/news/2014/09/05/51114.html
+Page Success: http://newtalk.tw/news/2014/09/05/51114.html   _id:nt2014090551114
+Image Success: http://newtalk.tw/news/2014/09/05/51107.html
+Page Success: http://newtalk.tw/news/2014/09/05/51107.html   _id:nt2014090551107
+Image Success: http://newtalk.tw/news/2014/09/05/51103.html
+Page Success: http://newtalk.tw/news/2014/09/05/51103.html   _id:nt2014090551103
+Image Success: http://newtalk.tw/news/2014/09/05/51099.html
+Page Success: http://newtalk.tw/news/2014/09/05/51099.html   _id:nt2014090551099
+Image Success: http://newtalk.tw/news/2014/09/05/51096.html
+Page Success: http://newtalk.tw/news/2014/09/05/51096.html   _id:nt2014090551096
+Image Success: http://newtalk.tw/news/2014/09/04/51092.html
+Page Success: http://newtalk.tw/news/2014/09/04/51092.html   _id:nt2014090451092
+Image Success: http://newtalk.tw/news/2014/09/04/51091.html
+Page Success: http://newtalk.tw/news/2014/09/04/51091.html   _id:nt2014090451091
+Image Success: http://newtalk.tw/news/2014/09/04/51089.html
+Page Success: http://newtalk.tw/news/2014/09/04/51089.html   _id:nt2014090451089
+Image Success: http://newtalk.tw/news/2014/09/04/51077.html
+Page Success: http://newtalk.tw/news/2014/09/04/51077.html   _id:nt2014090451077
+Image Success: http://newtalk.tw/news/2014/09/04/51073.html
+Page Success: http://newtalk.tw/news/2014/09/04/51073.html   _id:nt2014090451073
+Image Success: http://newtalk.tw/news/2014/09/04/51067.html
+Page Success: http://newtalk.tw/news/2014/09/04/51067.html   _id:nt2014090451067
+Image Success: http://newtalk.tw/news/2014/09/04/51068.html
+Page Success: http://newtalk.tw/news/2014/09/04/51068.html   _id:nt2014090451068
+Image Success: http://newtalk.tw/news/2014/09/04/51054.html
+Page Success: http://newtalk.tw/news/2014/09/04/51054.html   _id:nt2014090451054
+Image Success: http://newtalk.tw/news/2014/09/03/51040.html
+Page Success: http://newtalk.tw/news/2014/09/03/51040.html   _id:nt2014090351040
+Image Success: http://newtalk.tw/news/2014/09/03/51036.html
+Page Success: http://newtalk.tw/news/2014/09/03/51036.html   _id:nt2014090351036
+Image Fail: http://newtalk.tw/news/2014/09/03/51035.html
+Page Success: http://newtalk.tw/news/2014/09/03/51035.html   _id:nt2014090351035
+Image Success: http://newtalk.tw/news/2014/09/03/51026.html
+Page Success: http://newtalk.tw/news/2014/09/03/51026.html   _id:nt2014090351026
+Image Success: http://newtalk.tw/news/2014/09/03/51019.html
+Page Success: http://newtalk.tw/news/2014/09/03/51019.html   _id:nt2014090351019
+Image Success: http://newtalk.tw/news/2014/09/03/51012.html
+Page Success: http://newtalk.tw/news/2014/09/03/51012.html   _id:nt2014090351012
+Image Success: http://newtalk.tw/news/2014/09/03/51013.html
+Page Fail: http://newtalk.tw/news/2014/09/03/51013.html
+Image Success: http://newtalk.tw/news/2014/09/03/51009.html
+Page Success: http://newtalk.tw/news/2014/09/03/51009.html   _id:nt2014090351009
+Image Fail: http://newtalk.tw/news/2014/09/02/51000.html
+Page Success: http://newtalk.tw/news/2014/09/02/51000.html   _id:nt2014090251000
+Image Success: http://newtalk.tw/news/2014/09/02/50992.html
+Page Success: http://newtalk.tw/news/2014/09/02/50992.html   _id:nt2014090250992
+Image Fail: http://newtalk.tw/news/2014/09/02/50995.html
+Page Success: http://newtalk.tw/news/2014/09/02/50995.html   _id:nt2014090250995
+Image Fail: http://newtalk.tw/news/2014/09/02/50990.html
+Page Success: http://newtalk.tw/news/2014/09/02/50990.html   _id:nt2014090250990
+Image Success: http://newtalk.tw/news/2014/09/02/50988.html
+Page Success: http://newtalk.tw/news/2014/09/02/50988.html   _id:nt2014090250988
+Image Success: http://newtalk.tw/news/2014/09/02/50983.html
+Page Success: http://newtalk.tw/news/2014/09/02/50983.html   _id:nt2014090250983
+Image Success: http://newtalk.tw/news/2014/09/02/50980.html
+Page Success: http://newtalk.tw/news/2014/09/02/50980.html   _id:nt2014090250980
+Image Success: http://newtalk.tw/news/2014/09/02/50975.html
+Page Success: http://newtalk.tw/news/2014/09/02/50975.html   _id:nt2014090250975
+Image Success: http://newtalk.tw/news/2014/09/02/50973.html
+Page Success: http://newtalk.tw/news/2014/09/02/50973.html   _id:nt2014090250973
+Image Success: http://newtalk.tw/news/2014/09/01/50957.html
+Page Success: http://newtalk.tw/news/2014/09/01/50957.html   _id:nt2014090150957
+Image Success: http://newtalk.tw/news/2014/09/01/50954.html
+Page Success: http://newtalk.tw/news/2014/09/01/50954.html   _id:nt2014090150954
+Image Success: http://newtalk.tw/news/2014/09/01/50948.html
+Page Success: http://newtalk.tw/news/2014/09/01/50948.html   _id:nt2014090150948
+Image Success: http://newtalk.tw/news/2014/09/01/50947.html
+Page Success: http://newtalk.tw/news/2014/09/01/50947.html   _id:nt2014090150947
+Image Success: http://newtalk.tw/news/2014/09/01/50926.html
+Page Success: http://newtalk.tw/news/2014/09/01/50926.html   _id:nt2014090150926
+Image Success: http://newtalk.tw/news/2014/08/31/50919.html
+Page Success: http://newtalk.tw/news/2014/08/31/50919.html   _id:nt2014083150919
+Image Success: http://newtalk.tw/news/2014/08/31/50918.html
+Page Success: http://newtalk.tw/news/2014/08/31/50918.html   _id:nt2014083150918
+Image Success: http://newtalk.tw/news/2014/08/31/50911.html
+Page Success: http://newtalk.tw/news/2014/08/31/50911.html   _id:nt2014083150911
+Image Fail: http://newtalk.tw/news/2014/08/30/50903.html
+Page Success: http://newtalk.tw/news/2014/08/30/50903.html   _id:nt2014083050903
+Image Success: http://newtalk.tw/news/2014/08/30/50902.html
+Page Success: http://newtalk.tw/news/2014/08/30/50902.html   _id:nt2014083050902
+Image Success: http://newtalk.tw/news/2014/08/29/50883.html
+Page Success: http://newtalk.tw/news/2014/08/29/50883.html   _id:nt2014082950883
+Image Success: http://newtalk.tw/news/2014/08/29/50884.html
+Page Success: http://newtalk.tw/news/2014/08/29/50884.html   _id:nt2014082950884
+Image Success: http://newtalk.tw/news/2014/08/29/50880.html
+Page Success: http://newtalk.tw/news/2014/08/29/50880.html   _id:nt2014082950880
+Image Fail: http://newtalk.tw/news/2014/08/29/50875.html
+Page Success: http://newtalk.tw/news/2014/08/29/50875.html   _id:nt2014082950875
+Image Success: http://newtalk.tw/news/2014/08/29/50870.html
+Page Success: http://newtalk.tw/news/2014/08/29/50870.html   _id:nt2014082950870
+Image Success: http://newtalk.tw/news/2014/08/29/50869.html
+Page Success: http://newtalk.tw/news/2014/08/29/50869.html   _id:nt2014082950869
+Image Success: http://newtalk.tw/news/2014/08/28/50847.html
+Page Success: http://newtalk.tw/news/2014/08/28/50847.html   _id:nt2014082850847
+Image Success: http://newtalk.tw/news/2014/08/28/50846.html
+Page Success: http://newtalk.tw/news/2014/08/28/50846.html   _id:nt2014082850846
+Image Success: http://newtalk.tw/news/2014/08/28/50845.html
+Page Success: http://newtalk.tw/news/2014/08/28/50845.html   _id:nt2014082850845
+Image Success: http://newtalk.tw/news/2014/08/28/50840.html
+Page Success: http://newtalk.tw/news/2014/08/28/50840.html   _id:nt2014082850840
+Image Success: http://newtalk.tw/news/2014/08/28/50808.html
+Page Success: http://newtalk.tw/news/2014/08/28/50808.html   _id:nt2014082850808
+Image Success: http://newtalk.tw/news/2014/08/27/50798.html
+Page Success: http://newtalk.tw/news/2014/08/27/50798.html   _id:nt2014082750798
+Image Success: http://newtalk.tw/news/2014/08/27/50802.html
+Page Success: http://newtalk.tw/news/2014/08/27/50802.html   _id:nt2014082750802
+Image Success: http://newtalk.tw/news/2014/08/27/50787.html
+Page Success: http://newtalk.tw/news/2014/08/27/50787.html   _id:nt2014082750787
+Image Success: http://newtalk.tw/news/2014/08/27/50789.html
+Page Success: http://newtalk.tw/news/2014/08/27/50789.html   _id:nt2014082750789
+Image Success: http://newtalk.tw/news/2014/08/26/50779.html
+Page Success: http://newtalk.tw/news/2014/08/26/50779.html   _id:nt2014082650779
+Image Success: http://newtalk.tw/news/2014/08/26/50772.html
+Page Success: http://newtalk.tw/news/2014/08/26/50772.html   _id:nt2014082650772
+Image Success: http://newtalk.tw/news/2014/08/26/50771.html
+Page Success: http://newtalk.tw/news/2014/08/26/50771.html   _id:nt2014082650771
+Image Success: http://newtalk.tw/news/2014/08/26/50765.html
+Page Success: http://newtalk.tw/news/2014/08/26/50765.html   _id:nt2014082650765
+Image Success: http://newtalk.tw/news/2014/08/26/50761.html
+Page Success: http://newtalk.tw/news/2014/08/26/50761.html   _id:nt2014082650761
+Image Success: http://newtalk.tw/news/2014/08/26/50750.html
+Page Success: http://newtalk.tw/news/2014/08/26/50750.html   _id:nt2014082650750
+Image Success: http://newtalk.tw/news/2014/08/26/50746.html
+Page Success: http://newtalk.tw/news/2014/08/26/50746.html   _id:nt2014082650746
+Image Success: http://newtalk.tw/news/2014/08/25/50735.html
+Page Success: http://newtalk.tw/news/2014/08/25/50735.html   _id:nt2014082550735
+Image Success: http://newtalk.tw/news/2014/08/25/50728.html
+Page Success: http://newtalk.tw/news/2014/08/25/50728.html   _id:nt2014082550728
+Image Success: http://newtalk.tw/news/2014/08/25/50721.html
+Page Success: http://newtalk.tw/news/2014/08/25/50721.html   _id:nt2014082550721
+Image Success: http://newtalk.tw/news/2014/08/25/50725.html
+Page Success: http://newtalk.tw/news/2014/08/25/50725.html   _id:nt2014082550725
+Image Success: http://newtalk.tw/news/2014/08/25/50716.html
+Page Success: http://newtalk.tw/news/2014/08/25/50716.html   _id:nt2014082550716
+Image Success: http://newtalk.tw/news/2014/08/25/50708.html
+Page Success: http://newtalk.tw/news/2014/08/25/50708.html   _id:nt2014082550708
+Image Success: http://newtalk.tw/news/2014/08/25/50704.html
+Page Success: http://newtalk.tw/news/2014/08/25/50704.html   _id:nt2014082550704
+Image Success: http://newtalk.tw/news/2014/08/24/50700.html
+Page Success: http://newtalk.tw/news/2014/08/24/50700.html   _id:nt2014082450700
+Image Success: http://newtalk.tw/news/2014/08/24/50695.html
+Page Success: http://newtalk.tw/news/2014/08/24/50695.html   _id:nt2014082450695
+Image Success: http://newtalk.tw/news/2014/08/23/50670.html
+Page Success: http://newtalk.tw/news/2014/08/23/50670.html   _id:nt2014082350670
+Image Success: http://newtalk.tw/news/2014/09/18/51567.html
+Page Success: http://newtalk.tw/news/2014/09/18/51567.html   _id:nt2014091851567
+Image Success: http://newtalk.tw/news/2014/09/11/51294.html
+Page Success: http://newtalk.tw/news/2014/09/11/51294.html   _id:nt2014091151294
+Image Success: http://newtalk.tw/news/2014/09/11/51287.html
+Page Success: http://newtalk.tw/news/2014/09/11/51287.html   _id:nt2014091151287
+Image Success: http://newtalk.tw/news/2014/09/10/51262.html
+Page Success: http://newtalk.tw/news/2014/09/10/51262.html   _id:nt2014091051262
+Image Success: http://newtalk.tw/news/2014/09/04/51065.html
+Page Success: http://newtalk.tw/news/2014/09/04/51065.html   _id:nt2014090451065
+Image Success: http://newtalk.tw/news/2014/09/04/51064.html
+Page Success: http://newtalk.tw/news/2014/09/04/51064.html   _id:nt2014090451064
+Image Success: http://newtalk.tw/news/2014/09/03/51034.html
+Page Success: http://newtalk.tw/news/2014/09/03/51034.html   _id:nt2014090351034
+Image Success: http://newtalk.tw/news/2014/09/02/50965.html
+Page Success: http://newtalk.tw/news/2014/09/02/50965.html   _id:nt2014090250965
+Image Success: http://newtalk.tw/news/2014/09/02/50960.html
+Page Success: http://newtalk.tw/news/2014/09/02/50960.html   _id:nt2014090250960
+Image Success: http://newtalk.tw/news/2014/09/01/50944.html
+Page Success: http://newtalk.tw/news/2014/09/01/50944.html   _id:nt2014090150944
+Image Success: http://newtalk.tw/news/2014/09/01/50935.html
+Page Success: http://newtalk.tw/news/2014/09/01/50935.html   _id:nt2014090150935
+Image Success: http://newtalk.tw/news/2014/08/27/50799.html
+Page Success: http://newtalk.tw/news/2014/08/27/50799.html   _id:nt2014082750799
+Image Success: http://newtalk.tw/news/2014/08/27/50795.html
+Page Success: http://newtalk.tw/news/2014/08/27/50795.html   _id:nt2014082750795
+Image Success: http://newtalk.tw/news/2014/08/27/50793.html
+Page Success: http://newtalk.tw/news/2014/08/27/50793.html   _id:nt2014082750793
+Image Success: http://newtalk.tw/news/2014/08/27/50784.html
+Page Success: http://newtalk.tw/news/2014/08/27/50784.html   _id:nt2014082750784
+Image Success: http://newtalk.tw/news/2014/08/26/50766.html
+Page Fail: http://newtalk.tw/news/2014/08/26/50766.html
+Image Success: http://newtalk.tw/news/2014/08/25/50715.html
+Page Success: http://newtalk.tw/news/2014/08/25/50715.html   _id:nt2014082550715
+Image Success: http://newtalk.tw/news/2014/09/18/51568.html
+Page Success: http://newtalk.tw/news/2014/09/18/51568.html   _id:nt2014091851568
+Image Success: http://newtalk.tw/news/2014/09/17/51521.html
+Page Success: http://newtalk.tw/news/2014/09/17/51521.html   _id:nt2014091751521
+Image Success: http://newtalk.tw/news/2014/09/15/51426.html
+Page Success: http://newtalk.tw/news/2014/09/15/51426.html   _id:nt2014091551426
+Image Fail: http://newtalk.tw/news/2014/09/14/51403.html
+Page Success: http://newtalk.tw/news/2014/09/14/51403.html   _id:nt2014091451403
+Image Success: http://newtalk.tw/news/2014/09/13/51375.html
+Page Success: http://newtalk.tw/news/2014/09/13/51375.html   _id:nt2014091351375
+Image Success: http://newtalk.tw/news/2014/09/09/51223.html
+Page Success: http://newtalk.tw/news/2014/09/09/51223.html   _id:nt2014090951223
+Image Success: http://newtalk.tw/news/2014/09/09/51188.html
+Page Fail: http://newtalk.tw/news/2014/09/09/51188.html
+Image Success: http://newtalk.tw/news/2014/09/08/51174.html
+Page Success: http://newtalk.tw/news/2014/09/08/51174.html   _id:nt2014090851174
+Image Success: http://newtalk.tw/news/2014/09/08/51170.html
+Page Fail: http://newtalk.tw/news/2014/09/08/51170.html
+Image Success: http://newtalk.tw/news/2014/09/05/51121.html
+Page Success: http://newtalk.tw/news/2014/09/05/51121.html   _id:nt2014090551121
+Image Success: http://newtalk.tw/news/2014/09/05/51115.html
+Page Success: http://newtalk.tw/news/2014/09/05/51115.html   _id:nt2014090551115
+Image Fail: http://newtalk.tw/news/2014/09/04/51083.html
+Page Success: http://newtalk.tw/news/2014/09/04/51083.html   _id:nt2014090451083
+Image Fail: http://newtalk.tw/news/2014/09/04/51074.html
+Page Success: http://newtalk.tw/news/2014/09/04/51074.html   _id:nt2014090451074
+Image Success: http://newtalk.tw/news/2014/09/04/51071.html
+Page Success: http://newtalk.tw/news/2014/09/04/51071.html   _id:nt2014090451071
+Image Success: http://newtalk.tw/news/2014/09/04/51066.html
+Page Success: http://newtalk.tw/news/2014/09/04/51066.html   _id:nt2014090451066
+Image Success: http://newtalk.tw/news/2014/09/03/51039.html
+Page Success: http://newtalk.tw/news/2014/09/03/51039.html   _id:nt2014090351039
+Image Fail: http://newtalk.tw/news/2014/09/03/51028.html
+Page Success: http://newtalk.tw/news/2014/09/03/51028.html   _id:nt2014090351028
+Image Success: http://newtalk.tw/news/2014/09/03/51015.html
+Page Success: http://newtalk.tw/news/2014/09/03/51015.html   _id:nt2014090351015
+Image Success: http://newtalk.tw/news/2014/09/03/51003.html
+Page Success: http://newtalk.tw/news/2014/09/03/51003.html   _id:nt2014090351003
+Image Success: http://newtalk.tw/news/2014/09/02/50982.html
+Page Success: http://newtalk.tw/news/2014/09/02/50982.html   _id:nt2014090250982
+Image Success: http://newtalk.tw/news/2014/09/02/50981.html
+Page Success: http://newtalk.tw/news/2014/09/02/50981.html   _id:nt2014090250981
+Image Success: http://newtalk.tw/news/2014/09/01/50952.html
+Page Success: http://newtalk.tw/news/2014/09/01/50952.html   _id:nt2014090150952
+Image Success: http://newtalk.tw/news/2014/09/01/50950.html
+Page Success: http://newtalk.tw/news/2014/09/01/50950.html   _id:nt2014090150950
+Image Success: http://newtalk.tw/news/2014/09/01/50953.html
+Page Success: http://newtalk.tw/news/2014/09/01/50953.html   _id:nt2014090150953
+Image Success: http://newtalk.tw/news/2014/09/01/50943.html
+Page Success: http://newtalk.tw/news/2014/09/01/50943.html   _id:nt2014090150943
+Image Success: http://newtalk.tw/news/2014/09/01/50939.html
+Page Success: http://newtalk.tw/news/2014/09/01/50939.html   _id:nt2014090150939
+Image Success: http://newtalk.tw/news/2014/08/31/50924.html
+Page Success: http://newtalk.tw/news/2014/08/31/50924.html   _id:nt2014083150924
+Image Success: http://newtalk.tw/news/2014/08/31/50920.html
+Page Success: http://newtalk.tw/news/2014/08/31/50920.html   _id:nt2014083150920
+Image Success: http://newtalk.tw/news/2014/08/31/50912.html
+Page Success: http://newtalk.tw/news/2014/08/31/50912.html   _id:nt2014083150912
+Image Success: http://newtalk.tw/news/2014/08/30/50910.html
+Page Success: http://newtalk.tw/news/2014/08/30/50910.html   _id:nt2014083050910
+Image Fail: http://newtalk.tw/news/2014/08/30/50909.html
+Page Success: http://newtalk.tw/news/2014/08/30/50909.html   _id:nt2014083050909
+Image Success: http://newtalk.tw/news/2014/08/29/50888.html
+Page Success: http://newtalk.tw/news/2014/08/29/50888.html   _id:nt2014082950888
+Image Success: http://newtalk.tw/news/2014/08/29/50871.html
+Page Success: http://newtalk.tw/news/2014/08/29/50871.html   _id:nt2014082950871
+Image Success: http://newtalk.tw/news/2014/08/28/50844.html
+Page Success: http://newtalk.tw/news/2014/08/28/50844.html   _id:nt2014082850844
+Image Success: http://newtalk.tw/news/2014/08/28/50818.html
+Page Success: http://newtalk.tw/news/2014/08/28/50818.html   _id:nt2014082850818
+Image Fail: http://newtalk.tw/news/2014/08/27/50807.html
+Page Success: http://newtalk.tw/news/2014/08/27/50807.html   _id:nt2014082750807
+Image Success: http://newtalk.tw/news/2014/08/27/50806.html
+Page Success: http://newtalk.tw/news/2014/08/27/50806.html   _id:nt2014082750806
+Image Fail: http://newtalk.tw/news/2014/08/26/50763.html
+Page Success: http://newtalk.tw/news/2014/08/26/50763.html   _id:nt2014082650763
+Image Success: http://newtalk.tw/news/2014/08/25/50730.html
+Page Success: http://newtalk.tw/news/2014/08/25/50730.html   _id:nt2014082550730
+Image Success: http://newtalk.tw/news/2014/08/23/50684.html
+Page Fail: http://newtalk.tw/news/2014/08/23/50684.html
+Image Success: http://newtalk.tw/news/2014/09/18/51553.html
+Page Success: http://newtalk.tw/news/2014/09/18/51553.html   _id:nt2014091851553
+Image Fail: http://newtalk.tw/news/2014/09/17/51518.html
+Page Success: http://newtalk.tw/news/2014/09/17/51518.html   _id:nt2014091751518
+Image Fail: http://newtalk.tw/news/2014/09/16/51443.html
+Page Success: http://newtalk.tw/news/2014/09/16/51443.html   _id:nt2014091651443
+Image Success: http://newtalk.tw/news/2014/09/12/51329.html
+Page Success: http://newtalk.tw/news/2014/09/12/51329.html   _id:nt2014091251329
+Image Success: http://newtalk.tw/news/2014/09/11/51316.html
+Page Success: http://newtalk.tw/news/2014/09/11/51316.html   _id:nt2014091151316
+Image Fail: http://newtalk.tw/news/2014/09/10/51228.html
+Page Success: http://newtalk.tw/news/2014/09/10/51228.html   _id:nt2014091051228
+Image Fail: http://newtalk.tw/news/2014/09/10/51227.html
+Page Success: http://newtalk.tw/news/2014/09/10/51227.html   _id:nt2014091051227
+Image Fail: http://newtalk.tw/news/2014/09/09/51206.html
+Page Success: http://newtalk.tw/news/2014/09/09/51206.html   _id:nt2014090951206
+Image Success: http://newtalk.tw/news/2014/09/05/51116.html
+Page Success: http://newtalk.tw/news/2014/09/05/51116.html   _id:nt2014090551116
+Image Fail: http://newtalk.tw/news/2014/09/04/51076.html
+Page Success: http://newtalk.tw/news/2014/09/04/51076.html   _id:nt2014090451076
+Image Success: http://newtalk.tw/news/2014/09/03/51005.html
+Page Success: http://newtalk.tw/news/2014/09/03/51005.html   _id:nt2014090351005
+Image Fail: http://newtalk.tw/news/2014/09/02/50984.html
+Page Success: http://newtalk.tw/news/2014/09/02/50984.html   _id:nt2014090250984
+Image Success: http://newtalk.tw/news/2014/09/02/50966.html
+Page Success: http://newtalk.tw/news/2014/09/02/50966.html   _id:nt2014090250966
+Image Success: http://newtalk.tw/news/2014/09/01/50946.html
+Page Success: http://newtalk.tw/news/2014/09/01/50946.html   _id:nt2014090150946
+Image Success: http://newtalk.tw/news/2014/09/01/50928.html
+Page Success: http://newtalk.tw/news/2014/09/01/50928.html   _id:nt2014090150928
+Image Fail: http://newtalk.tw/news/2014/08/29/50877.html
+Page Success: http://newtalk.tw/news/2014/08/29/50877.html   _id:nt2014082950877
+Image Success: http://newtalk.tw/news/2014/08/29/50868.html
+Page Success: http://newtalk.tw/news/2014/08/29/50868.html   _id:nt2014082950868
+Image Success: http://newtalk.tw/news/2014/08/29/50852.html
+Page Success: http://newtalk.tw/news/2014/08/29/50852.html   _id:nt2014082950852
+Image Success: http://newtalk.tw/news/2014/08/28/50817.html
+Page Success: http://newtalk.tw/news/2014/08/28/50817.html   _id:nt2014082850817
+Image Success: http://newtalk.tw/news/2014/09/18/51468.html
+Page Success: http://newtalk.tw/news/2014/09/18/51468.html   _id:nt2014091851468
+Image Success: http://newtalk.tw/news/2014/09/16/51451.html
+Page Success: http://newtalk.tw/news/2014/09/16/51451.html   _id:nt2014091651451
+Image Success: http://newtalk.tw/news/2014/09/11/51281.html
+Page Fail: http://newtalk.tw/news/2014/09/11/51281.html
+Image Success: http://newtalk.tw/news/2014/09/11/51279.html
+Page Success: http://newtalk.tw/news/2014/09/11/51279.html   _id:nt2014091151279
+Image Success: http://newtalk.tw/news/2014/09/10/51230.html
+Page Success: http://newtalk.tw/news/2014/09/10/51230.html   _id:nt2014091051230
+Image Success: http://newtalk.tw/news/2014/09/09/51216.html
+Page Success: http://newtalk.tw/news/2014/09/09/51216.html   _id:nt2014090951216
+Image Fail: http://newtalk.tw/news/2014/09/04/51070.html
+Page Success: http://newtalk.tw/news/2014/09/04/51070.html   _id:nt2014090451070
+Image Success: http://newtalk.tw/news/2014/09/04/51063.html
+Page Success: http://newtalk.tw/news/2014/09/04/51063.html   _id:nt2014090451063
+Image Success: http://newtalk.tw/news/2014/08/29/50873.html
+Page Success: http://newtalk.tw/news/2014/08/29/50873.html   _id:nt2014082950873
+Image Success: http://newtalk.tw/news/2014/08/28/50827.html
+Page Success: http://newtalk.tw/news/2014/08/28/50827.html   _id:nt2014082850827
+Image Success: http://newtalk.tw/news/2014/08/28/50820.html
+Page Success: http://newtalk.tw/news/2014/08/28/50820.html   _id:nt2014082850820
+Image Success: http://newtalk.tw/news/2014/08/26/50768.html
+Page Success: http://newtalk.tw/news/2014/08/26/50768.html   _id:nt2014082650768
+Image Success: http://newtalk.tw/news/2014/08/26/50741.html
+Page Success: http://newtalk.tw/news/2014/08/26/50741.html   _id:nt2014082650741
+Image Success: http://newtalk.tw/news/2014/08/24/50694.html
+Page Success: http://newtalk.tw/news/2014/08/24/50694.html   _id:nt2014082450694
+Image Success: http://newtalk.tw/news/2014/09/18/51569.html
+Page Success: http://newtalk.tw/news/2014/09/18/51569.html   _id:nt2014091851569
+Image Success: http://newtalk.tw/news/2014/09/18/51558.html
+Page Success: http://newtalk.tw/news/2014/09/18/51558.html   _id:nt2014091851558
+Image Success: http://newtalk.tw/news/2014/09/18/51559.html
+Page Success: http://newtalk.tw/news/2014/09/18/51559.html   _id:nt2014091851559
+Image Success: http://newtalk.tw/news/2014/09/18/51538.html
+Page Success: http://newtalk.tw/news/2014/09/18/51538.html   _id:nt2014091851538
+Image Fail: http://newtalk.tw/news/2014/09/15/51410.html
+Page Success: http://newtalk.tw/news/2014/09/15/51410.html   _id:nt2014091551410
+Image Success: http://newtalk.tw/news/2014/09/14/51405.html
+Page Success: http://newtalk.tw/news/2014/09/14/51405.html   _id:nt2014091451405
+Image Success: http://newtalk.tw/news/2014/09/12/51366.html
+Page Success: http://newtalk.tw/news/2014/09/12/51366.html   _id:nt2014091251366
+Image Success: http://newtalk.tw/news/2014/09/12/51330.html
+Page Success: http://newtalk.tw/news/2014/09/12/51330.html   _id:nt2014091251330
+Image Success: http://newtalk.tw/news/2014/09/11/51311.html
+Page Success: http://newtalk.tw/news/2014/09/11/51311.html   _id:nt2014091151311
+Image Success: http://newtalk.tw/news/2014/09/11/51293.html
+Page Success: http://newtalk.tw/news/2014/09/11/51293.html   _id:nt2014091151293
+Image Success: http://newtalk.tw/news/2014/09/05/51098.html
+Page Success: http://newtalk.tw/news/2014/09/05/51098.html   _id:nt2014090551098
+Image Success: http://newtalk.tw/news/2014/08/30/50908.html
+Page Success: http://newtalk.tw/news/2014/08/30/50908.html   _id:nt2014083050908
+Image Success: http://newtalk.tw/news/2014/08/26/50754.html
+Page Success: http://newtalk.tw/news/2014/08/26/50754.html   _id:nt2014082650754
+Image Success: http://newtalk.tw/news/2014/09/18/51572.html
+Page Success: http://newtalk.tw/news/2014/09/18/51572.html   _id:nt2014091851572
+Image Success: http://newtalk.tw/news/2014/09/18/51571.html
+Page Success: http://newtalk.tw/news/2014/09/18/51571.html   _id:nt2014091851571
+Image Success: http://newtalk.tw/news/2014/09/18/51570.html
+Page Success: http://newtalk.tw/news/2014/09/18/51570.html   _id:nt2014091851570
+Image Success: http://newtalk.tw/news/2014/09/18/51562.html
+Page Success: http://newtalk.tw/news/2014/09/18/51562.html   _id:nt2014091851562
+Image Success: http://newtalk.tw/news/2014/09/18/51563.html
+Page Success: http://newtalk.tw/news/2014/09/18/51563.html   _id:nt2014091851563
+Image Success: http://newtalk.tw/news/2014/09/18/51560.html
+Page Success: http://newtalk.tw/news/2014/09/18/51560.html   _id:nt2014091851560
+Image Success: http://newtalk.tw/news/2014/09/18/51554.html
+Page Success: http://newtalk.tw/news/2014/09/18/51554.html   _id:nt2014091851554
+Image Success: http://newtalk.tw/news/2014/09/18/51550.html
+Page Success: http://newtalk.tw/news/2014/09/18/51550.html   _id:nt2014091851550
+Image Success: http://newtalk.tw/news/2014/09/18/51548.html
+Page Success: http://newtalk.tw/news/2014/09/18/51548.html   _id:nt2014091851548
+Image Success: http://newtalk.tw/news/2014/09/18/51547.html
+Page Success: http://newtalk.tw/news/2014/09/18/51547.html   _id:nt2014091851547
+Image Success: http://newtalk.tw/news/2014/09/18/51543.html
+Page Success: http://newtalk.tw/news/2014/09/18/51543.html   _id:nt2014091851543
+Image Success: http://newtalk.tw/news/2014/09/18/51544.html
+Page Success: http://newtalk.tw/news/2014/09/18/51544.html   _id:nt2014091851544
+Image Success: http://newtalk.tw/news/2014/09/18/51537.html
+Page Success: http://newtalk.tw/news/2014/09/18/51537.html   _id:nt2014091851537
+Image Success: http://newtalk.tw/news/2014/09/18/51534.html
+Page Success: http://newtalk.tw/news/2014/09/18/51534.html   _id:nt2014091851534
+Image Success: http://newtalk.tw/news/2014/09/18/51529.html
+Page Success: http://newtalk.tw/news/2014/09/18/51529.html   _id:nt2014091851529
+Image Success: http://newtalk.tw/news/2014/09/17/51527.html
+Page Success: http://newtalk.tw/news/2014/09/17/51527.html   _id:nt2014091751527
+Image Success: http://newtalk.tw/news/2014/09/17/51526.html
+Page Success: http://newtalk.tw/news/2014/09/17/51526.html   _id:nt2014091751526
+Image Success: http://newtalk.tw/news/2014/09/17/51524.html
+Page Success: http://newtalk.tw/news/2014/09/17/51524.html   _id:nt2014091751524
+Image Success: http://newtalk.tw/news/2014/09/17/51523.html
+Page Success: http://newtalk.tw/news/2014/09/17/51523.html   _id:nt2014091751523
+Image Success: http://newtalk.tw/news/2014/09/17/51522.html
+Page Fail: http://newtalk.tw/news/2014/09/17/51522.html
+Image Success: http://newtalk.tw/news/2014/09/17/51510.html
+Page Success: http://newtalk.tw/news/2014/09/17/51510.html   _id:nt2014091751510
+Image Success: http://newtalk.tw/news/2014/09/17/51506.html
+Page Success: http://newtalk.tw/news/2014/09/17/51506.html   _id:nt2014091751506
+Image Success: http://newtalk.tw/news/2014/09/17/51493.html
+Page Success: http://newtalk.tw/news/2014/09/17/51493.html   _id:nt2014091751493
+Image Success: http://newtalk.tw/news/2014/09/17/51502.html
+Page Success: http://newtalk.tw/news/2014/09/17/51502.html   _id:nt2014091751502
+Image Success: http://newtalk.tw/news/2014/09/17/51498.html
+Page Success: http://newtalk.tw/news/2014/09/17/51498.html   _id:nt2014091751498
+Image Success: http://newtalk.tw/news/2014/09/17/51500.html
+Page Success: http://newtalk.tw/news/2014/09/17/51500.html   _id:nt2014091751500
+Image Success: http://newtalk.tw/news/2014/09/17/51495.html
+Page Success: http://newtalk.tw/news/2014/09/17/51495.html   _id:nt2014091751495
+Image Fail: http://newtalk.tw/news/2014/09/16/51482.html
+Page Success: http://newtalk.tw/news/2014/09/16/51482.html   _id:nt2014091651482
+Image Success: http://newtalk.tw/news/2014/09/16/51481.html
+Page Success: http://newtalk.tw/news/2014/09/16/51481.html   _id:nt2014091651481
+Image Success: http://newtalk.tw/news/2014/09/16/51480.html
+Page Success: http://newtalk.tw/news/2014/09/16/51480.html   _id:nt2014091651480
+Image Fail: http://newtalk.tw/news/2014/09/16/51476.html
+Page Success: http://newtalk.tw/news/2014/09/16/51476.html   _id:nt2014091651476
+Image Success: http://newtalk.tw/news/2014/09/16/51477.html
+Page Success: http://newtalk.tw/news/2014/09/16/51477.html   _id:nt2014091651477
+Image Success: http://newtalk.tw/news/2014/09/16/51475.html
+Page Success: http://newtalk.tw/news/2014/09/16/51475.html   _id:nt2014091651475
+Image Success: http://newtalk.tw/news/2014/09/16/51463.html
+Page Success: http://newtalk.tw/news/2014/09/16/51463.html   _id:nt2014091651463
+Image Success: http://newtalk.tw/news/2014/09/16/51464.html
+Page Success: http://newtalk.tw/news/2014/09/16/51464.html   _id:nt2014091651464
+Image Success: http://newtalk.tw/news/2014/09/16/51459.html
+Page Success: http://newtalk.tw/news/2014/09/16/51459.html   _id:nt2014091651459
+Image Success: http://newtalk.tw/news/2014/09/16/51458.html
+Page Success: http://newtalk.tw/news/2014/09/16/51458.html   _id:nt2014091651458
+Image Success: http://newtalk.tw/news/2014/09/16/51455.html
+Page Success: http://newtalk.tw/news/2014/09/16/51455.html   _id:nt2014091651455
+Image Success: http://newtalk.tw/news/2014/09/16/51454.html
+Page Success: http://newtalk.tw/news/2014/09/16/51454.html   _id:nt2014091651454
+Image Success: http://newtalk.tw/news/2014/09/16/51452.html
+Page Success: http://newtalk.tw/news/2014/09/16/51452.html   _id:nt2014091651452
+Image Success: http://newtalk.tw/news/2014/09/16/51447.html
+Page Success: http://newtalk.tw/news/2014/09/16/51447.html   _id:nt2014091651447
+Image Success: http://newtalk.tw/news/2014/09/16/51446.html
+Page Success: http://newtalk.tw/news/2014/09/16/51446.html   _id:nt2014091651446
+Image Success: http://newtalk.tw/news/2014/09/16/51449.html
+Page Success: http://newtalk.tw/news/2014/09/16/51449.html   _id:nt2014091651449
+Image Success: http://newtalk.tw/news/2014/09/15/51441.html
+Page Success: http://newtalk.tw/news/2014/09/15/51441.html   _id:nt2014091551441
+Image Fail: http://newtalk.tw/news/2014/09/15/51440.html
+Page Success: http://newtalk.tw/news/2014/09/15/51440.html   _id:nt2014091551440
+Image Success: http://newtalk.tw/news/2014/09/15/51439.html
+Page Success: http://newtalk.tw/news/2014/09/15/51439.html   _id:nt2014091551439
+Image Success: http://newtalk.tw/news/2014/09/15/51438.html
+Page Success: http://newtalk.tw/news/2014/09/15/51438.html   _id:nt2014091551438
+Image Success: http://newtalk.tw/news/2014/09/15/51429.html
+Page Success: http://newtalk.tw/news/2014/09/15/51429.html   _id:nt2014091551429
+Image Success: http://newtalk.tw/news/2014/09/15/51430.html
+Page Success: http://newtalk.tw/news/2014/09/15/51430.html   _id:nt2014091551430
+Image Success: http://newtalk.tw/news/2014/09/15/51424.html
+Page Success: http://newtalk.tw/news/2014/09/15/51424.html   _id:nt2014091551424
+Image Success: http://newtalk.tw/news/2014/09/15/51420.html
+Page Success: http://newtalk.tw/news/2014/09/15/51420.html   _id:nt2014091551420
+Image Success: http://newtalk.tw/news/2014/09/15/51415.html
+Page Success: http://newtalk.tw/news/2014/09/15/51415.html   _id:nt2014091551415
+Image Success: http://newtalk.tw/news/2014/09/14/51407.html
+Page Success: http://newtalk.tw/news/2014/09/14/51407.html   _id:nt2014091451407
+Image Success: http://newtalk.tw/news/2014/09/14/51402.html
+Page Success: http://newtalk.tw/news/2014/09/14/51402.html   _id:nt2014091451402
+Image Success: http://newtalk.tw/news/2014/09/14/51401.html
+Page Success: http://newtalk.tw/news/2014/09/14/51401.html   _id:nt2014091451401
+Image Fail: http://newtalk.tw/news/2014/09/14/51395.html
+Page Success: http://newtalk.tw/news/2014/09/14/51395.html   _id:nt2014091451395
+Image Success: http://newtalk.tw/news/2014/09/14/51393.html
+Page Success: http://newtalk.tw/news/2014/09/14/51393.html   _id:nt2014091451393
+Image Success: http://newtalk.tw/news/2014/09/14/51391.html
+Page Success: http://newtalk.tw/news/2014/09/14/51391.html   _id:nt2014091451391
+Image Success: http://newtalk.tw/news/2014/09/13/51389.html
+Page Success: http://newtalk.tw/news/2014/09/13/51389.html   _id:nt2014091351389
+Image Success: http://newtalk.tw/news/2014/09/13/51388.html
+Page Success: http://newtalk.tw/news/2014/09/13/51388.html   _id:nt2014091351388
+Image Success: http://newtalk.tw/news/2014/09/13/51385.html
+Page Success: http://newtalk.tw/news/2014/09/13/51385.html   _id:nt2014091351385
+Image Success: http://newtalk.tw/news/2014/09/13/51380.html
+Page Success: http://newtalk.tw/news/2014/09/13/51380.html   _id:nt2014091351380
+Image Success: http://newtalk.tw/news/2014/09/13/51378.html
+Page Success: http://newtalk.tw/news/2014/09/13/51378.html   _id:nt2014091351378
+Image Success: http://newtalk.tw/news/2014/09/13/51373.html
+Page Success: http://newtalk.tw/news/2014/09/13/51373.html   _id:nt2014091351373
+Image Success: http://newtalk.tw/news/2014/09/12/51371.html
+Page Success: http://newtalk.tw/news/2014/09/12/51371.html   _id:nt2014091251371
+Image Success: http://newtalk.tw/news/2014/09/12/51370.html
+Page Success: http://newtalk.tw/news/2014/09/12/51370.html   _id:nt2014091251370
+Image Success: http://newtalk.tw/news/2014/09/12/51355.html
+Page Success: http://newtalk.tw/news/2014/09/12/51355.html   _id:nt2014091251355
+Image Success: http://newtalk.tw/news/2014/09/12/51352.html
+Page Success: http://newtalk.tw/news/2014/09/12/51352.html   _id:nt2014091251352
+Image Success: http://newtalk.tw/news/2014/09/12/51351.html
+Page Success: http://newtalk.tw/news/2014/09/12/51351.html   _id:nt2014091251351
+Image Success: http://newtalk.tw/news/2014/09/12/51339.html
+Page Success: http://newtalk.tw/news/2014/09/12/51339.html   _id:nt2014091251339
+Image Success: http://newtalk.tw/news/2014/09/12/51347.html
+Page Success: http://newtalk.tw/news/2014/09/12/51347.html   _id:nt2014091251347
+Image Success: http://newtalk.tw/news/2014/09/12/51334.html
+Page Success: http://newtalk.tw/news/2014/09/12/51334.html   _id:nt2014091251334
+Image Success: http://newtalk.tw/news/2014/09/12/51344.html
+Page Success: http://newtalk.tw/news/2014/09/12/51344.html   _id:nt2014091251344
+Image Success: http://newtalk.tw/news/2014/09/12/51336.html
+Page Success: http://newtalk.tw/news/2014/09/12/51336.html   _id:nt2014091251336
+Image Success: http://newtalk.tw/news/2014/09/12/51337.html
+Page Success: http://newtalk.tw/news/2014/09/12/51337.html   _id:nt2014091251337
+Image Success: http://newtalk.tw/news/2014/09/12/51338.html
+Page Success: http://newtalk.tw/news/2014/09/12/51338.html   _id:nt2014091251338
+Image Fail: http://newtalk.tw/news/2014/09/12/51333.html
+Page Fail: http://newtalk.tw/news/2014/09/12/51333.html
+Image Success: http://newtalk.tw/news/2014/09/12/51328.html
+Page Success: http://newtalk.tw/news/2014/09/12/51328.html   _id:nt2014091251328
+Image Success: http://newtalk.tw/news/2014/09/12/51326.html
+Page Success: http://newtalk.tw/news/2014/09/12/51326.html   _id:nt2014091251326
+Image Success: http://newtalk.tw/news/2014/09/11/51325.html
+Page Success: http://newtalk.tw/news/2014/09/11/51325.html   _id:nt2014091151325
+Image Fail: http://newtalk.tw/news/2014/09/11/51323.html
+Page Success: http://newtalk.tw/news/2014/09/11/51323.html   _id:nt2014091151323
+Image Success: http://newtalk.tw/news/2014/09/11/51322.html
+Page Success: http://newtalk.tw/news/2014/09/11/51322.html   _id:nt2014091151322
+Image Fail: http://newtalk.tw/news/2014/09/11/51319.html
+Page Success: http://newtalk.tw/news/2014/09/11/51319.html   _id:nt2014091151319
+Image Success: http://newtalk.tw/news/2014/09/11/51315.html
+Page Success: http://newtalk.tw/news/2014/09/11/51315.html   _id:nt2014091151315
+Image Success: http://newtalk.tw/news/2014/09/11/51313.html
+Page Success: http://newtalk.tw/news/2014/09/11/51313.html   _id:nt2014091151313
+Image Success: http://newtalk.tw/news/2014/09/11/51308.html
+Page Success: http://newtalk.tw/news/2014/09/11/51308.html   _id:nt2014091151308
+Image Success: http://newtalk.tw/news/2014/09/11/51307.html
+Page Success: http://newtalk.tw/news/2014/09/11/51307.html   _id:nt2014091151307
+Image Success: http://newtalk.tw/news/2014/09/11/51302.html
+Page Success: http://newtalk.tw/news/2014/09/11/51302.html   _id:nt2014091151302
+Image Success: http://newtalk.tw/news/2014/09/11/51303.html
+Page Success: http://newtalk.tw/news/2014/09/11/51303.html   _id:nt2014091151303
+Image Success: http://newtalk.tw/news/2014/09/11/51296.html
+Page Success: http://newtalk.tw/news/2014/09/11/51296.html   _id:nt2014091151296
+Image Fail: http://newtalk.tw/news/2014/09/11/51292.html
+Page Success: http://newtalk.tw/news/2014/09/11/51292.html   _id:nt2014091151292
+Image Success: http://newtalk.tw/news/2014/09/11/51290.html
+Page Success: http://newtalk.tw/news/2014/09/11/51290.html   _id:nt2014091151290
+Image Success: http://newtalk.tw/news/2014/09/11/51289.html
+Page Success: http://newtalk.tw/news/2014/09/11/51289.html   _id:nt2014091151289
+Image Success: http://newtalk.tw/news/2014/09/11/51284.html
+Page Success: http://newtalk.tw/news/2014/09/11/51284.html   _id:nt2014091151284
+Image Fail: http://newtalk.tw/news/2014/09/11/51277.html
+Page Success: http://newtalk.tw/news/2014/09/11/51277.html   _id:nt2014091151277
+Image Success: http://newtalk.tw/news/2014/09/10/51276.html
+Page Success: http://newtalk.tw/news/2014/09/10/51276.html   _id:nt2014091051276
+Image Fail: http://newtalk.tw/news/2014/09/10/51273.html
+Page Success: http://newtalk.tw/news/2014/09/10/51273.html   _id:nt2014091051273
+Image Fail: http://newtalk.tw/news/2014/09/10/51275.html
+Page Success: http://newtalk.tw/news/2014/09/10/51275.html   _id:nt2014091051275
+Image Success: http://newtalk.tw/news/2014/09/10/51274.html
+Page Success: http://newtalk.tw/news/2014/09/10/51274.html   _id:nt2014091051274
+Image Fail: http://newtalk.tw/news/2014/09/10/51270.html
+Page Success: http://newtalk.tw/news/2014/09/10/51270.html   _id:nt2014091051270
+Image Success: http://newtalk.tw/news/2014/09/10/51260.html
+Page Success: http://newtalk.tw/news/2014/09/10/51260.html   _id:nt2014091051260
+Image Success: http://newtalk.tw/news/2014/09/10/51261.html
+Page Success: http://newtalk.tw/news/2014/09/10/51261.html   _id:nt2014091051261
+Image Success: http://newtalk.tw/news/2014/09/10/51253.html
+Page Success: http://newtalk.tw/news/2014/09/10/51253.html   _id:nt2014091051253
+Image Success: http://newtalk.tw/news/2014/09/10/51254.html
+Page Success: http://newtalk.tw/news/2014/09/10/51254.html   _id:nt2014091051254
+Image Success: http://newtalk.tw/news/2014/09/10/51239.html
+Page Success: http://newtalk.tw/news/2014/09/10/51239.html   _id:nt2014091051239
+Image Success: http://newtalk.tw/news/2014/09/10/51241.html
+Page Success: http://newtalk.tw/news/2014/09/10/51241.html   _id:nt2014091051241
+Image Success: http://newtalk.tw/news/2014/09/10/51236.html
+Page Success: http://newtalk.tw/news/2014/09/10/51236.html   _id:nt2014091051236
+Image Success: http://newtalk.tw/news/2014/09/10/51238.html
+Page Success: http://newtalk.tw/news/2014/09/10/51238.html   _id:nt2014091051238
+Image Success: http://newtalk.tw/news/2014/09/10/51232.html
+Page Success: http://newtalk.tw/news/2014/09/10/51232.html   _id:nt2014091051232
+Image Success: http://newtalk.tw/news/2014/09/09/51225.html
+Page Success: http://newtalk.tw/news/2014/09/09/51225.html   _id:nt2014090951225
+Image Success: http://newtalk.tw/news/2014/09/09/51221.html
+Page Success: http://newtalk.tw/news/2014/09/09/51221.html   _id:nt2014090951221
+Image Success: http://newtalk.tw/news/2014/09/09/51220.html
+Page Success: http://newtalk.tw/news/2014/09/09/51220.html   _id:nt2014090951220
+Image Success: http://newtalk.tw/news/2014/09/09/51215.html
+Page Success: http://newtalk.tw/news/2014/09/09/51215.html   _id:nt2014090951215
+Image Success: http://newtalk.tw/news/2014/09/09/51212.html
+Page Success: http://newtalk.tw/news/2014/09/09/51212.html   _id:nt2014090951212
+Image Success: http://newtalk.tw/news/2014/09/09/51203.html
+Page Success: http://newtalk.tw/news/2014/09/09/51203.html   _id:nt2014090951203
+Image Success: http://newtalk.tw/news/2014/09/09/51207.html
+Page Success: http://newtalk.tw/news/2014/09/09/51207.html   _id:nt2014090951207
+Image Success: http://newtalk.tw/news/2014/09/09/51202.html
+Page Success: http://newtalk.tw/news/2014/09/09/51202.html   _id:nt2014090951202
+Image Success: http://newtalk.tw/news/2014/09/09/51198.html
+Page Success: http://newtalk.tw/news/2014/09/09/51198.html   _id:nt2014090951198
+Image Success: http://newtalk.tw/news/2014/09/09/51197.html
+Page Fail: http://newtalk.tw/news/2014/09/09/51197.html
+Image Success: http://newtalk.tw/news/2014/09/09/51192.html
+Page Success: http://newtalk.tw/news/2014/09/09/51192.html   _id:nt2014090951192
+Image Fail: http://newtalk.tw/news/2014/09/08/51182.html
+Page Success: http://newtalk.tw/news/2014/09/08/51182.html   _id:nt2014090851182
+Image Success: http://newtalk.tw/news/2014/09/08/51183.html
+Page Success: http://newtalk.tw/news/2014/09/08/51183.html   _id:nt2014090851183
+Image Success: http://newtalk.tw/news/2014/09/08/51181.html
+Page Success: http://newtalk.tw/news/2014/09/08/51181.html   _id:nt2014090851181
+Image Success: http://newtalk.tw/news/2014/09/08/51180.html
+Page Success: http://newtalk.tw/news/2014/09/08/51180.html   _id:nt2014090851180
+Image Fail: http://newtalk.tw/news/2014/09/08/51178.html
+Page Success: http://newtalk.tw/news/2014/09/08/51178.html   _id:nt2014090851178
+Image Success: http://newtalk.tw/news/2014/09/08/51176.html
+Page Success: http://newtalk.tw/news/2014/09/08/51176.html   _id:nt2014090851176
+Image Success: http://newtalk.tw/news/2014/09/08/51171.html
+Page Success: http://newtalk.tw/news/2014/09/08/51171.html   _id:nt2014090851171
+Image Success: http://newtalk.tw/news/2014/09/07/51169.html
+Page Success: http://newtalk.tw/news/2014/09/07/51169.html   _id:nt2014090751169
+Image Fail: http://newtalk.tw/news/2014/09/07/51166.html
+Page Success: http://newtalk.tw/news/2014/09/07/51166.html   _id:nt2014090751166
+Image Success: http://newtalk.tw/news/2014/09/07/51165.html
+Page Fail: http://newtalk.tw/news/2014/09/07/51165.html
+Image Success: http://newtalk.tw/news/2014/09/07/51164.html
+Page Success: http://newtalk.tw/news/2014/09/07/51164.html   _id:nt2014090751164
+Image Success: http://newtalk.tw/news/2014/09/07/51163.html
+Page Success: http://newtalk.tw/news/2014/09/07/51163.html   _id:nt2014090751163
+Image Success: http://newtalk.tw/news/2014/09/07/51161.html
+Page Success: http://newtalk.tw/news/2014/09/07/51161.html   _id:nt2014090751161
+Image Success: http://newtalk.tw/news/2014/09/07/51160.html
+Page Success: http://newtalk.tw/news/2014/09/07/51160.html   _id:nt2014090751160
+Image Success: http://newtalk.tw/news/2014/09/06/51157.html
+Page Success: http://newtalk.tw/news/2014/09/06/51157.html   _id:nt2014090651157
+Image Success: http://newtalk.tw/news/2014/09/06/51152.html
+Page Success: http://newtalk.tw/news/2014/09/06/51152.html   _id:nt2014090651152
+Image Success: http://newtalk.tw/news/2014/09/06/51150.html
+Page Success: http://newtalk.tw/news/2014/09/06/51150.html   _id:nt2014090651150
+Image Success: http://newtalk.tw/news/2014/09/06/51149.html
+Page Success: http://newtalk.tw/news/2014/09/06/51149.html   _id:nt2014090651149
+Image Success: http://newtalk.tw/news/2014/09/06/51147.html
+Page Success: http://newtalk.tw/news/2014/09/06/51147.html   _id:nt2014090651147
+Image Success: http://newtalk.tw/news/2014/09/06/51148.html
+Page Success: http://newtalk.tw/news/2014/09/06/51148.html   _id:nt2014090651148
+Image Success: http://newtalk.tw/news/2014/09/05/51144.html
+Page Success: http://newtalk.tw/news/2014/09/05/51144.html   _id:nt2014090551144
+Image Success: http://newtalk.tw/news/2014/09/05/51142.html
+Page Success: http://newtalk.tw/news/2014/09/05/51142.html   _id:nt2014090551142
+Image Success: http://newtalk.tw/news/2014/09/05/51139.html
+Page Success: http://newtalk.tw/news/2014/09/05/51139.html   _id:nt2014090551139
+Image Success: http://newtalk.tw/news/2014/09/05/51138.html
+Page Success: http://newtalk.tw/news/2014/09/05/51138.html   _id:nt2014090551138
+Image Success: http://newtalk.tw/news/2014/09/05/51136.html
+Page Success: http://newtalk.tw/news/2014/09/05/51136.html   _id:nt2014090551136
+Image Success: http://newtalk.tw/news/2014/09/05/51135.html
+Page Success: http://newtalk.tw/news/2014/09/05/51135.html   _id:nt2014090551135
+Image Success: http://newtalk.tw/news/2014/09/05/51134.html
+Page Success: http://newtalk.tw/news/2014/09/05/51134.html   _id:nt2014090551134
+Image Success: http://newtalk.tw/news/2014/09/05/51133.html
+Page Success: http://newtalk.tw/news/2014/09/05/51133.html   _id:nt2014090551133
+Image Success: http://newtalk.tw/news/2014/09/05/51124.html
+Page Success: http://newtalk.tw/news/2014/09/05/51124.html   _id:nt2014090551124
+Image Success: http://newtalk.tw/news/2014/09/05/51129.html
+Page Success: http://newtalk.tw/news/2014/09/05/51129.html   _id:nt2014090551129
+Image Success: http://newtalk.tw/news/2014/09/05/51128.html
+Page Fail: http://newtalk.tw/news/2014/09/05/51128.html
+Image Success: http://newtalk.tw/news/2014/09/05/51125.html
+Page Success: http://newtalk.tw/news/2014/09/05/51125.html   _id:nt2014090551125
+Image Success: http://newtalk.tw/news/2014/09/05/51117.html
+Page Success: http://newtalk.tw/news/2014/09/05/51117.html   _id:nt2014090551117
+Image Success: http://newtalk.tw/news/2014/09/05/51114.html
+Page Fail: http://newtalk.tw/news/2014/09/05/51114.html
+Image Success: http://newtalk.tw/news/2014/09/05/51111.html
+Page Success: http://newtalk.tw/news/2014/09/05/51111.html   _id:nt2014090551111
+Image Success: http://newtalk.tw/news/2014/09/05/51112.html
+Page Success: http://newtalk.tw/news/2014/09/05/51112.html   _id:nt2014090551112
+Image Success: http://newtalk.tw/news/2014/09/05/51109.html
+Page Success: http://newtalk.tw/news/2014/09/05/51109.html   _id:nt2014090551109
+Image Success: http://newtalk.tw/news/2014/09/05/51102.html
+Page Success: http://newtalk.tw/news/2014/09/05/51102.html   _id:nt2014090551102
+Image Success: http://newtalk.tw/news/2014/09/05/51105.html
+Page Success: http://newtalk.tw/news/2014/09/05/51105.html   _id:nt2014090551105
+Image Success: http://newtalk.tw/news/2014/09/05/51108.html
+Page Success: http://newtalk.tw/news/2014/09/05/51108.html   _id:nt2014090551108
+Image Success: http://newtalk.tw/news/2014/09/04/51095.html
+Page Success: http://newtalk.tw/news/2014/09/04/51095.html   _id:nt2014090451095
+Image Success: http://newtalk.tw/news/2014/09/04/51093.html
+Page Success: http://newtalk.tw/news/2014/09/04/51093.html   _id:nt2014090451093
+Image Success: http://newtalk.tw/news/2014/09/04/51087.html
+Page Success: http://newtalk.tw/news/2014/09/04/51087.html   _id:nt2014090451087
+Image Success: http://newtalk.tw/news/2014/09/04/51085.html
+Page Success: http://newtalk.tw/news/2014/09/04/51085.html   _id:nt2014090451085
+Image Success: http://newtalk.tw/news/2014/09/04/51086.html
+Page Fail: http://newtalk.tw/news/2014/09/04/51086.html
+Image Success: http://newtalk.tw/news/2014/09/04/51081.html
+Page Success: http://newtalk.tw/news/2014/09/04/51081.html   _id:nt2014090451081
+Image Success: http://newtalk.tw/news/2014/09/04/51075.html
+Page Success: http://newtalk.tw/news/2014/09/04/51075.html   _id:nt2014090451075
+Image Success: http://newtalk.tw/news/2014/09/04/51072.html
+Page Success: http://newtalk.tw/news/2014/09/04/51072.html   _id:nt2014090451072
+Image Success: http://newtalk.tw/news/2014/09/04/51059.html
+Page Success: http://newtalk.tw/news/2014/09/04/51059.html   _id:nt2014090451059
+Image Success: http://newtalk.tw/news/2014/09/04/51060.html
+Page Success: http://newtalk.tw/news/2014/09/04/51060.html   _id:nt2014090451060
+Image Success: http://newtalk.tw/news/2014/09/04/51056.html
+Page Success: http://newtalk.tw/news/2014/09/04/51056.html   _id:nt2014090451056
+Image Success: http://newtalk.tw/news/2014/09/04/51055.html
+Page Success: http://newtalk.tw/news/2014/09/04/51055.html   _id:nt2014090451055
+Image Success: http://newtalk.tw/news/2014/09/04/51052.html
+Page Success: http://newtalk.tw/news/2014/09/04/51052.html   _id:nt2014090451052
+Image Success: http://newtalk.tw/news/2014/09/04/51045.html
+Page Success: http://newtalk.tw/news/2014/09/04/51045.html   _id:nt2014090451045
+Image Success: http://newtalk.tw/news/2014/09/03/51044.html
+Page Success: http://newtalk.tw/news/2014/09/03/51044.html   _id:nt2014090351044
+Image Success: http://newtalk.tw/news/2014/09/03/51043.html
+Page Success: http://newtalk.tw/news/2014/09/03/51043.html   _id:nt2014090351043
+Image Success: http://newtalk.tw/news/2014/09/03/51042.html
+Page Success: http://newtalk.tw/news/2014/09/03/51042.html   _id:nt2014090351042
+Image Success: http://newtalk.tw/news/2014/09/03/51038.html
+Page Success: http://newtalk.tw/news/2014/09/03/51038.html   _id:nt2014090351038
+Image Success: http://newtalk.tw/news/2014/09/03/51032.html
+Page Fail: http://newtalk.tw/news/2014/09/03/51032.html
+Image Success: http://newtalk.tw/news/2014/09/03/51037.html
+Page Success: http://newtalk.tw/news/2014/09/03/51037.html   _id:nt2014090351037
+Image Success: http://newtalk.tw/news/2014/09/03/51030.html
+Page Success: http://newtalk.tw/news/2014/09/03/51030.html   _id:nt2014090351030
+Image Success: http://newtalk.tw/news/2014/09/03/51025.html
+Page Success: http://newtalk.tw/news/2014/09/03/51025.html   _id:nt2014090351025
+Image Success: http://newtalk.tw/news/2014/09/03/51021.html
+Page Success: http://newtalk.tw/news/2014/09/03/51021.html   _id:nt2014090351021
+Image Success: http://newtalk.tw/news/2014/09/03/51022.html
+Page Success: http://newtalk.tw/news/2014/09/03/51022.html   _id:nt2014090351022
+Image Success: http://newtalk.tw/news/2014/09/03/51018.html
+Page Success: http://newtalk.tw/news/2014/09/03/51018.html   _id:nt2014090351018
+Image Success: http://newtalk.tw/news/2014/09/03/51016.html
+Page Success: http://newtalk.tw/news/2014/09/03/51016.html   _id:nt2014090351016
+Image Success: http://newtalk.tw/news/2014/09/03/51010.html
+Page Success: http://newtalk.tw/news/2014/09/03/51010.html   _id:nt2014090351010
+Image Success: http://newtalk.tw/news/2014/09/02/51002.html
+Page Success: http://newtalk.tw/news/2014/09/02/51002.html   _id:nt2014090251002
+Image Success: http://newtalk.tw/news/2014/09/02/51001.html
+Page Success: http://newtalk.tw/news/2014/09/02/51001.html   _id:nt2014090251001
+Image Success: http://newtalk.tw/news/2014/09/02/50999.html
+Page Success: http://newtalk.tw/news/2014/09/02/50999.html   _id:nt2014090250999
+Image Success: http://newtalk.tw/news/2014/09/02/50998.html
+Page Success: http://newtalk.tw/news/2014/09/02/50998.html   _id:nt2014090250998
+Image Success: http://newtalk.tw/news/2014/09/02/50996.html
+Page Success: http://newtalk.tw/news/2014/09/02/50996.html   _id:nt2014090250996
+Image Success: http://newtalk.tw/news/2014/09/02/50985.html
+Page Success: http://newtalk.tw/news/2014/09/02/50985.html   _id:nt2014090250985
+Image Success: http://newtalk.tw/news/2014/09/02/50993.html
+Page Success: http://newtalk.tw/news/2014/09/02/50993.html   _id:nt2014090250993
+Image Success: http://newtalk.tw/news/2014/09/02/50991.html
+Page Success: http://newtalk.tw/news/2014/09/02/50991.html   _id:nt2014090250991
+Image Success: http://newtalk.tw/news/2014/09/02/50987.html
+Page Success: http://newtalk.tw/news/2014/09/02/50987.html   _id:nt2014090250987
+Image Success: http://newtalk.tw/news/2014/09/02/50979.html
+Page Success: http://newtalk.tw/news/2014/09/02/50979.html   _id:nt2014090250979
+Image Success: http://newtalk.tw/news/2014/09/02/50978.html
+Page Success: http://newtalk.tw/news/2014/09/02/50978.html   _id:nt2014090250978
+Image Success: http://newtalk.tw/news/2014/09/02/50977.html
+Page Success: http://newtalk.tw/news/2014/09/02/50977.html   _id:nt2014090250977
+Image Success: http://newtalk.tw/news/2014/09/02/50974.html
+Page Success: http://newtalk.tw/news/2014/09/02/50974.html   _id:nt2014090250974
+Image Success: http://newtalk.tw/news/2014/09/02/50972.html
+Page Success: http://newtalk.tw/news/2014/09/02/50972.html   _id:nt2014090250972
+Image Success: http://newtalk.tw/news/2014/09/02/50968.html
+Page Success: http://newtalk.tw/news/2014/09/02/50968.html   _id:nt2014090250968
+Image Success: http://newtalk.tw/news/2014/09/02/50964.html
+Page Success: http://newtalk.tw/news/2014/09/02/50964.html   _id:nt2014090250964
+Image Success: http://newtalk.tw/news/2014/09/01/50963.html
+Page Success: http://newtalk.tw/news/2014/09/01/50963.html   _id:nt2014090150963
+Image Success: http://newtalk.tw/news/2014/09/01/50962.html
+Page Success: http://newtalk.tw/news/2014/09/01/50962.html   _id:nt2014090150962
+Image Success: http://newtalk.tw/news/2014/09/01/50961.html
+Page Success: http://newtalk.tw/news/2014/09/01/50961.html   _id:nt2014090150961
+Image Success: http://newtalk.tw/news/2014/09/01/50959.html
+Page Success: http://newtalk.tw/news/2014/09/01/50959.html   _id:nt2014090150959
+Image Success: http://newtalk.tw/news/2014/09/01/50949.html
+Page Success: http://newtalk.tw/news/2014/09/01/50949.html   _id:nt2014090150949
+Image Success: http://newtalk.tw/news/2014/09/01/50945.html
+Page Success: http://newtalk.tw/news/2014/09/01/50945.html   _id:nt2014090150945
+Image Success: http://newtalk.tw/news/2014/09/01/50942.html
+Page Success: http://newtalk.tw/news/2014/09/01/50942.html   _id:nt2014090150942
+Image Success: http://newtalk.tw/news/2014/09/01/50938.html
+Page Success: http://newtalk.tw/news/2014/09/01/50938.html   _id:nt2014090150938
+Image Success: http://newtalk.tw/news/2014/09/01/50932.html
+Page Success: http://newtalk.tw/news/2014/09/01/50932.html   _id:nt2014090150932
+Image Fail: http://newtalk.tw/news/2014/08/31/50925.html
+Page Success: http://newtalk.tw/news/2014/08/31/50925.html   _id:nt2014083150925
+Image Fail: http://newtalk.tw/news/2014/08/31/50923.html
+Page Success: http://newtalk.tw/news/2014/08/31/50923.html   _id:nt2014083150923
+Image Success: http://newtalk.tw/news/2014/08/31/50922.html
+Page Success: http://newtalk.tw/news/2014/08/31/50922.html   _id:nt2014083150922
+Image Success: http://newtalk.tw/news/2014/08/31/50921.html
+Page Success: http://newtalk.tw/news/2014/08/31/50921.html   _id:nt2014083150921
+Image Success: http://newtalk.tw/news/2014/08/31/50917.html
+Page Success: http://newtalk.tw/news/2014/08/31/50917.html   _id:nt2014083150917
+Image Success: http://newtalk.tw/news/2014/08/31/50916.html
+Page Success: http://newtalk.tw/news/2014/08/31/50916.html   _id:nt2014083150916
+Image Success: http://newtalk.tw/news/2014/08/31/50915.html
+Page Success: http://newtalk.tw/news/2014/08/31/50915.html   _id:nt2014083150915
+Image Success: http://newtalk.tw/news/2014/08/31/50914.html
+Page Success: http://newtalk.tw/news/2014/08/31/50914.html   _id:nt2014083150914
+Image Success: http://newtalk.tw/news/2014/08/31/50913.html
+Page Success: http://newtalk.tw/news/2014/08/31/50913.html   _id:nt2014083150913
+Image Success: http://newtalk.tw/news/2014/08/30/50907.html
+Page Success: http://newtalk.tw/news/2014/08/30/50907.html   _id:nt2014083050907
+Image Success: http://newtalk.tw/news/2014/08/30/50905.html
+Page Success: http://newtalk.tw/news/2014/08/30/50905.html   _id:nt2014083050905
+Image Success: http://newtalk.tw/news/2014/08/30/50904.html
+Page Success: http://newtalk.tw/news/2014/08/30/50904.html   _id:nt2014083050904
+Image Success: http://newtalk.tw/news/2014/08/30/50901.html
+Page Success: http://newtalk.tw/news/2014/08/30/50901.html   _id:nt2014083050901
+Image Success: http://newtalk.tw/news/2014/08/30/50898.html
+Page Success: http://newtalk.tw/news/2014/08/30/50898.html   _id:nt2014083050898
+Image Success: http://newtalk.tw/news/2014/08/30/50897.html
+Page Success: http://newtalk.tw/news/2014/08/30/50897.html   _id:nt2014083050897
+Image Success: http://newtalk.tw/news/2014/08/30/50896.html
+Page Success: http://newtalk.tw/news/2014/08/30/50896.html   _id:nt2014083050896
+Image Success: http://newtalk.tw/news/2014/08/30/50895.html
+Page Success: http://newtalk.tw/news/2014/08/30/50895.html   _id:nt2014083050895
+Image Success: http://newtalk.tw/news/2014/08/29/50891.html
+Page Success: http://newtalk.tw/news/2014/08/29/50891.html   _id:nt2014082950891
+Image Success: http://newtalk.tw/news/2014/08/29/50890.html
+Page Success: http://newtalk.tw/news/2014/08/29/50890.html   _id:nt2014082950890
+Image Fail: http://newtalk.tw/news/2014/08/29/50887.html
+Page Success: http://newtalk.tw/news/2014/08/29/50887.html   _id:nt2014082950887
+Image Success: http://newtalk.tw/news/2014/08/29/50881.html
+Page Success: http://newtalk.tw/news/2014/08/29/50881.html   _id:nt2014082950881
+Image Success: http://newtalk.tw/news/2014/08/29/50878.html
+Page Fail: http://newtalk.tw/news/2014/08/29/50878.html
+Image Success: http://newtalk.tw/news/2014/08/29/50876.html
+Page Success: http://newtalk.tw/news/2014/08/29/50876.html   _id:nt2014082950876
+Image Success: http://newtalk.tw/news/2014/08/29/50863.html
+Page Success: http://newtalk.tw/news/2014/08/29/50863.html   _id:nt2014082950863
+Image Success: http://newtalk.tw/news/2014/08/29/50862.html
+Page Success: http://newtalk.tw/news/2014/08/29/50862.html   _id:nt2014082950862
+Image Success: http://newtalk.tw/news/2014/08/28/50836.html
+Page Success: http://newtalk.tw/news/2014/08/28/50836.html   _id:nt2014082850836
+Image Success: http://newtalk.tw/news/2014/08/28/50834.html
+Page Success: http://newtalk.tw/news/2014/08/28/50834.html   _id:nt2014082850834
+Image Success: http://newtalk.tw/news/2014/08/28/50833.html
+Page Success: http://newtalk.tw/news/2014/08/28/50833.html   _id:nt2014082850833
+Image Success: http://newtalk.tw/news/2014/08/28/50826.html
+Page Success: http://newtalk.tw/news/2014/08/28/50826.html   _id:nt2014082850826
+Image Success: http://newtalk.tw/news/2014/08/28/50828.html
+Page Success: http://newtalk.tw/news/2014/08/28/50828.html   _id:nt2014082850828
+Image Success: http://newtalk.tw/news/2014/08/28/50822.html
+Page Success: http://newtalk.tw/news/2014/08/28/50822.html   _id:nt2014082850822
+Image Success: http://newtalk.tw/news/2014/08/27/50815.html
+Page Success: http://newtalk.tw/news/2014/08/27/50815.html   _id:nt2014082750815
+Image Success: http://newtalk.tw/news/2014/08/27/50814.html
+Page Success: http://newtalk.tw/news/2014/08/27/50814.html   _id:nt2014082750814
+Image Success: http://newtalk.tw/news/2014/08/27/50813.html
+Page Success: http://newtalk.tw/news/2014/08/27/50813.html   _id:nt2014082750813
+Image Success: http://newtalk.tw/news/2014/08/27/50804.html
+Page Success: http://newtalk.tw/news/2014/08/27/50804.html   _id:nt2014082750804
+Image Fail: http://newtalk.tw/news/2014/08/27/50803.html
+Page Success: http://newtalk.tw/news/2014/08/27/50803.html   _id:nt2014082750803
+Image Success: http://newtalk.tw/news/2014/08/27/50791.html
+Page Success: http://newtalk.tw/news/2014/08/27/50791.html   _id:nt2014082750791
+Image Success: http://newtalk.tw/news/2014/08/27/50786.html
+Page Success: http://newtalk.tw/news/2014/08/27/50786.html   _id:nt2014082750786
+Image Success: http://newtalk.tw/news/2014/08/26/50778.html
+Page Success: http://newtalk.tw/news/2014/08/26/50778.html   _id:nt2014082650778
+Image Success: http://newtalk.tw/news/2014/08/26/50777.html
+Page Success: http://newtalk.tw/news/2014/08/26/50777.html   _id:nt2014082650777
+Image Success: http://newtalk.tw/news/2014/08/26/50776.html
+Page Success: http://newtalk.tw/news/2014/08/26/50776.html   _id:nt2014082650776
+Image Fail: http://newtalk.tw/news/2014/08/26/50775.html
+Page Success: http://newtalk.tw/news/2014/08/26/50775.html   _id:nt2014082650775
+Image Success: http://newtalk.tw/news/2014/08/26/50774.html
+Page Success: http://newtalk.tw/news/2014/08/26/50774.html   _id:nt2014082650774
+Image Success: http://newtalk.tw/news/2014/08/26/50764.html
+Page Success: http://newtalk.tw/news/2014/08/26/50764.html   _id:nt2014082650764
+Image Success: http://newtalk.tw/news/2014/08/26/50769.html
+Page Success: http://newtalk.tw/news/2014/08/26/50769.html   _id:nt2014082650769
+Image Success: http://newtalk.tw/news/2014/08/26/50756.html
+Page Success: http://newtalk.tw/news/2014/08/26/50756.html   _id:nt2014082650756
+Image Success: http://newtalk.tw/news/2014/08/26/50759.html
+Page Success: http://newtalk.tw/news/2014/08/26/50759.html   _id:nt2014082650759
+Image Success: http://newtalk.tw/news/2014/08/26/50757.html
+Page Success: http://newtalk.tw/news/2014/08/26/50757.html   _id:nt2014082650757
+Image Success: http://newtalk.tw/news/2014/08/26/50758.html
+Page Success: http://newtalk.tw/news/2014/08/26/50758.html   _id:nt2014082650758
+Image Success: http://newtalk.tw/news/2014/08/26/50752.html
+Page Success: http://newtalk.tw/news/2014/08/26/50752.html   _id:nt2014082650752
+Image Success: http://newtalk.tw/news/2014/08/26/50755.html
+Page Success: http://newtalk.tw/news/2014/08/26/50755.html   _id:nt2014082650755
+Image Success: http://newtalk.tw/news/2014/08/26/50748.html
+Page Success: http://newtalk.tw/news/2014/08/26/50748.html   _id:nt2014082650748
+Image Success: http://newtalk.tw/news/2014/08/26/50753.html
+Page Success: http://newtalk.tw/news/2014/08/26/50753.html   _id:nt2014082650753
+Image Success: http://newtalk.tw/news/2014/08/26/50749.html
+Page Success: http://newtalk.tw/news/2014/08/26/50749.html   _id:nt2014082650749
+Image Success: http://newtalk.tw/news/2014/08/26/50742.html
+Page Success: http://newtalk.tw/news/2014/08/26/50742.html   _id:nt2014082650742
+Image Success: http://newtalk.tw/news/2014/08/26/50747.html
+Page Success: http://newtalk.tw/news/2014/08/26/50747.html   _id:nt2014082650747
+Image Success: http://newtalk.tw/news/2014/08/25/50736.html
+Page Success: http://newtalk.tw/news/2014/08/25/50736.html   _id:nt2014082550736
+Image Success: http://newtalk.tw/news/2014/08/25/50733.html
+Page Success: http://newtalk.tw/news/2014/08/25/50733.html   _id:nt2014082550733
+Image Success: http://newtalk.tw/news/2014/08/25/50720.html
+Page Success: http://newtalk.tw/news/2014/08/25/50720.html   _id:nt2014082550720
+Image Success: http://newtalk.tw/news/2014/08/25/50712.html
+Page Success: http://newtalk.tw/news/2014/08/25/50712.html   _id:nt2014082550712
+Image Success: http://newtalk.tw/news/2014/08/25/50711.html
+Page Success: http://newtalk.tw/news/2014/08/25/50711.html   _id:nt2014082550711
+Image Success: http://newtalk.tw/news/2014/08/24/50703.html
+Page Success: http://newtalk.tw/news/2014/08/24/50703.html   _id:nt2014082450703
+Image Success: http://newtalk.tw/news/2014/08/24/50702.html
+Page Success: http://newtalk.tw/news/2014/08/24/50702.html   _id:nt2014082450702
+Image Success: http://newtalk.tw/news/2014/08/24/50701.html
+Page Success: http://newtalk.tw/news/2014/08/24/50701.html   _id:nt2014082450701
+Image Success: http://newtalk.tw/news/2014/08/24/50699.html
+Page Success: http://newtalk.tw/news/2014/08/24/50699.html   _id:nt2014082450699
+Image Success: http://newtalk.tw/news/2014/08/24/50698.html
+Page Success: http://newtalk.tw/news/2014/08/24/50698.html   _id:nt2014082450698
+Image Success: http://newtalk.tw/news/2014/08/24/50697.html
+Page Success: http://newtalk.tw/news/2014/08/24/50697.html   _id:nt2014082450697
+Image Success: http://newtalk.tw/news/2014/08/24/50696.html
+Page Success: http://newtalk.tw/news/2014/08/24/50696.html   _id:nt2014082450696
+Image Fail: http://newtalk.tw/news/2014/08/24/50691.html
+Page Success: http://newtalk.tw/news/2014/08/24/50691.html   _id:nt2014082450691
+Image Fail: http://newtalk.tw/news/2014/08/24/50689.html
+Page Success: http://newtalk.tw/news/2014/08/24/50689.html   _id:nt2014082450689
+Image Success: http://newtalk.tw/news/2014/08/24/50687.html
+Page Success: http://newtalk.tw/news/2014/08/24/50687.html   _id:nt2014082450687
+Image Success: http://newtalk.tw/news/2014/08/23/50682.html
+Page Success: http://newtalk.tw/news/2014/08/23/50682.html   _id:nt2014082350682
+Image Success: http://newtalk.tw/news/2014/08/23/50681.html
+Page Success: http://newtalk.tw/news/2014/08/23/50681.html   _id:nt2014082350681
+Image Success: http://newtalk.tw/news/2014/08/23/50678.html
+Page Success: http://newtalk.tw/news/2014/08/23/50678.html   _id:nt2014082350678
+Image Success: http://newtalk.tw/news/2014/08/23/50677.html
+Page Success: http://newtalk.tw/news/2014/08/23/50677.html   _id:nt2014082350677
+Image Success: http://newtalk.tw/news/2014/08/23/50676.html
+Page Success: http://newtalk.tw/news/2014/08/23/50676.html   _id:nt2014082350676
+Image Fail: http://newtalk.tw/news/2014/08/23/50673.html
+Page Success: http://newtalk.tw/news/2014/08/23/50673.html   _id:nt2014082350673
+Image Success: http://newtalk.tw/news/2014/08/23/50672.html
+Page Success: http://newtalk.tw/news/2014/08/23/50672.html   _id:nt2014082350672
+
+Total Image Fail: 99
+Total Page Fail: 16
+Total Image Success: 831
+Total Page Success: 914

@@ -1,0 +1,1105 @@
+國際
+['http://newtalk.tw/news_list.php?oid=1&p=1', 'http://newtalk.tw/news_list.php?oid=1&p=2', 'http://newtalk.tw/news_list.php?oid=1&p=3', 'http://newtalk.tw/news_list.php?oid=1&p=4', 'http://newtalk.tw/news_list.php?oid=1&p=5', 'http://newtalk.tw/news_list.php?oid=1&p=6']
+20
+http://newtalk.tw/news/2014/09/18/51552.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091851552 http://newtalk.tw/news/2014/09/18/51552.html
+nt2014091851539 http://newtalk.tw/news/2014/09/18/51539.html
+nt2014091851536 http://newtalk.tw/news/2014/09/18/51536.html
+nt2014091851533 http://newtalk.tw/news/2014/09/18/51533.html
+nt2014091851532 http://newtalk.tw/news/2014/09/18/51532.html
+http://newtalk.tw/news/2014/09/18/51531.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091851531 http://newtalk.tw/news/2014/09/18/51531.html
+nt2014091751507 http://newtalk.tw/news/2014/09/17/51507.html
+nt2014091751492 http://newtalk.tw/news/2014/09/17/51492.html
+nt2014091751491 http://newtalk.tw/news/2014/09/17/51491.html
+nt2014091751490 http://newtalk.tw/news/2014/09/17/51490.html
+nt2014091751489 http://newtalk.tw/news/2014/09/17/51489.html
+nt2014091751488 http://newtalk.tw/news/2014/09/17/51488.html
+nt2014091751487 http://newtalk.tw/news/2014/09/17/51487.html
+nt2014091651465 http://newtalk.tw/news/2014/09/16/51465.html
+nt2014091651444 http://newtalk.tw/news/2014/09/16/51444.html
+http://newtalk.tw/news/2014/09/15/51442.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091551442 http://newtalk.tw/news/2014/09/15/51442.html
+nt2014091551423 http://newtalk.tw/news/2014/09/15/51423.html
+nt2014091551419 http://newtalk.tw/news/2014/09/15/51419.html
+nt2014091551413 http://newtalk.tw/news/2014/09/15/51413.html
+http://newtalk.tw/news/2014/09/15/51412.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091551412 http://newtalk.tw/news/2014/09/15/51412.html
+20
+nt2014091551411 http://newtalk.tw/news/2014/09/15/51411.html
+nt2014091551409 http://newtalk.tw/news/2014/09/15/51409.html
+http://newtalk.tw/news/2014/09/14/51398.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091451398 http://newtalk.tw/news/2014/09/14/51398.html
+nt2014091351387 http://newtalk.tw/news/2014/09/13/51387.html
+http://newtalk.tw/news/2014/09/13/51379.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091351379 http://newtalk.tw/news/2014/09/13/51379.html
+http://newtalk.tw/news/2014/09/12/51359.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091251359 http://newtalk.tw/news/2014/09/12/51359.html
+nt2014091251353 http://newtalk.tw/news/2014/09/12/51353.html
+nt2014091251332 http://newtalk.tw/news/2014/09/12/51332.html
+http://newtalk.tw/news/2014/09/12/51331.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091251331 http://newtalk.tw/news/2014/09/12/51331.html
+nt2014091151318 http://newtalk.tw/news/2014/09/11/51318.html
+nt2014091151281 http://newtalk.tw/news/2014/09/11/51281.html
+nt2014091151280 http://newtalk.tw/news/2014/09/11/51280.html
+nt2014091051272 http://newtalk.tw/news/2014/09/10/51272.html
+http://newtalk.tw/news/2014/09/10/51251.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091051251 http://newtalk.tw/news/2014/09/10/51251.html
+nt2014091051231 http://newtalk.tw/news/2014/09/10/51231.html
+nt2014091051229 http://newtalk.tw/news/2014/09/10/51229.html
+http://newtalk.tw/news/2014/09/09/51200.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090951200 http://newtalk.tw/news/2014/09/09/51200.html
+nt2014090951191 http://newtalk.tw/news/2014/09/09/51191.html
+nt2014090951190 http://newtalk.tw/news/2014/09/09/51190.html
+nt2014090951189 http://newtalk.tw/news/2014/09/09/51189.html
+20
+nt2014090951188 http://newtalk.tw/news/2014/09/09/51188.html
+nt2014090951186 http://newtalk.tw/news/2014/09/09/51186.html
+nt2014090951185 http://newtalk.tw/news/2014/09/09/51185.html
+nt2014090851177 http://newtalk.tw/news/2014/09/08/51177.html
+nt2014090851172 http://newtalk.tw/news/2014/09/08/51172.html
+nt2014090651145 http://newtalk.tw/news/2014/09/06/51145.html
+http://newtalk.tw/news/2014/09/05/51106.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090551106 http://newtalk.tw/news/2014/09/05/51106.html
+nt2014090551101 http://newtalk.tw/news/2014/09/05/51101.html
+nt2014090551100 http://newtalk.tw/news/2014/09/05/51100.html
+nt2014090551097 http://newtalk.tw/news/2014/09/05/51097.html
+nt2014090451082 http://newtalk.tw/news/2014/09/04/51082.html
+nt2014090451078 http://newtalk.tw/news/2014/09/04/51078.html
+nt2014090451058 http://newtalk.tw/news/2014/09/04/51058.html
+nt2014090451050 http://newtalk.tw/news/2014/09/04/51050.html
+nt2014090451049 http://newtalk.tw/news/2014/09/04/51049.html
+nt2014090451048 http://newtalk.tw/news/2014/09/04/51048.html
+nt2014090451047 http://newtalk.tw/news/2014/09/04/51047.html
+nt2014090451046 http://newtalk.tw/news/2014/09/04/51046.html
+nt2014090351041 http://newtalk.tw/news/2014/09/03/51041.html
+nt2014090351029 http://newtalk.tw/news/2014/09/03/51029.html
+20
+http://newtalk.tw/news/2014/09/03/51014.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090351014 http://newtalk.tw/news/2014/09/03/51014.html
+nt2014090351008 http://newtalk.tw/news/2014/09/03/51008.html
+nt2014090351007 http://newtalk.tw/news/2014/09/03/51007.html
+nt2014090351006 http://newtalk.tw/news/2014/09/03/51006.html
+nt2014090250969 http://newtalk.tw/news/2014/09/02/50969.html
+nt2014090250967 http://newtalk.tw/news/2014/09/02/50967.html
+http://newtalk.tw/news/2014/09/01/50941.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090150941 http://newtalk.tw/news/2014/09/01/50941.html
+nt2014090150931 http://newtalk.tw/news/2014/09/01/50931.html
+nt2014090150930 http://newtalk.tw/news/2014/09/01/50930.html
+nt2014090150929 http://newtalk.tw/news/2014/09/01/50929.html
+nt2014090150927 http://newtalk.tw/news/2014/09/01/50927.html
+http://newtalk.tw/news/2014/08/30/50899.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014083050899 http://newtalk.tw/news/2014/08/30/50899.html
+http://newtalk.tw/news/2014/08/30/50894.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014083050894 http://newtalk.tw/news/2014/08/30/50894.html
+http://newtalk.tw/news/2014/08/30/50893.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014083050893 http://newtalk.tw/news/2014/08/30/50893.html
+nt2014082950886 http://newtalk.tw/news/2014/08/29/50886.html
+http://newtalk.tw/news/2014/08/29/50872.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014082950872 http://newtalk.tw/news/2014/08/29/50872.html
+http://newtalk.tw/news/2014/08/29/50861.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014082950861 http://newtalk.tw/news/2014/08/29/50861.html
+nt2014082950854 http://newtalk.tw/news/2014/08/29/50854.html
+nt2014082950853 http://newtalk.tw/news/2014/08/29/50853.html
+nt2014082950851 http://newtalk.tw/news/2014/08/29/50851.html
+20
+http://newtalk.tw/news/2014/08/28/50838.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014082850838 http://newtalk.tw/news/2014/08/28/50838.html
+nt2014082850825 http://newtalk.tw/news/2014/08/28/50825.html
+nt2014082850816 http://newtalk.tw/news/2014/08/28/50816.html
+nt2014082750792 http://newtalk.tw/news/2014/08/27/50792.html
+nt2014082750788 http://newtalk.tw/news/2014/08/27/50788.html
+nt2014082750785 http://newtalk.tw/news/2014/08/27/50785.html
+nt2014082750783 http://newtalk.tw/news/2014/08/27/50783.html
+nt2014082750782 http://newtalk.tw/news/2014/08/27/50782.html
+nt2014082750781 http://newtalk.tw/news/2014/08/27/50781.html
+nt2014082750780 http://newtalk.tw/news/2014/08/27/50780.html
+nt2014082650760 http://newtalk.tw/news/2014/08/26/50760.html
+nt2014082650745 http://newtalk.tw/news/2014/08/26/50745.html
+nt2014082650740 http://newtalk.tw/news/2014/08/26/50740.html
+nt2014082650738 http://newtalk.tw/news/2014/08/26/50738.html
+nt2014082550729 http://newtalk.tw/news/2014/08/25/50729.html
+nt2014082550722 http://newtalk.tw/news/2014/08/25/50722.html
+nt2014082550714 http://newtalk.tw/news/2014/08/25/50714.html
+http://newtalk.tw/news/2014/08/25/50713.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014082550713 http://newtalk.tw/news/2014/08/25/50713.html
+nt2014082550707 http://newtalk.tw/news/2014/08/25/50707.html
+nt2014082550706 http://newtalk.tw/news/2014/08/25/50706.html
+12
+nt2014082550705 http://newtalk.tw/news/2014/08/25/50705.html
+nt2014082350684 http://newtalk.tw/news/2014/08/23/50684.html
+nt2014082350675 http://newtalk.tw/news/2014/08/23/50675.html
+nt2014082350674 http://newtalk.tw/news/2014/08/23/50674.html
+http://newtalk.tw/news/2014/08/23/50669.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014082350669 http://newtalk.tw/news/2014/08/23/50669.html
+http://newtalk.tw/news/2014/08/22/50665.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014082250665 http://newtalk.tw/news/2014/08/22/50665.html
+http://newtalk.tw/news/2014/08/22/50656.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014082250656 http://newtalk.tw/news/2014/08/22/50656.html
+nt2014082250646 http://newtalk.tw/news/2014/08/22/50646.html
+http://newtalk.tw/news/2014/08/22/50642.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014082250642 http://newtalk.tw/news/2014/08/22/50642.html
+nt2014082250639 http://newtalk.tw/news/2014/08/22/50639.html
+nt2014082250630 http://newtalk.tw/news/2014/08/22/50630.html
+nt2014082250628 http://newtalk.tw/news/2014/08/22/50628.html
+政治
+['http://newtalk.tw/news_list.php?oid=2&p=1', 'http://newtalk.tw/news_list.php?oid=2&p=2', 'http://newtalk.tw/news_list.php?oid=2&p=3', 'http://newtalk.tw/news_list.php?oid=2&p=4', 'http://newtalk.tw/news_list.php?oid=2&p=5', 'http://newtalk.tw/news_list.php?oid=2&p=6', 'http://newtalk.tw/news_list.php?oid=2&p=7', 'http://newtalk.tw/news_list.php?oid=2&p=8']
+20
+http://newtalk.tw/news/2014/09/18/51565.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091851565 http://newtalk.tw/news/2014/09/18/51565.html
+nt2014091851564 http://newtalk.tw/news/2014/09/18/51564.html
+nt2014091851561 http://newtalk.tw/news/2014/09/18/51561.html
+nt2014091851545 http://newtalk.tw/news/2014/09/18/51545.html
+nt2014091851542 http://newtalk.tw/news/2014/09/18/51542.html
+nt2014091851535 http://newtalk.tw/news/2014/09/18/51535.html
+nt2014091751528 http://newtalk.tw/news/2014/09/17/51528.html
+nt2014091751522 http://newtalk.tw/news/2014/09/17/51522.html
+nt2014091751520 http://newtalk.tw/news/2014/09/17/51520.html
+nt2014091751516 http://newtalk.tw/news/2014/09/17/51516.html
+nt2014091751515 http://newtalk.tw/news/2014/09/17/51515.html
+nt2014091751514 http://newtalk.tw/news/2014/09/17/51514.html
+nt2014091751513 http://newtalk.tw/news/2014/09/17/51513.html
+nt2014091751499 http://newtalk.tw/news/2014/09/17/51499.html
+nt2014091751504 http://newtalk.tw/news/2014/09/17/51504.html
+nt2014091751503 http://newtalk.tw/news/2014/09/17/51503.html
+nt2014091751497 http://newtalk.tw/news/2014/09/17/51497.html
+nt2014091751501 http://newtalk.tw/news/2014/09/17/51501.html
+nt2014091751496 http://newtalk.tw/news/2014/09/17/51496.html
+nt2014091751494 http://newtalk.tw/news/2014/09/17/51494.html
+20
+http://newtalk.tw/news/2014/09/17/51486.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091751486 http://newtalk.tw/news/2014/09/17/51486.html
+nt2014091651485 http://newtalk.tw/news/2014/09/16/51485.html
+nt2014091651484 http://newtalk.tw/news/2014/09/16/51484.html
+nt2014091651474 http://newtalk.tw/news/2014/09/16/51474.html
+nt2014091651472 http://newtalk.tw/news/2014/09/16/51472.html
+nt2014091651471 http://newtalk.tw/news/2014/09/16/51471.html
+nt2014091651470 http://newtalk.tw/news/2014/09/16/51470.html
+nt2014091651467 http://newtalk.tw/news/2014/09/16/51467.html
+nt2014091651466 http://newtalk.tw/news/2014/09/16/51466.html
+nt2014091651462 http://newtalk.tw/news/2014/09/16/51462.html
+nt2014091651456 http://newtalk.tw/news/2014/09/16/51456.html
+nt2014091651450 http://newtalk.tw/news/2014/09/16/51450.html
+nt2014091651448 http://newtalk.tw/news/2014/09/16/51448.html
+nt2014091551437 http://newtalk.tw/news/2014/09/15/51437.html
+nt2014091551428 http://newtalk.tw/news/2014/09/15/51428.html
+nt2014091551433 http://newtalk.tw/news/2014/09/15/51433.html
+nt2014091551427 http://newtalk.tw/news/2014/09/15/51427.html
+nt2014091551425 http://newtalk.tw/news/2014/09/15/51425.html
+nt2014091551418 http://newtalk.tw/news/2014/09/15/51418.html
+nt2014091551417 http://newtalk.tw/news/2014/09/15/51417.html
+20
+nt2014091551414 http://newtalk.tw/news/2014/09/15/51414.html
+nt2014091451404 http://newtalk.tw/news/2014/09/14/51404.html
+nt2014091451396 http://newtalk.tw/news/2014/09/14/51396.html
+nt2014091451394 http://newtalk.tw/news/2014/09/14/51394.html
+nt2014091451392 http://newtalk.tw/news/2014/09/14/51392.html
+nt2014091451390 http://newtalk.tw/news/2014/09/14/51390.html
+nt2014091351384 http://newtalk.tw/news/2014/09/13/51384.html
+nt2014091351381 http://newtalk.tw/news/2014/09/13/51381.html
+nt2014091251358 http://newtalk.tw/news/2014/09/12/51358.html
+nt2014091251357 http://newtalk.tw/news/2014/09/12/51357.html
+nt2014091251345 http://newtalk.tw/news/2014/09/12/51345.html
+nt2014091251340 http://newtalk.tw/news/2014/09/12/51340.html
+http://newtalk.tw/news/2014/09/12/51333.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091251333 http://newtalk.tw/news/2014/09/12/51333.html
+nt2014091251327 http://newtalk.tw/news/2014/09/12/51327.html
+http://newtalk.tw/news/2014/09/11/51324.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091151324 http://newtalk.tw/news/2014/09/11/51324.html
+nt2014091151314 http://newtalk.tw/news/2014/09/11/51314.html
+nt2014091151317 http://newtalk.tw/news/2014/09/11/51317.html
+nt2014091151310 http://newtalk.tw/news/2014/09/11/51310.html
+http://newtalk.tw/news/2014/09/11/51304.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091151304 http://newtalk.tw/news/2014/09/11/51304.html
+nt2014091151300 http://newtalk.tw/news/2014/09/11/51300.html
+20
+http://newtalk.tw/news/2014/09/10/51259.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091051259 http://newtalk.tw/news/2014/09/10/51259.html
+nt2014091051255 http://newtalk.tw/news/2014/09/10/51255.html
+nt2014091051248 http://newtalk.tw/news/2014/09/10/51248.html
+nt2014091051240 http://newtalk.tw/news/2014/09/10/51240.html
+nt2014091051233 http://newtalk.tw/news/2014/09/10/51233.html
+http://newtalk.tw/news/2014/09/09/51209.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090951209 http://newtalk.tw/news/2014/09/09/51209.html
+nt2014090951218 http://newtalk.tw/news/2014/09/09/51218.html
+nt2014090951208 http://newtalk.tw/news/2014/09/09/51208.html
+nt2014090951195 http://newtalk.tw/news/2014/09/09/51195.html
+nt2014090951194 http://newtalk.tw/news/2014/09/09/51194.html
+nt2014090551141 http://newtalk.tw/news/2014/09/05/51141.html
+nt2014090551130 http://newtalk.tw/news/2014/09/05/51130.html
+nt2014090551131 http://newtalk.tw/news/2014/09/05/51131.html
+nt2014090551127 http://newtalk.tw/news/2014/09/05/51127.html
+nt2014090551113 http://newtalk.tw/news/2014/09/05/51113.html
+nt2014090551110 http://newtalk.tw/news/2014/09/05/51110.html
+http://newtalk.tw/news/2014/09/04/51094.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090451094 http://newtalk.tw/news/2014/09/04/51094.html
+nt2014090451090 http://newtalk.tw/news/2014/09/04/51090.html
+nt2014090451084 http://newtalk.tw/news/2014/09/04/51084.html
+nt2014090451079 http://newtalk.tw/news/2014/09/04/51079.html
+20
+nt2014090451061 http://newtalk.tw/news/2014/09/04/51061.html
+nt2014090451057 http://newtalk.tw/news/2014/09/04/51057.html
+nt2014090451053 http://newtalk.tw/news/2014/09/04/51053.html
+nt2014090351032 http://newtalk.tw/news/2014/09/03/51032.html
+nt2014090351033 http://newtalk.tw/news/2014/09/03/51033.html
+nt2014090351011 http://newtalk.tw/news/2014/09/03/51011.html
+nt2014090251004 http://newtalk.tw/news/2014/09/02/51004.html
+nt2014090250994 http://newtalk.tw/news/2014/09/02/50994.html
+nt2014090250989 http://newtalk.tw/news/2014/09/02/50989.html
+nt2014090250986 http://newtalk.tw/news/2014/09/02/50986.html
+nt2014090250976 http://newtalk.tw/news/2014/09/02/50976.html
+nt2014090250970 http://newtalk.tw/news/2014/09/02/50970.html
+nt2014090250971 http://newtalk.tw/news/2014/09/02/50971.html
+nt2014090150958 http://newtalk.tw/news/2014/09/01/50958.html
+http://newtalk.tw/news/2014/09/01/50956.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090150956 http://newtalk.tw/news/2014/09/01/50956.html
+nt2014090150955 http://newtalk.tw/news/2014/09/01/50955.html
+nt2014090150940 http://newtalk.tw/news/2014/09/01/50940.html
+nt2014090150936 http://newtalk.tw/news/2014/09/01/50936.html
+nt2014090150937 http://newtalk.tw/news/2014/09/01/50937.html
+nt2014090150934 http://newtalk.tw/news/2014/09/01/50934.html
+20
+nt2014090150933 http://newtalk.tw/news/2014/09/01/50933.html
+nt2014083050906 http://newtalk.tw/news/2014/08/30/50906.html
+nt2014083050900 http://newtalk.tw/news/2014/08/30/50900.html
+nt2014083050892 http://newtalk.tw/news/2014/08/30/50892.html
+nt2014082950889 http://newtalk.tw/news/2014/08/29/50889.html
+nt2014082950879 http://newtalk.tw/news/2014/08/29/50879.html
+nt2014082950878 http://newtalk.tw/news/2014/08/29/50878.html
+nt2014082950874 http://newtalk.tw/news/2014/08/29/50874.html
+nt2014082950866 http://newtalk.tw/news/2014/08/29/50866.html
+nt2014082950865 http://newtalk.tw/news/2014/08/29/50865.html
+nt2014082950860 http://newtalk.tw/news/2014/08/29/50860.html
+nt2014082950855 http://newtalk.tw/news/2014/08/29/50855.html
+nt2014082950856 http://newtalk.tw/news/2014/08/29/50856.html
+nt2014082850850 http://newtalk.tw/news/2014/08/28/50850.html
+nt2014082850849 http://newtalk.tw/news/2014/08/28/50849.html
+nt2014082850843 http://newtalk.tw/news/2014/08/28/50843.html
+nt2014082850842 http://newtalk.tw/news/2014/08/28/50842.html
+nt2014082850841 http://newtalk.tw/news/2014/08/28/50841.html
+nt2014082850831 http://newtalk.tw/news/2014/08/28/50831.html
+nt2014082850830 http://newtalk.tw/news/2014/08/28/50830.html
+20
+nt2014082850829 http://newtalk.tw/news/2014/08/28/50829.html
+nt2014082850823 http://newtalk.tw/news/2014/08/28/50823.html
+nt2014082850819 http://newtalk.tw/news/2014/08/28/50819.html
+http://newtalk.tw/news/2014/08/27/50811.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014082750811 http://newtalk.tw/news/2014/08/27/50811.html
+nt2014082750805 http://newtalk.tw/news/2014/08/27/50805.html
+nt2014082750800 http://newtalk.tw/news/2014/08/27/50800.html
+nt2014082750801 http://newtalk.tw/news/2014/08/27/50801.html
+nt2014082750794 http://newtalk.tw/news/2014/08/27/50794.html
+nt2014082750790 http://newtalk.tw/news/2014/08/27/50790.html
+nt2014082650773 http://newtalk.tw/news/2014/08/26/50773.html
+nt2014082650770 http://newtalk.tw/news/2014/08/26/50770.html
+nt2014082650751 http://newtalk.tw/news/2014/08/26/50751.html
+nt2014082650744 http://newtalk.tw/news/2014/08/26/50744.html
+nt2014082650743 http://newtalk.tw/news/2014/08/26/50743.html
+nt2014082550732 http://newtalk.tw/news/2014/08/25/50732.html
+http://newtalk.tw/news/2014/08/25/50727.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014082550727 http://newtalk.tw/news/2014/08/25/50727.html
+nt2014082550724 http://newtalk.tw/news/2014/08/25/50724.html
+nt2014082550718 http://newtalk.tw/news/2014/08/25/50718.html
+nt2014082550717 http://newtalk.tw/news/2014/08/25/50717.html
+nt2014082450692 http://newtalk.tw/news/2014/08/24/50692.html
+11
+nt2014082450690 http://newtalk.tw/news/2014/08/24/50690.html
+nt2014082450688 http://newtalk.tw/news/2014/08/24/50688.html
+nt2014082450686 http://newtalk.tw/news/2014/08/24/50686.html
+nt2014082350685 http://newtalk.tw/news/2014/08/23/50685.html
+nt2014082350683 http://newtalk.tw/news/2014/08/23/50683.html
+nt2014082350680 http://newtalk.tw/news/2014/08/23/50680.html
+nt2014082350679 http://newtalk.tw/news/2014/08/23/50679.html
+nt2014082350671 http://newtalk.tw/news/2014/08/23/50671.html
+nt2014082350668 http://newtalk.tw/news/2014/08/23/50668.html
+nt2014082350667 http://newtalk.tw/news/2014/08/23/50667.html
+nt2014082350666 http://newtalk.tw/news/2014/08/23/50666.html
+財經
+['http://newtalk.tw/news_list.php?oid=3&p=1', 'http://newtalk.tw/news_list.php?oid=3&p=2']
+20
+nt2014091851549 http://newtalk.tw/news/2014/09/18/51549.html
+nt2014091251368 http://newtalk.tw/news/2014/09/12/51368.html
+nt2014091151306 http://newtalk.tw/news/2014/09/11/51306.html
+nt2014091151305 http://newtalk.tw/news/2014/09/11/51305.html
+http://newtalk.tw/news/2014/09/11/51282.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091151282 http://newtalk.tw/news/2014/09/11/51282.html
+nt2014091051265 http://newtalk.tw/news/2014/09/10/51265.html
+nt2014091051252 http://newtalk.tw/news/2014/09/10/51252.html
+nt2014091051244 http://newtalk.tw/news/2014/09/10/51244.html
+nt2014090951217 http://newtalk.tw/news/2014/09/09/51217.html
+nt2014090951214 http://newtalk.tw/news/2014/09/09/51214.html
+nt2014090951210 http://newtalk.tw/news/2014/09/09/51210.html
+nt2014090451069 http://newtalk.tw/news/2014/09/04/51069.html
+nt2014090451062 http://newtalk.tw/news/2014/09/04/51062.html
+nt2014090351031 http://newtalk.tw/news/2014/09/03/51031.html
+nt2014090351027 http://newtalk.tw/news/2014/09/03/51027.html
+nt2014090351024 http://newtalk.tw/news/2014/09/03/51024.html
+nt2014090351020 http://newtalk.tw/news/2014/09/03/51020.html
+http://newtalk.tw/news/2014/09/03/51007.html  page crawl failed,  insertDocument :: caused by :: 11000 E11000 duplicate key error index: NewTalkDB.posts.$_id_  dup key: { : "nt2014090351007" }
+nt2014090150951 http://newtalk.tw/news/2014/09/01/50951.html
+nt2014082850835 http://newtalk.tw/news/2014/08/28/50835.html
+2
+nt2014082850824 http://newtalk.tw/news/2014/08/28/50824.html
+nt2014082650739 http://newtalk.tw/news/2014/08/26/50739.html
+司法
+['http://newtalk.tw/news_list.php?oid=4&p=1', 'http://newtalk.tw/news_list.php?oid=4&p=2', 'http://newtalk.tw/news_list.php?oid=4&p=3']
+20
+nt2014091751509 http://newtalk.tw/news/2014/09/17/51509.html
+http://newtalk.tw/news/2014/09/16/51479.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091651479 http://newtalk.tw/news/2014/09/16/51479.html
+nt2014091651445 http://newtalk.tw/news/2014/09/16/51445.html
+nt2014091351376 http://newtalk.tw/news/2014/09/13/51376.html
+http://newtalk.tw/news/2014/09/12/51372.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091251372 http://newtalk.tw/news/2014/09/12/51372.html
+nt2014091151285 http://newtalk.tw/news/2014/09/11/51285.html
+nt2014091051264 http://newtalk.tw/news/2014/09/10/51264.html
+nt2014090951211 http://newtalk.tw/news/2014/09/09/51211.html
+nt2014090951201 http://newtalk.tw/news/2014/09/09/51201.html
+nt2014090751168 http://newtalk.tw/news/2014/09/07/51168.html
+nt2014090651154 http://newtalk.tw/news/2014/09/06/51154.html
+http://newtalk.tw/news/2014/09/05/51137.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090551137 http://newtalk.tw/news/2014/09/05/51137.html
+nt2014090551132 http://newtalk.tw/news/2014/09/05/51132.html
+nt2014090551104 http://newtalk.tw/news/2014/09/05/51104.html
+nt2014090551080 http://newtalk.tw/news/2014/09/05/51080.html
+nt2014090451088 http://newtalk.tw/news/2014/09/04/51088.html
+nt2014090451086 http://newtalk.tw/news/2014/09/04/51086.html
+nt2014090451051 http://newtalk.tw/news/2014/09/04/51051.html
+nt2014090351023 http://newtalk.tw/news/2014/09/03/51023.html
+nt2014090351013 http://newtalk.tw/news/2014/09/03/51013.html
+20
+nt2014090351017 http://newtalk.tw/news/2014/09/03/51017.html
+nt2014090250997 http://newtalk.tw/news/2014/09/02/50997.html
+nt2014082950885 http://newtalk.tw/news/2014/08/29/50885.html
+nt2014082950858 http://newtalk.tw/news/2014/08/29/50858.html
+nt2014082950882 http://newtalk.tw/news/2014/08/29/50882.html
+nt2014082950867 http://newtalk.tw/news/2014/08/29/50867.html
+http://newtalk.tw/news/2014/08/29/50864.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014082950864 http://newtalk.tw/news/2014/08/29/50864.html
+nt2014082950857 http://newtalk.tw/news/2014/08/29/50857.html
+nt2014082950859 http://newtalk.tw/news/2014/08/29/50859.html
+nt2014082850848 http://newtalk.tw/news/2014/08/28/50848.html
+nt2014082850837 http://newtalk.tw/news/2014/08/28/50837.html
+nt2014082850839 http://newtalk.tw/news/2014/08/28/50839.html
+nt2014082850832 http://newtalk.tw/news/2014/08/28/50832.html
+nt2014082850821 http://newtalk.tw/news/2014/08/28/50821.html
+nt2014082750812 http://newtalk.tw/news/2014/08/27/50812.html
+nt2014082750810 http://newtalk.tw/news/2014/08/27/50810.html
+nt2014082750809 http://newtalk.tw/news/2014/08/27/50809.html
+nt2014082750796 http://newtalk.tw/news/2014/08/27/50796.html
+nt2014082750797 http://newtalk.tw/news/2014/08/27/50797.html
+nt2014082650766 http://newtalk.tw/news/2014/08/26/50766.html
+11
+http://newtalk.tw/news/2014/08/26/50767.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014082650767 http://newtalk.tw/news/2014/08/26/50767.html
+nt2014082650762 http://newtalk.tw/news/2014/08/26/50762.html
+nt2014082550737 http://newtalk.tw/news/2014/08/25/50737.html
+nt2014082550734 http://newtalk.tw/news/2014/08/25/50734.html
+nt2014082550731 http://newtalk.tw/news/2014/08/25/50731.html
+nt2014082550726 http://newtalk.tw/news/2014/08/25/50726.html
+nt2014082550723 http://newtalk.tw/news/2014/08/25/50723.html
+nt2014082550719 http://newtalk.tw/news/2014/08/25/50719.html
+nt2014082550710 http://newtalk.tw/news/2014/08/25/50710.html
+nt2014082550709 http://newtalk.tw/news/2014/08/25/50709.html
+nt2014082450693 http://newtalk.tw/news/2014/08/24/50693.html
+生活
+['http://newtalk.tw/news_list.php?oid=5&p=1', 'http://newtalk.tw/news_list.php?oid=5&p=2', 'http://newtalk.tw/news_list.php?oid=5&p=3', 'http://newtalk.tw/news_list.php?oid=5&p=4', 'http://newtalk.tw/news_list.php?oid=5&p=5', 'http://newtalk.tw/news_list.php?oid=5&p=6', 'http://newtalk.tw/news_list.php?oid=5&p=7', 'http://newtalk.tw/news_list.php?oid=5&p=8', 'http://newtalk.tw/news_list.php?oid=5&p=9', 'http://newtalk.tw/news_list.php?oid=5&p=10', 'http://newtalk.tw/news_list.php?oid=5&p=11']
+20
+http://newtalk.tw/news/2014/09/18/51556.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091851556 http://newtalk.tw/news/2014/09/18/51556.html
+nt2014091851557 http://newtalk.tw/news/2014/09/18/51557.html
+nt2014091851566 http://newtalk.tw/news/2014/09/18/51566.html
+nt2014091851555 http://newtalk.tw/news/2014/09/18/51555.html
+nt2014091851551 http://newtalk.tw/news/2014/09/18/51551.html
+nt2014091851541 http://newtalk.tw/news/2014/09/18/51541.html
+nt2014091851546 http://newtalk.tw/news/2014/09/18/51546.html
+nt2014091851540 http://newtalk.tw/news/2014/09/18/51540.html
+nt2014091851530 http://newtalk.tw/news/2014/09/18/51530.html
+nt2014091751525 http://newtalk.tw/news/2014/09/17/51525.html
+nt2014091751519 http://newtalk.tw/news/2014/09/17/51519.html
+nt2014091751517 http://newtalk.tw/news/2014/09/17/51517.html
+nt2014091751512 http://newtalk.tw/news/2014/09/17/51512.html
+http://newtalk.tw/news/2014/09/17/51511.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091751511 http://newtalk.tw/news/2014/09/17/51511.html
+nt2014091751508 http://newtalk.tw/news/2014/09/17/51508.html
+nt2014091751505 http://newtalk.tw/news/2014/09/17/51505.html
+http://newtalk.tw/news/2014/09/16/51483.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091651483 http://newtalk.tw/news/2014/09/16/51483.html
+nt2014091651478 http://newtalk.tw/news/2014/09/16/51478.html
+nt2014091651469 http://newtalk.tw/news/2014/09/16/51469.html
+nt2014091651473 http://newtalk.tw/news/2014/09/16/51473.html
+20
+nt2014091651460 http://newtalk.tw/news/2014/09/16/51460.html
+nt2014091651453 http://newtalk.tw/news/2014/09/16/51453.html
+nt2014091651461 http://newtalk.tw/news/2014/09/16/51461.html
+nt2014091651457 http://newtalk.tw/news/2014/09/16/51457.html
+nt2014091551435 http://newtalk.tw/news/2014/09/15/51435.html
+nt2014091551436 http://newtalk.tw/news/2014/09/15/51436.html
+nt2014091551434 http://newtalk.tw/news/2014/09/15/51434.html
+nt2014091551432 http://newtalk.tw/news/2014/09/15/51432.html
+nt2014091551431 http://newtalk.tw/news/2014/09/15/51431.html
+http://newtalk.tw/news/2014/09/15/51422.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091551422 http://newtalk.tw/news/2014/09/15/51422.html
+nt2014091551421 http://newtalk.tw/news/2014/09/15/51421.html
+nt2014091551416 http://newtalk.tw/news/2014/09/15/51416.html
+nt2014091551408 http://newtalk.tw/news/2014/09/15/51408.html
+nt2014091451406 http://newtalk.tw/news/2014/09/14/51406.html
+nt2014091451400 http://newtalk.tw/news/2014/09/14/51400.html
+nt2014091451399 http://newtalk.tw/news/2014/09/14/51399.html
+nt2014091451397 http://newtalk.tw/news/2014/09/14/51397.html
+nt2014091351386 http://newtalk.tw/news/2014/09/13/51386.html
+nt2014091351383 http://newtalk.tw/news/2014/09/13/51383.html
+nt2014091351382 http://newtalk.tw/news/2014/09/13/51382.html
+20
+nt2014091351377 http://newtalk.tw/news/2014/09/13/51377.html
+nt2014091351374 http://newtalk.tw/news/2014/09/13/51374.html
+http://newtalk.tw/news/2014/09/12/51369.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091251369 http://newtalk.tw/news/2014/09/12/51369.html
+nt2014091251367 http://newtalk.tw/news/2014/09/12/51367.html
+nt2014091251365 http://newtalk.tw/news/2014/09/12/51365.html
+nt2014091251364 http://newtalk.tw/news/2014/09/12/51364.html
+nt2014091251363 http://newtalk.tw/news/2014/09/12/51363.html
+nt2014091251361 http://newtalk.tw/news/2014/09/12/51361.html
+nt2014091251362 http://newtalk.tw/news/2014/09/12/51362.html
+nt2014091251360 http://newtalk.tw/news/2014/09/12/51360.html
+nt2014091251356 http://newtalk.tw/news/2014/09/12/51356.html
+nt2014091251348 http://newtalk.tw/news/2014/09/12/51348.html
+nt2014091251354 http://newtalk.tw/news/2014/09/12/51354.html
+nt2014091251350 http://newtalk.tw/news/2014/09/12/51350.html
+nt2014091251346 http://newtalk.tw/news/2014/09/12/51346.html
+nt2014091251349 http://newtalk.tw/news/2014/09/12/51349.html
+nt2014091251341 http://newtalk.tw/news/2014/09/12/51341.html
+http://newtalk.tw/news/2014/09/12/51342.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091251342 http://newtalk.tw/news/2014/09/12/51342.html
+nt2014091251343 http://newtalk.tw/news/2014/09/12/51343.html
+nt2014091251335 http://newtalk.tw/news/2014/09/12/51335.html
+20
+http://newtalk.tw/news/2014/09/11/51321.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091151321 http://newtalk.tw/news/2014/09/11/51321.html
+nt2014091151320 http://newtalk.tw/news/2014/09/11/51320.html
+nt2014091151312 http://newtalk.tw/news/2014/09/11/51312.html
+nt2014091151309 http://newtalk.tw/news/2014/09/11/51309.html
+nt2014091151299 http://newtalk.tw/news/2014/09/11/51299.html
+nt2014091151301 http://newtalk.tw/news/2014/09/11/51301.html
+nt2014091151297 http://newtalk.tw/news/2014/09/11/51297.html
+nt2014091151298 http://newtalk.tw/news/2014/09/11/51298.html
+nt2014091151295 http://newtalk.tw/news/2014/09/11/51295.html
+nt2014091151291 http://newtalk.tw/news/2014/09/11/51291.html
+nt2014091151288 http://newtalk.tw/news/2014/09/11/51288.html
+nt2014091151286 http://newtalk.tw/news/2014/09/11/51286.html
+nt2014091151283 http://newtalk.tw/news/2014/09/11/51283.html
+http://newtalk.tw/news/2014/09/11/51278.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091151278 http://newtalk.tw/news/2014/09/11/51278.html
+http://newtalk.tw/news/2014/09/10/51271.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091051271 http://newtalk.tw/news/2014/09/10/51271.html
+nt2014091051258 http://newtalk.tw/news/2014/09/10/51258.html
+nt2014091051268 http://newtalk.tw/news/2014/09/10/51268.html
+nt2014091051266 http://newtalk.tw/news/2014/09/10/51266.html
+nt2014091051269 http://newtalk.tw/news/2014/09/10/51269.html
+nt2014091051267 http://newtalk.tw/news/2014/09/10/51267.html
+20
+nt2014091051263 http://newtalk.tw/news/2014/09/10/51263.html
+nt2014091051247 http://newtalk.tw/news/2014/09/10/51247.html
+nt2014091051250 http://newtalk.tw/news/2014/09/10/51250.html
+nt2014091051256 http://newtalk.tw/news/2014/09/10/51256.html
+nt2014091051237 http://newtalk.tw/news/2014/09/10/51237.html
+nt2014091051249 http://newtalk.tw/news/2014/09/10/51249.html
+nt2014091051257 http://newtalk.tw/news/2014/09/10/51257.html
+nt2014091051246 http://newtalk.tw/news/2014/09/10/51246.html
+nt2014091051245 http://newtalk.tw/news/2014/09/10/51245.html
+nt2014091051243 http://newtalk.tw/news/2014/09/10/51243.html
+nt2014091051242 http://newtalk.tw/news/2014/09/10/51242.html
+nt2014091051234 http://newtalk.tw/news/2014/09/10/51234.html
+nt2014091051235 http://newtalk.tw/news/2014/09/10/51235.html
+nt2014090951226 http://newtalk.tw/news/2014/09/09/51226.html
+http://newtalk.tw/news/2014/09/09/51224.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090951224 http://newtalk.tw/news/2014/09/09/51224.html
+nt2014090951222 http://newtalk.tw/news/2014/09/09/51222.html
+nt2014090951219 http://newtalk.tw/news/2014/09/09/51219.html
+nt2014090951213 http://newtalk.tw/news/2014/09/09/51213.html
+nt2014090951205 http://newtalk.tw/news/2014/09/09/51205.html
+nt2014090951204 http://newtalk.tw/news/2014/09/09/51204.html
+20
+nt2014090951199 http://newtalk.tw/news/2014/09/09/51199.html
+nt2014090951197 http://newtalk.tw/news/2014/09/09/51197.html
+nt2014090951196 http://newtalk.tw/news/2014/09/09/51196.html
+nt2014090951193 http://newtalk.tw/news/2014/09/09/51193.html
+nt2014090951187 http://newtalk.tw/news/2014/09/09/51187.html
+nt2014090851184 http://newtalk.tw/news/2014/09/08/51184.html
+nt2014090851179 http://newtalk.tw/news/2014/09/08/51179.html
+nt2014090851175 http://newtalk.tw/news/2014/09/08/51175.html
+nt2014090851173 http://newtalk.tw/news/2014/09/08/51173.html
+nt2014090851170 http://newtalk.tw/news/2014/09/08/51170.html
+http://newtalk.tw/news/2014/09/07/51167.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090751167 http://newtalk.tw/news/2014/09/07/51167.html
+nt2014090751165 http://newtalk.tw/news/2014/09/07/51165.html
+nt2014090751162 http://newtalk.tw/news/2014/09/07/51162.html
+nt2014090751159 http://newtalk.tw/news/2014/09/07/51159.html
+nt2014090651158 http://newtalk.tw/news/2014/09/06/51158.html
+http://newtalk.tw/news/2014/09/06/51156.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090651156 http://newtalk.tw/news/2014/09/06/51156.html
+nt2014090651155 http://newtalk.tw/news/2014/09/06/51155.html
+nt2014090651153 http://newtalk.tw/news/2014/09/06/51153.html
+nt2014090651151 http://newtalk.tw/news/2014/09/06/51151.html
+nt2014090651146 http://newtalk.tw/news/2014/09/06/51146.html
+20
+nt2014090551143 http://newtalk.tw/news/2014/09/05/51143.html
+nt2014090551140 http://newtalk.tw/news/2014/09/05/51140.html
+nt2014090551119 http://newtalk.tw/news/2014/09/05/51119.html
+nt2014090551128 http://newtalk.tw/news/2014/09/05/51128.html
+nt2014090551123 http://newtalk.tw/news/2014/09/05/51123.html
+nt2014090551126 http://newtalk.tw/news/2014/09/05/51126.html
+nt2014090551122 http://newtalk.tw/news/2014/09/05/51122.html
+nt2014090551120 http://newtalk.tw/news/2014/09/05/51120.html
+nt2014090551118 http://newtalk.tw/news/2014/09/05/51118.html
+nt2014090551114 http://newtalk.tw/news/2014/09/05/51114.html
+nt2014090551107 http://newtalk.tw/news/2014/09/05/51107.html
+nt2014090551103 http://newtalk.tw/news/2014/09/05/51103.html
+nt2014090551099 http://newtalk.tw/news/2014/09/05/51099.html
+nt2014090551096 http://newtalk.tw/news/2014/09/05/51096.html
+nt2014090451092 http://newtalk.tw/news/2014/09/04/51092.html
+nt2014090451091 http://newtalk.tw/news/2014/09/04/51091.html
+nt2014090451089 http://newtalk.tw/news/2014/09/04/51089.html
+nt2014090451077 http://newtalk.tw/news/2014/09/04/51077.html
+nt2014090451073 http://newtalk.tw/news/2014/09/04/51073.html
+nt2014090451067 http://newtalk.tw/news/2014/09/04/51067.html
+20
+nt2014090451068 http://newtalk.tw/news/2014/09/04/51068.html
+nt2014090451054 http://newtalk.tw/news/2014/09/04/51054.html
+nt2014090351040 http://newtalk.tw/news/2014/09/03/51040.html
+nt2014090351036 http://newtalk.tw/news/2014/09/03/51036.html
+http://newtalk.tw/news/2014/09/03/51035.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090351035 http://newtalk.tw/news/2014/09/03/51035.html
+nt2014090351026 http://newtalk.tw/news/2014/09/03/51026.html
+nt2014090351019 http://newtalk.tw/news/2014/09/03/51019.html
+nt2014090351012 http://newtalk.tw/news/2014/09/03/51012.html
+http://newtalk.tw/news/2014/09/03/51013.html  page crawl failed,  insertDocument :: caused by :: 11000 E11000 duplicate key error index: NewTalkDB.posts.$_id_  dup key: { : "nt2014090351013" }
+nt2014090351009 http://newtalk.tw/news/2014/09/03/51009.html
+http://newtalk.tw/news/2014/09/02/51000.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090251000 http://newtalk.tw/news/2014/09/02/51000.html
+nt2014090250992 http://newtalk.tw/news/2014/09/02/50992.html
+http://newtalk.tw/news/2014/09/02/50995.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090250995 http://newtalk.tw/news/2014/09/02/50995.html
+http://newtalk.tw/news/2014/09/02/50990.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090250990 http://newtalk.tw/news/2014/09/02/50990.html
+nt2014090250988 http://newtalk.tw/news/2014/09/02/50988.html
+nt2014090250983 http://newtalk.tw/news/2014/09/02/50983.html
+nt2014090250980 http://newtalk.tw/news/2014/09/02/50980.html
+nt2014090250975 http://newtalk.tw/news/2014/09/02/50975.html
+nt2014090250973 http://newtalk.tw/news/2014/09/02/50973.html
+nt2014090150957 http://newtalk.tw/news/2014/09/01/50957.html
+20
+nt2014090150954 http://newtalk.tw/news/2014/09/01/50954.html
+nt2014090150948 http://newtalk.tw/news/2014/09/01/50948.html
+nt2014090150947 http://newtalk.tw/news/2014/09/01/50947.html
+nt2014090150926 http://newtalk.tw/news/2014/09/01/50926.html
+nt2014083150919 http://newtalk.tw/news/2014/08/31/50919.html
+nt2014083150918 http://newtalk.tw/news/2014/08/31/50918.html
+nt2014083150911 http://newtalk.tw/news/2014/08/31/50911.html
+http://newtalk.tw/news/2014/08/30/50903.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014083050903 http://newtalk.tw/news/2014/08/30/50903.html
+nt2014083050902 http://newtalk.tw/news/2014/08/30/50902.html
+nt2014082950883 http://newtalk.tw/news/2014/08/29/50883.html
+nt2014082950884 http://newtalk.tw/news/2014/08/29/50884.html
+nt2014082950880 http://newtalk.tw/news/2014/08/29/50880.html
+http://newtalk.tw/news/2014/08/29/50875.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014082950875 http://newtalk.tw/news/2014/08/29/50875.html
+nt2014082950870 http://newtalk.tw/news/2014/08/29/50870.html
+nt2014082950869 http://newtalk.tw/news/2014/08/29/50869.html
+nt2014082850847 http://newtalk.tw/news/2014/08/28/50847.html
+nt2014082850846 http://newtalk.tw/news/2014/08/28/50846.html
+nt2014082850845 http://newtalk.tw/news/2014/08/28/50845.html
+nt2014082850840 http://newtalk.tw/news/2014/08/28/50840.html
+nt2014082850808 http://newtalk.tw/news/2014/08/28/50808.html
+20
+nt2014082750798 http://newtalk.tw/news/2014/08/27/50798.html
+nt2014082750802 http://newtalk.tw/news/2014/08/27/50802.html
+nt2014082750787 http://newtalk.tw/news/2014/08/27/50787.html
+nt2014082750789 http://newtalk.tw/news/2014/08/27/50789.html
+nt2014082650779 http://newtalk.tw/news/2014/08/26/50779.html
+nt2014082650772 http://newtalk.tw/news/2014/08/26/50772.html
+nt2014082650771 http://newtalk.tw/news/2014/08/26/50771.html
+nt2014082650765 http://newtalk.tw/news/2014/08/26/50765.html
+nt2014082650761 http://newtalk.tw/news/2014/08/26/50761.html
+nt2014082650750 http://newtalk.tw/news/2014/08/26/50750.html
+nt2014082650746 http://newtalk.tw/news/2014/08/26/50746.html
+nt2014082550735 http://newtalk.tw/news/2014/08/25/50735.html
+nt2014082550728 http://newtalk.tw/news/2014/08/25/50728.html
+nt2014082550721 http://newtalk.tw/news/2014/08/25/50721.html
+nt2014082550725 http://newtalk.tw/news/2014/08/25/50725.html
+nt2014082550716 http://newtalk.tw/news/2014/08/25/50716.html
+nt2014082550708 http://newtalk.tw/news/2014/08/25/50708.html
+nt2014082550704 http://newtalk.tw/news/2014/08/25/50704.html
+nt2014082450700 http://newtalk.tw/news/2014/08/24/50700.html
+nt2014082450695 http://newtalk.tw/news/2014/08/24/50695.html
+1
+nt2014082350670 http://newtalk.tw/news/2014/08/23/50670.html
+媒體
+['http://newtalk.tw/news_list.php?oid=6&p=1']
+17
+nt2014091851567 http://newtalk.tw/news/2014/09/18/51567.html
+nt2014091151294 http://newtalk.tw/news/2014/09/11/51294.html
+nt2014091151287 http://newtalk.tw/news/2014/09/11/51287.html
+nt2014091051262 http://newtalk.tw/news/2014/09/10/51262.html
+nt2014090451065 http://newtalk.tw/news/2014/09/04/51065.html
+nt2014090451064 http://newtalk.tw/news/2014/09/04/51064.html
+nt2014090351034 http://newtalk.tw/news/2014/09/03/51034.html
+nt2014090250965 http://newtalk.tw/news/2014/09/02/50965.html
+nt2014090250960 http://newtalk.tw/news/2014/09/02/50960.html
+nt2014090150944 http://newtalk.tw/news/2014/09/01/50944.html
+nt2014090150935 http://newtalk.tw/news/2014/09/01/50935.html
+nt2014082750799 http://newtalk.tw/news/2014/08/27/50799.html
+nt2014082750795 http://newtalk.tw/news/2014/08/27/50795.html
+nt2014082750793 http://newtalk.tw/news/2014/08/27/50793.html
+nt2014082750784 http://newtalk.tw/news/2014/08/27/50784.html
+http://newtalk.tw/news/2014/08/26/50766.html  page crawl failed,  insertDocument :: caused by :: 11000 E11000 duplicate key error index: NewTalkDB.posts.$_id_  dup key: { : "nt2014082650766" }
+nt2014082550715 http://newtalk.tw/news/2014/08/25/50715.html
+中國
+['http://newtalk.tw/news_list.php?oid=7&p=1', 'http://newtalk.tw/news_list.php?oid=7&p=2']
+20
+nt2014091851568 http://newtalk.tw/news/2014/09/18/51568.html
+nt2014091751521 http://newtalk.tw/news/2014/09/17/51521.html
+nt2014091551426 http://newtalk.tw/news/2014/09/15/51426.html
+http://newtalk.tw/news/2014/09/14/51403.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091451403 http://newtalk.tw/news/2014/09/14/51403.html
+nt2014091351375 http://newtalk.tw/news/2014/09/13/51375.html
+nt2014090951223 http://newtalk.tw/news/2014/09/09/51223.html
+http://newtalk.tw/news/2014/09/09/51188.html  page crawl failed,  insertDocument :: caused by :: 11000 E11000 duplicate key error index: NewTalkDB.posts.$_id_  dup key: { : "nt2014090951188" }
+nt2014090851174 http://newtalk.tw/news/2014/09/08/51174.html
+http://newtalk.tw/news/2014/09/08/51170.html  page crawl failed,  insertDocument :: caused by :: 11000 E11000 duplicate key error index: NewTalkDB.posts.$_id_  dup key: { : "nt2014090851170" }
+nt2014090551121 http://newtalk.tw/news/2014/09/05/51121.html
+nt2014090551115 http://newtalk.tw/news/2014/09/05/51115.html
+http://newtalk.tw/news/2014/09/04/51083.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090451083 http://newtalk.tw/news/2014/09/04/51083.html
+http://newtalk.tw/news/2014/09/04/51074.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090451074 http://newtalk.tw/news/2014/09/04/51074.html
+nt2014090451071 http://newtalk.tw/news/2014/09/04/51071.html
+nt2014090451066 http://newtalk.tw/news/2014/09/04/51066.html
+nt2014090351039 http://newtalk.tw/news/2014/09/03/51039.html
+http://newtalk.tw/news/2014/09/03/51028.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090351028 http://newtalk.tw/news/2014/09/03/51028.html
+nt2014090351015 http://newtalk.tw/news/2014/09/03/51015.html
+nt2014090351003 http://newtalk.tw/news/2014/09/03/51003.html
+nt2014090250982 http://newtalk.tw/news/2014/09/02/50982.html
+20
+nt2014090250981 http://newtalk.tw/news/2014/09/02/50981.html
+nt2014090150952 http://newtalk.tw/news/2014/09/01/50952.html
+nt2014090150950 http://newtalk.tw/news/2014/09/01/50950.html
+nt2014090150953 http://newtalk.tw/news/2014/09/01/50953.html
+nt2014090150943 http://newtalk.tw/news/2014/09/01/50943.html
+nt2014090150939 http://newtalk.tw/news/2014/09/01/50939.html
+nt2014083150924 http://newtalk.tw/news/2014/08/31/50924.html
+nt2014083150920 http://newtalk.tw/news/2014/08/31/50920.html
+nt2014083150912 http://newtalk.tw/news/2014/08/31/50912.html
+nt2014083050910 http://newtalk.tw/news/2014/08/30/50910.html
+http://newtalk.tw/news/2014/08/30/50909.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014083050909 http://newtalk.tw/news/2014/08/30/50909.html
+nt2014082950888 http://newtalk.tw/news/2014/08/29/50888.html
+nt2014082950871 http://newtalk.tw/news/2014/08/29/50871.html
+nt2014082850844 http://newtalk.tw/news/2014/08/28/50844.html
+nt2014082850818 http://newtalk.tw/news/2014/08/28/50818.html
+http://newtalk.tw/news/2014/08/27/50807.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014082750807 http://newtalk.tw/news/2014/08/27/50807.html
+nt2014082750806 http://newtalk.tw/news/2014/08/27/50806.html
+http://newtalk.tw/news/2014/08/26/50763.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014082650763 http://newtalk.tw/news/2014/08/26/50763.html
+nt2014082550730 http://newtalk.tw/news/2014/08/25/50730.html
+http://newtalk.tw/news/2014/08/23/50684.html  page crawl failed,  insertDocument :: caused by :: 11000 E11000 duplicate key error index: NewTalkDB.posts.$_id_  dup key: { : "nt2014082350684" }
+科技
+['http://newtalk.tw/news_list.php?oid=8&p=1']
+19
+nt2014091851553 http://newtalk.tw/news/2014/09/18/51553.html
+http://newtalk.tw/news/2014/09/17/51518.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091751518 http://newtalk.tw/news/2014/09/17/51518.html
+http://newtalk.tw/news/2014/09/16/51443.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091651443 http://newtalk.tw/news/2014/09/16/51443.html
+nt2014091251329 http://newtalk.tw/news/2014/09/12/51329.html
+nt2014091151316 http://newtalk.tw/news/2014/09/11/51316.html
+http://newtalk.tw/news/2014/09/10/51228.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091051228 http://newtalk.tw/news/2014/09/10/51228.html
+http://newtalk.tw/news/2014/09/10/51227.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091051227 http://newtalk.tw/news/2014/09/10/51227.html
+http://newtalk.tw/news/2014/09/09/51206.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090951206 http://newtalk.tw/news/2014/09/09/51206.html
+nt2014090551116 http://newtalk.tw/news/2014/09/05/51116.html
+http://newtalk.tw/news/2014/09/04/51076.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090451076 http://newtalk.tw/news/2014/09/04/51076.html
+nt2014090351005 http://newtalk.tw/news/2014/09/03/51005.html
+http://newtalk.tw/news/2014/09/02/50984.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090250984 http://newtalk.tw/news/2014/09/02/50984.html
+nt2014090250966 http://newtalk.tw/news/2014/09/02/50966.html
+nt2014090150946 http://newtalk.tw/news/2014/09/01/50946.html
+nt2014090150928 http://newtalk.tw/news/2014/09/01/50928.html
+http://newtalk.tw/news/2014/08/29/50877.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014082950877 http://newtalk.tw/news/2014/08/29/50877.html
+nt2014082950868 http://newtalk.tw/news/2014/08/29/50868.html
+nt2014082950852 http://newtalk.tw/news/2014/08/29/50852.html
+nt2014082850817 http://newtalk.tw/news/2014/08/28/50817.html
+環保
+['http://newtalk.tw/news_list.php?oid=9&p=1']
+14
+nt2014091851468 http://newtalk.tw/news/2014/09/18/51468.html
+nt2014091651451 http://newtalk.tw/news/2014/09/16/51451.html
+http://newtalk.tw/news/2014/09/11/51281.html  page crawl failed,  insertDocument :: caused by :: 11000 E11000 duplicate key error index: NewTalkDB.posts.$_id_  dup key: { : "nt2014091151281" }
+nt2014091151279 http://newtalk.tw/news/2014/09/11/51279.html
+nt2014091051230 http://newtalk.tw/news/2014/09/10/51230.html
+nt2014090951216 http://newtalk.tw/news/2014/09/09/51216.html
+http://newtalk.tw/news/2014/09/04/51070.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090451070 http://newtalk.tw/news/2014/09/04/51070.html
+nt2014090451063 http://newtalk.tw/news/2014/09/04/51063.html
+nt2014082950873 http://newtalk.tw/news/2014/08/29/50873.html
+nt2014082850827 http://newtalk.tw/news/2014/08/28/50827.html
+nt2014082850820 http://newtalk.tw/news/2014/08/28/50820.html
+nt2014082650768 http://newtalk.tw/news/2014/08/26/50768.html
+nt2014082650741 http://newtalk.tw/news/2014/08/26/50741.html
+nt2014082450694 http://newtalk.tw/news/2014/08/24/50694.html
+娛樂
+['http://newtalk.tw/news_list.php?oid=10&p=1']
+0
+藝文
+['http://newtalk.tw/news_list.php?oid=11&p=1']
+13
+nt2014091851569 http://newtalk.tw/news/2014/09/18/51569.html
+nt2014091851558 http://newtalk.tw/news/2014/09/18/51558.html
+nt2014091851559 http://newtalk.tw/news/2014/09/18/51559.html
+nt2014091851538 http://newtalk.tw/news/2014/09/18/51538.html
+http://newtalk.tw/news/2014/09/15/51410.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091551410 http://newtalk.tw/news/2014/09/15/51410.html
+nt2014091451405 http://newtalk.tw/news/2014/09/14/51405.html
+nt2014091251366 http://newtalk.tw/news/2014/09/12/51366.html
+nt2014091251330 http://newtalk.tw/news/2014/09/12/51330.html
+nt2014091151311 http://newtalk.tw/news/2014/09/11/51311.html
+nt2014091151293 http://newtalk.tw/news/2014/09/11/51293.html
+nt2014090551098 http://newtalk.tw/news/2014/09/05/51098.html
+nt2014083050908 http://newtalk.tw/news/2014/08/30/50908.html
+nt2014082650754 http://newtalk.tw/news/2014/08/26/50754.html
+地方
+['http://newtalk.tw/news_list.php?oid=14&p=1', 'http://newtalk.tw/news_list.php?oid=14&p=2', 'http://newtalk.tw/news_list.php?oid=14&p=3', 'http://newtalk.tw/news_list.php?oid=14&p=4', 'http://newtalk.tw/news_list.php?oid=14&p=5', 'http://newtalk.tw/news_list.php?oid=14&p=6', 'http://newtalk.tw/news_list.php?oid=14&p=7', 'http://newtalk.tw/news_list.php?oid=14&p=8', 'http://newtalk.tw/news_list.php?oid=14&p=9', 'http://newtalk.tw/news_list.php?oid=14&p=10', 'http://newtalk.tw/news_list.php?oid=14&p=11', 'http://newtalk.tw/news_list.php?oid=14&p=12', 'http://newtalk.tw/news_list.php?oid=14&p=13', 'http://newtalk.tw/news_list.php?oid=14&p=14', 'http://newtalk.tw/news_list.php?oid=14&p=15']
+20
+nt2014091851572 http://newtalk.tw/news/2014/09/18/51572.html
+nt2014091851571 http://newtalk.tw/news/2014/09/18/51571.html
+nt2014091851570 http://newtalk.tw/news/2014/09/18/51570.html
+nt2014091851562 http://newtalk.tw/news/2014/09/18/51562.html
+nt2014091851563 http://newtalk.tw/news/2014/09/18/51563.html
+nt2014091851560 http://newtalk.tw/news/2014/09/18/51560.html
+nt2014091851554 http://newtalk.tw/news/2014/09/18/51554.html
+nt2014091851550 http://newtalk.tw/news/2014/09/18/51550.html
+nt2014091851548 http://newtalk.tw/news/2014/09/18/51548.html
+nt2014091851547 http://newtalk.tw/news/2014/09/18/51547.html
+nt2014091851543 http://newtalk.tw/news/2014/09/18/51543.html
+nt2014091851544 http://newtalk.tw/news/2014/09/18/51544.html
+nt2014091851537 http://newtalk.tw/news/2014/09/18/51537.html
+nt2014091851534 http://newtalk.tw/news/2014/09/18/51534.html
+nt2014091851529 http://newtalk.tw/news/2014/09/18/51529.html
+nt2014091751527 http://newtalk.tw/news/2014/09/17/51527.html
+nt2014091751526 http://newtalk.tw/news/2014/09/17/51526.html
+nt2014091751524 http://newtalk.tw/news/2014/09/17/51524.html
+nt2014091751523 http://newtalk.tw/news/2014/09/17/51523.html
+http://newtalk.tw/news/2014/09/17/51522.html  page crawl failed,  insertDocument :: caused by :: 11000 E11000 duplicate key error index: NewTalkDB.posts.$_id_  dup key: { : "nt2014091751522" }
+20
+nt2014091751510 http://newtalk.tw/news/2014/09/17/51510.html
+nt2014091751506 http://newtalk.tw/news/2014/09/17/51506.html
+nt2014091751493 http://newtalk.tw/news/2014/09/17/51493.html
+nt2014091751502 http://newtalk.tw/news/2014/09/17/51502.html
+nt2014091751498 http://newtalk.tw/news/2014/09/17/51498.html
+nt2014091751500 http://newtalk.tw/news/2014/09/17/51500.html
+nt2014091751495 http://newtalk.tw/news/2014/09/17/51495.html
+http://newtalk.tw/news/2014/09/16/51482.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091651482 http://newtalk.tw/news/2014/09/16/51482.html
+nt2014091651481 http://newtalk.tw/news/2014/09/16/51481.html
+nt2014091651480 http://newtalk.tw/news/2014/09/16/51480.html
+http://newtalk.tw/news/2014/09/16/51476.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091651476 http://newtalk.tw/news/2014/09/16/51476.html
+nt2014091651477 http://newtalk.tw/news/2014/09/16/51477.html
+nt2014091651475 http://newtalk.tw/news/2014/09/16/51475.html
+nt2014091651463 http://newtalk.tw/news/2014/09/16/51463.html
+nt2014091651464 http://newtalk.tw/news/2014/09/16/51464.html
+nt2014091651459 http://newtalk.tw/news/2014/09/16/51459.html
+nt2014091651458 http://newtalk.tw/news/2014/09/16/51458.html
+nt2014091651455 http://newtalk.tw/news/2014/09/16/51455.html
+nt2014091651454 http://newtalk.tw/news/2014/09/16/51454.html
+nt2014091651452 http://newtalk.tw/news/2014/09/16/51452.html
+20
+nt2014091651447 http://newtalk.tw/news/2014/09/16/51447.html
+nt2014091651446 http://newtalk.tw/news/2014/09/16/51446.html
+nt2014091651449 http://newtalk.tw/news/2014/09/16/51449.html
+nt2014091551441 http://newtalk.tw/news/2014/09/15/51441.html
+http://newtalk.tw/news/2014/09/15/51440.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091551440 http://newtalk.tw/news/2014/09/15/51440.html
+nt2014091551439 http://newtalk.tw/news/2014/09/15/51439.html
+nt2014091551438 http://newtalk.tw/news/2014/09/15/51438.html
+nt2014091551429 http://newtalk.tw/news/2014/09/15/51429.html
+nt2014091551430 http://newtalk.tw/news/2014/09/15/51430.html
+nt2014091551424 http://newtalk.tw/news/2014/09/15/51424.html
+nt2014091551420 http://newtalk.tw/news/2014/09/15/51420.html
+nt2014091551415 http://newtalk.tw/news/2014/09/15/51415.html
+nt2014091451407 http://newtalk.tw/news/2014/09/14/51407.html
+nt2014091451402 http://newtalk.tw/news/2014/09/14/51402.html
+nt2014091451401 http://newtalk.tw/news/2014/09/14/51401.html
+http://newtalk.tw/news/2014/09/14/51395.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091451395 http://newtalk.tw/news/2014/09/14/51395.html
+nt2014091451393 http://newtalk.tw/news/2014/09/14/51393.html
+nt2014091451391 http://newtalk.tw/news/2014/09/14/51391.html
+nt2014091351389 http://newtalk.tw/news/2014/09/13/51389.html
+nt2014091351388 http://newtalk.tw/news/2014/09/13/51388.html
+20
+nt2014091351385 http://newtalk.tw/news/2014/09/13/51385.html
+nt2014091351380 http://newtalk.tw/news/2014/09/13/51380.html
+nt2014091351378 http://newtalk.tw/news/2014/09/13/51378.html
+nt2014091351373 http://newtalk.tw/news/2014/09/13/51373.html
+nt2014091251371 http://newtalk.tw/news/2014/09/12/51371.html
+nt2014091251370 http://newtalk.tw/news/2014/09/12/51370.html
+nt2014091251355 http://newtalk.tw/news/2014/09/12/51355.html
+nt2014091251352 http://newtalk.tw/news/2014/09/12/51352.html
+nt2014091251351 http://newtalk.tw/news/2014/09/12/51351.html
+nt2014091251339 http://newtalk.tw/news/2014/09/12/51339.html
+nt2014091251347 http://newtalk.tw/news/2014/09/12/51347.html
+nt2014091251334 http://newtalk.tw/news/2014/09/12/51334.html
+nt2014091251344 http://newtalk.tw/news/2014/09/12/51344.html
+nt2014091251336 http://newtalk.tw/news/2014/09/12/51336.html
+nt2014091251337 http://newtalk.tw/news/2014/09/12/51337.html
+nt2014091251338 http://newtalk.tw/news/2014/09/12/51338.html
+http://newtalk.tw/news/2014/09/12/51333.html  image download failed,  'NoneType' object has no attribute 'find'
+http://newtalk.tw/news/2014/09/12/51333.html  page crawl failed,  insertDocument :: caused by :: 11000 E11000 duplicate key error index: NewTalkDB.posts.$_id_  dup key: { : "nt2014091251333" }
+nt2014091251328 http://newtalk.tw/news/2014/09/12/51328.html
+nt2014091251326 http://newtalk.tw/news/2014/09/12/51326.html
+nt2014091151325 http://newtalk.tw/news/2014/09/11/51325.html
+20
+http://newtalk.tw/news/2014/09/11/51323.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091151323 http://newtalk.tw/news/2014/09/11/51323.html
+nt2014091151322 http://newtalk.tw/news/2014/09/11/51322.html
+http://newtalk.tw/news/2014/09/11/51319.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091151319 http://newtalk.tw/news/2014/09/11/51319.html
+nt2014091151315 http://newtalk.tw/news/2014/09/11/51315.html
+nt2014091151313 http://newtalk.tw/news/2014/09/11/51313.html
+nt2014091151308 http://newtalk.tw/news/2014/09/11/51308.html
+nt2014091151307 http://newtalk.tw/news/2014/09/11/51307.html
+nt2014091151302 http://newtalk.tw/news/2014/09/11/51302.html
+nt2014091151303 http://newtalk.tw/news/2014/09/11/51303.html
+nt2014091151296 http://newtalk.tw/news/2014/09/11/51296.html
+http://newtalk.tw/news/2014/09/11/51292.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091151292 http://newtalk.tw/news/2014/09/11/51292.html
+nt2014091151290 http://newtalk.tw/news/2014/09/11/51290.html
+nt2014091151289 http://newtalk.tw/news/2014/09/11/51289.html
+nt2014091151284 http://newtalk.tw/news/2014/09/11/51284.html
+http://newtalk.tw/news/2014/09/11/51277.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091151277 http://newtalk.tw/news/2014/09/11/51277.html
+nt2014091051276 http://newtalk.tw/news/2014/09/10/51276.html
+http://newtalk.tw/news/2014/09/10/51273.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091051273 http://newtalk.tw/news/2014/09/10/51273.html
+http://newtalk.tw/news/2014/09/10/51275.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091051275 http://newtalk.tw/news/2014/09/10/51275.html
+nt2014091051274 http://newtalk.tw/news/2014/09/10/51274.html
+http://newtalk.tw/news/2014/09/10/51270.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014091051270 http://newtalk.tw/news/2014/09/10/51270.html
+20
+nt2014091051260 http://newtalk.tw/news/2014/09/10/51260.html
+nt2014091051261 http://newtalk.tw/news/2014/09/10/51261.html
+nt2014091051253 http://newtalk.tw/news/2014/09/10/51253.html
+nt2014091051254 http://newtalk.tw/news/2014/09/10/51254.html
+nt2014091051239 http://newtalk.tw/news/2014/09/10/51239.html
+nt2014091051241 http://newtalk.tw/news/2014/09/10/51241.html
+nt2014091051236 http://newtalk.tw/news/2014/09/10/51236.html
+nt2014091051238 http://newtalk.tw/news/2014/09/10/51238.html
+nt2014091051232 http://newtalk.tw/news/2014/09/10/51232.html
+nt2014090951225 http://newtalk.tw/news/2014/09/09/51225.html
+nt2014090951221 http://newtalk.tw/news/2014/09/09/51221.html
+nt2014090951220 http://newtalk.tw/news/2014/09/09/51220.html
+nt2014090951215 http://newtalk.tw/news/2014/09/09/51215.html
+nt2014090951212 http://newtalk.tw/news/2014/09/09/51212.html
+nt2014090951203 http://newtalk.tw/news/2014/09/09/51203.html
+nt2014090951207 http://newtalk.tw/news/2014/09/09/51207.html
+nt2014090951202 http://newtalk.tw/news/2014/09/09/51202.html
+nt2014090951198 http://newtalk.tw/news/2014/09/09/51198.html
+http://newtalk.tw/news/2014/09/09/51197.html  page crawl failed,  insertDocument :: caused by :: 11000 E11000 duplicate key error index: NewTalkDB.posts.$_id_  dup key: { : "nt2014090951197" }
+nt2014090951192 http://newtalk.tw/news/2014/09/09/51192.html
+20
+http://newtalk.tw/news/2014/09/08/51182.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090851182 http://newtalk.tw/news/2014/09/08/51182.html
+nt2014090851183 http://newtalk.tw/news/2014/09/08/51183.html
+nt2014090851181 http://newtalk.tw/news/2014/09/08/51181.html
+nt2014090851180 http://newtalk.tw/news/2014/09/08/51180.html
+http://newtalk.tw/news/2014/09/08/51178.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090851178 http://newtalk.tw/news/2014/09/08/51178.html
+nt2014090851176 http://newtalk.tw/news/2014/09/08/51176.html
+nt2014090851171 http://newtalk.tw/news/2014/09/08/51171.html
+nt2014090751169 http://newtalk.tw/news/2014/09/07/51169.html
+http://newtalk.tw/news/2014/09/07/51166.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014090751166 http://newtalk.tw/news/2014/09/07/51166.html
+http://newtalk.tw/news/2014/09/07/51165.html  page crawl failed,  insertDocument :: caused by :: 11000 E11000 duplicate key error index: NewTalkDB.posts.$_id_  dup key: { : "nt2014090751165" }
+nt2014090751164 http://newtalk.tw/news/2014/09/07/51164.html
+nt2014090751163 http://newtalk.tw/news/2014/09/07/51163.html
+nt2014090751161 http://newtalk.tw/news/2014/09/07/51161.html
+nt2014090751160 http://newtalk.tw/news/2014/09/07/51160.html
+nt2014090651157 http://newtalk.tw/news/2014/09/06/51157.html
+nt2014090651152 http://newtalk.tw/news/2014/09/06/51152.html
+nt2014090651150 http://newtalk.tw/news/2014/09/06/51150.html
+nt2014090651149 http://newtalk.tw/news/2014/09/06/51149.html
+nt2014090651147 http://newtalk.tw/news/2014/09/06/51147.html
+nt2014090651148 http://newtalk.tw/news/2014/09/06/51148.html
+20
+nt2014090551144 http://newtalk.tw/news/2014/09/05/51144.html
+nt2014090551142 http://newtalk.tw/news/2014/09/05/51142.html
+nt2014090551139 http://newtalk.tw/news/2014/09/05/51139.html
+nt2014090551138 http://newtalk.tw/news/2014/09/05/51138.html
+nt2014090551136 http://newtalk.tw/news/2014/09/05/51136.html
+nt2014090551135 http://newtalk.tw/news/2014/09/05/51135.html
+nt2014090551134 http://newtalk.tw/news/2014/09/05/51134.html
+nt2014090551133 http://newtalk.tw/news/2014/09/05/51133.html
+nt2014090551124 http://newtalk.tw/news/2014/09/05/51124.html
+nt2014090551129 http://newtalk.tw/news/2014/09/05/51129.html
+http://newtalk.tw/news/2014/09/05/51128.html  page crawl failed,  insertDocument :: caused by :: 11000 E11000 duplicate key error index: NewTalkDB.posts.$_id_  dup key: { : "nt2014090551128" }
+nt2014090551125 http://newtalk.tw/news/2014/09/05/51125.html
+nt2014090551117 http://newtalk.tw/news/2014/09/05/51117.html
+http://newtalk.tw/news/2014/09/05/51114.html  page crawl failed,  insertDocument :: caused by :: 11000 E11000 duplicate key error index: NewTalkDB.posts.$_id_  dup key: { : "nt2014090551114" }
+nt2014090551111 http://newtalk.tw/news/2014/09/05/51111.html
+nt2014090551112 http://newtalk.tw/news/2014/09/05/51112.html
+nt2014090551109 http://newtalk.tw/news/2014/09/05/51109.html
+nt2014090551102 http://newtalk.tw/news/2014/09/05/51102.html
+nt2014090551105 http://newtalk.tw/news/2014/09/05/51105.html
+nt2014090551108 http://newtalk.tw/news/2014/09/05/51108.html
+20
+nt2014090451095 http://newtalk.tw/news/2014/09/04/51095.html
+nt2014090451093 http://newtalk.tw/news/2014/09/04/51093.html
+nt2014090451087 http://newtalk.tw/news/2014/09/04/51087.html
+nt2014090451085 http://newtalk.tw/news/2014/09/04/51085.html
+http://newtalk.tw/news/2014/09/04/51086.html  page crawl failed,  insertDocument :: caused by :: 11000 E11000 duplicate key error index: NewTalkDB.posts.$_id_  dup key: { : "nt2014090451086" }
+nt2014090451081 http://newtalk.tw/news/2014/09/04/51081.html
+nt2014090451075 http://newtalk.tw/news/2014/09/04/51075.html
+nt2014090451072 http://newtalk.tw/news/2014/09/04/51072.html
+nt2014090451059 http://newtalk.tw/news/2014/09/04/51059.html
+nt2014090451060 http://newtalk.tw/news/2014/09/04/51060.html
+nt2014090451056 http://newtalk.tw/news/2014/09/04/51056.html
+nt2014090451055 http://newtalk.tw/news/2014/09/04/51055.html
+nt2014090451052 http://newtalk.tw/news/2014/09/04/51052.html
+nt2014090451045 http://newtalk.tw/news/2014/09/04/51045.html
+nt2014090351044 http://newtalk.tw/news/2014/09/03/51044.html
+nt2014090351043 http://newtalk.tw/news/2014/09/03/51043.html
+nt2014090351042 http://newtalk.tw/news/2014/09/03/51042.html
+nt2014090351038 http://newtalk.tw/news/2014/09/03/51038.html
+http://newtalk.tw/news/2014/09/03/51032.html  page crawl failed,  insertDocument :: caused by :: 11000 E11000 duplicate key error index: NewTalkDB.posts.$_id_  dup key: { : "nt2014090351032" }
+nt2014090351037 http://newtalk.tw/news/2014/09/03/51037.html
+20
+nt2014090351030 http://newtalk.tw/news/2014/09/03/51030.html
+nt2014090351025 http://newtalk.tw/news/2014/09/03/51025.html
+nt2014090351021 http://newtalk.tw/news/2014/09/03/51021.html
+nt2014090351022 http://newtalk.tw/news/2014/09/03/51022.html
+nt2014090351018 http://newtalk.tw/news/2014/09/03/51018.html
+nt2014090351016 http://newtalk.tw/news/2014/09/03/51016.html
+nt2014090351010 http://newtalk.tw/news/2014/09/03/51010.html
+nt2014090251002 http://newtalk.tw/news/2014/09/02/51002.html
+nt2014090251001 http://newtalk.tw/news/2014/09/02/51001.html
+nt2014090250999 http://newtalk.tw/news/2014/09/02/50999.html
+nt2014090250998 http://newtalk.tw/news/2014/09/02/50998.html
+nt2014090250996 http://newtalk.tw/news/2014/09/02/50996.html
+nt2014090250985 http://newtalk.tw/news/2014/09/02/50985.html
+nt2014090250993 http://newtalk.tw/news/2014/09/02/50993.html
+nt2014090250991 http://newtalk.tw/news/2014/09/02/50991.html
+nt2014090250987 http://newtalk.tw/news/2014/09/02/50987.html
+nt2014090250979 http://newtalk.tw/news/2014/09/02/50979.html
+nt2014090250978 http://newtalk.tw/news/2014/09/02/50978.html
+nt2014090250977 http://newtalk.tw/news/2014/09/02/50977.html
+nt2014090250974 http://newtalk.tw/news/2014/09/02/50974.html
+20
+nt2014090250972 http://newtalk.tw/news/2014/09/02/50972.html
+nt2014090250968 http://newtalk.tw/news/2014/09/02/50968.html
+nt2014090250964 http://newtalk.tw/news/2014/09/02/50964.html
+nt2014090150963 http://newtalk.tw/news/2014/09/01/50963.html
+nt2014090150962 http://newtalk.tw/news/2014/09/01/50962.html
+nt2014090150961 http://newtalk.tw/news/2014/09/01/50961.html
+nt2014090150959 http://newtalk.tw/news/2014/09/01/50959.html
+nt2014090150949 http://newtalk.tw/news/2014/09/01/50949.html
+nt2014090150945 http://newtalk.tw/news/2014/09/01/50945.html
+nt2014090150942 http://newtalk.tw/news/2014/09/01/50942.html
+nt2014090150938 http://newtalk.tw/news/2014/09/01/50938.html
+nt2014090150932 http://newtalk.tw/news/2014/09/01/50932.html
+http://newtalk.tw/news/2014/08/31/50925.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014083150925 http://newtalk.tw/news/2014/08/31/50925.html
+http://newtalk.tw/news/2014/08/31/50923.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014083150923 http://newtalk.tw/news/2014/08/31/50923.html
+nt2014083150922 http://newtalk.tw/news/2014/08/31/50922.html
+nt2014083150921 http://newtalk.tw/news/2014/08/31/50921.html
+nt2014083150917 http://newtalk.tw/news/2014/08/31/50917.html
+nt2014083150916 http://newtalk.tw/news/2014/08/31/50916.html
+nt2014083150915 http://newtalk.tw/news/2014/08/31/50915.html
+nt2014083150914 http://newtalk.tw/news/2014/08/31/50914.html
+20
+nt2014083150913 http://newtalk.tw/news/2014/08/31/50913.html
+nt2014083050907 http://newtalk.tw/news/2014/08/30/50907.html
+nt2014083050905 http://newtalk.tw/news/2014/08/30/50905.html
+nt2014083050904 http://newtalk.tw/news/2014/08/30/50904.html
+nt2014083050901 http://newtalk.tw/news/2014/08/30/50901.html
+nt2014083050898 http://newtalk.tw/news/2014/08/30/50898.html
+nt2014083050897 http://newtalk.tw/news/2014/08/30/50897.html
+nt2014083050896 http://newtalk.tw/news/2014/08/30/50896.html
+nt2014083050895 http://newtalk.tw/news/2014/08/30/50895.html
+nt2014082950891 http://newtalk.tw/news/2014/08/29/50891.html
+nt2014082950890 http://newtalk.tw/news/2014/08/29/50890.html
+http://newtalk.tw/news/2014/08/29/50887.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014082950887 http://newtalk.tw/news/2014/08/29/50887.html
+nt2014082950881 http://newtalk.tw/news/2014/08/29/50881.html
+http://newtalk.tw/news/2014/08/29/50878.html  page crawl failed,  insertDocument :: caused by :: 11000 E11000 duplicate key error index: NewTalkDB.posts.$_id_  dup key: { : "nt2014082950878" }
+nt2014082950876 http://newtalk.tw/news/2014/08/29/50876.html
+nt2014082950863 http://newtalk.tw/news/2014/08/29/50863.html
+nt2014082950862 http://newtalk.tw/news/2014/08/29/50862.html
+nt2014082850836 http://newtalk.tw/news/2014/08/28/50836.html
+nt2014082850834 http://newtalk.tw/news/2014/08/28/50834.html
+nt2014082850833 http://newtalk.tw/news/2014/08/28/50833.html
+20
+nt2014082850826 http://newtalk.tw/news/2014/08/28/50826.html
+nt2014082850828 http://newtalk.tw/news/2014/08/28/50828.html
+nt2014082850822 http://newtalk.tw/news/2014/08/28/50822.html
+nt2014082750815 http://newtalk.tw/news/2014/08/27/50815.html
+nt2014082750814 http://newtalk.tw/news/2014/08/27/50814.html
+nt2014082750813 http://newtalk.tw/news/2014/08/27/50813.html
+nt2014082750804 http://newtalk.tw/news/2014/08/27/50804.html
+http://newtalk.tw/news/2014/08/27/50803.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014082750803 http://newtalk.tw/news/2014/08/27/50803.html
+nt2014082750791 http://newtalk.tw/news/2014/08/27/50791.html
+nt2014082750786 http://newtalk.tw/news/2014/08/27/50786.html
+nt2014082650778 http://newtalk.tw/news/2014/08/26/50778.html
+nt2014082650777 http://newtalk.tw/news/2014/08/26/50777.html
+nt2014082650776 http://newtalk.tw/news/2014/08/26/50776.html
+http://newtalk.tw/news/2014/08/26/50775.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014082650775 http://newtalk.tw/news/2014/08/26/50775.html
+nt2014082650774 http://newtalk.tw/news/2014/08/26/50774.html
+nt2014082650764 http://newtalk.tw/news/2014/08/26/50764.html
+nt2014082650769 http://newtalk.tw/news/2014/08/26/50769.html
+nt2014082650756 http://newtalk.tw/news/2014/08/26/50756.html
+nt2014082650759 http://newtalk.tw/news/2014/08/26/50759.html
+nt2014082650757 http://newtalk.tw/news/2014/08/26/50757.html
+20
+nt2014082650758 http://newtalk.tw/news/2014/08/26/50758.html
+nt2014082650752 http://newtalk.tw/news/2014/08/26/50752.html
+nt2014082650755 http://newtalk.tw/news/2014/08/26/50755.html
+nt2014082650748 http://newtalk.tw/news/2014/08/26/50748.html
+nt2014082650753 http://newtalk.tw/news/2014/08/26/50753.html
+nt2014082650749 http://newtalk.tw/news/2014/08/26/50749.html
+nt2014082650742 http://newtalk.tw/news/2014/08/26/50742.html
+nt2014082650747 http://newtalk.tw/news/2014/08/26/50747.html
+nt2014082550736 http://newtalk.tw/news/2014/08/25/50736.html
+nt2014082550733 http://newtalk.tw/news/2014/08/25/50733.html
+nt2014082550720 http://newtalk.tw/news/2014/08/25/50720.html
+nt2014082550712 http://newtalk.tw/news/2014/08/25/50712.html
+nt2014082550711 http://newtalk.tw/news/2014/08/25/50711.html
+nt2014082450703 http://newtalk.tw/news/2014/08/24/50703.html
+nt2014082450702 http://newtalk.tw/news/2014/08/24/50702.html
+nt2014082450701 http://newtalk.tw/news/2014/08/24/50701.html
+nt2014082450699 http://newtalk.tw/news/2014/08/24/50699.html
+nt2014082450698 http://newtalk.tw/news/2014/08/24/50698.html
+nt2014082450697 http://newtalk.tw/news/2014/08/24/50697.html
+nt2014082450696 http://newtalk.tw/news/2014/08/24/50696.html
+10
+http://newtalk.tw/news/2014/08/24/50691.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014082450691 http://newtalk.tw/news/2014/08/24/50691.html
+http://newtalk.tw/news/2014/08/24/50689.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014082450689 http://newtalk.tw/news/2014/08/24/50689.html
+nt2014082450687 http://newtalk.tw/news/2014/08/24/50687.html
+nt2014082350682 http://newtalk.tw/news/2014/08/23/50682.html
+nt2014082350681 http://newtalk.tw/news/2014/08/23/50681.html
+nt2014082350678 http://newtalk.tw/news/2014/08/23/50678.html
+nt2014082350677 http://newtalk.tw/news/2014/08/23/50677.html
+nt2014082350676 http://newtalk.tw/news/2014/08/23/50676.html
+http://newtalk.tw/news/2014/08/23/50673.html  image download failed,  'NoneType' object has no attribute 'find'
+nt2014082350673 http://newtalk.tw/news/2014/08/23/50673.html
+nt2014082350672 http://newtalk.tw/news/2014/08/23/50672.html
